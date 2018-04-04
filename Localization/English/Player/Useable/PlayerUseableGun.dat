@@ -1,0 +1,16 @@
+Sight_Hook_Tooltip 瞄准镜
+Tactical_Hook_Tooltip 战术挂件
+Grip_Hook_Tooltip 握把
+Barrel_Hook_Tooltip 枪管
+Magazine_Hook_Tooltip 弹匣
+
+Ammo {0}/{1}
+Firemode {0} [{1}]
+Attach {0} [{1}]
+
+None 没有弹匣
+
+Safety 安全模式
+Semi 半自动
+Auto 全自动
+Burst 三连发模式

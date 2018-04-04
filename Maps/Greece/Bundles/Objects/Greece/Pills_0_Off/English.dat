@@ -1,0 +1,4 @@
+Name 药片盒（未开启） #1
+
+Interactability_Condition_0 你已经拿着一些药品了！
+Interact 捡起止痛药[{0}]

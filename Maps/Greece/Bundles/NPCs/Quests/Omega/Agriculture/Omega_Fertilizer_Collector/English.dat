@@ -1,0 +1,4 @@
+Name 肥料搬运工 I
+Description <color=uncommon>农民Pan</color> 需要你帮忙搬运那些在仓库中的大袋肥料。
+
+Condition_0 搬运肥料 {0}/{1}

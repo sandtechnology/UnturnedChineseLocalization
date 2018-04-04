@@ -1,0 +1,6 @@
+Name 找到Pete的新工具！
+Description Pete弄坏了他的一些工具，所以他需要你给他找一些新的。
+
+Condition_0 找到锯子 {0}/1
+Condition_1 找到铁锤 {0}/1
+Condition_2 找到钉子 {0}/5

@@ -1,0 +1,142 @@
+Space 背包/物品容器已满
+Item 捡起 {0} [{1}]
+Vehicle_Enter 进入 {0} [{1}]
+Vehicle_Exit 离开 [{0}]
+Vehicle_Swap 切换座位 [F1-F{0}]
+Reload 装弹 [{0}]
+Safety 安全模式 [{0}]
+Light 打开/关闭灯光 [{0}]
+Laser 打开/关闭镭射 [{0}]
+Rangefinder 打开/关闭测距仪 [{0}]
+Enemy {0}
+Door_Open 打开 [{0}]
+Door_Close 关闭 [{0}]
+Locked 已被上锁
+Blocked 缺少空间
+Pillar 缺少支柱
+Post 缺少矮柱
+Roof 缺少地板
+Wall 缺少墙壁
+Corner 缺少角落
+Ground 缺少地基
+Doorway 缺少门框
+Garage 缺少车库门框
+Window 缺少窗户门框
+Bed_On 绑定 [{0}]
+Bed_Off 解除绑定 [{0}]
+Bed_Claimed 已绑定
+Bounds 你超出了地图边界!
+Experience +{0} 经验
+Storage 存放物品 [{0}]
+Farm 收成 [{0}]
+Grow 生长中
+Soil 缺少土壤
+Fire_On 点火 [{0}]
+Fire_Off 灭火 [{0}]
+Forage 搜寻 [{0}]
+Generator_On 启动 [{0}]
+Generator_Off 停止 [{0}]
+Spot_On 打开 [{0}]
+Spot_Off 关闭 [{0}]
+Empty 该容器已空
+Full 该容器已满
+Moon_On 满月已升起!
+Moon_Off 满月已落下!
+Safezone_On 你进入了安全区域!
+Safezone_Off 你离开了安全区域!
+Deadzone_On 你进入了病毒区!
+Deadzone_Off 你离开了病毒区!
+Purchase {0} - {1} [{2}]
+Wave_On 僵尸大军来了！来一场热血沸腾的战斗吧!
+Wave_Off 僵尸大军灰溜溜地撤退了....
+Power 缺少电源
+Use 使用 [{0}]
+Salvage 回收 [按住 {0}]
+Tutorial_Move 嘿！你还活着吗？ 使用 [{0}， {1}， {2}， {3}] 来移动，这可以让你的血液流动起来！
+Tutorial_Look 很好！你能 [拖动鼠标] 并在角落里看到我的摄像头吗？
+Tutorial_Jump 你看起来很好! 请通过跳跃 [{0}] 来跳过这个障碍物！这可以帮你脱离危险！
+Tutorial_Perspective 很好，你可能想要看见自己！请按 [{0}] 来得到一个不同的视角。
+Tutorial_Run 等等，不要总是想着跳起来，有时最好的办法是使用 前进键+[{0}] 跑起来来脱离危险！
+Tutorial_Inventory 这里有一些漂亮的衣服给你！捡起 [{0}] 以获得一点储存空间来储存你的装备。
+Tutorial_Survival 这是基本的生活用品！捡起来之后你可以在你的背包 [{0}] 装备或者丢弃这些东西。
+Tutorial_Gun 最后！来一场实战演习吧！按住 [{0}] 瞄准，然后使用 [{1}] 去射死那些僵尸！
+Tutorial_Ladder 很棒的射击！也许你下次爬下梯子，你应该按后退键而不是跳下去…
+Tutorial_Craft 通过查看枪械附件 [{0}] 来取下弹匣， 然后把它与这些弹药合成 [{1}] 来填充弹匣的子弹。
+Tutorial_Skills 使用一些你从僵尸那拿到的经验，你的 技能 [{0}] 就可以升级！
+Tutorial_Swim 请游泳来通过水里面的洞，这可以去水下的另一边 按 [{0}] 跳进水面。  
+Tutorial_Medical 如果你感觉受伤了，就用这些医疗用品！注：我不承担你受到任何伤害的责任。
+Tutorial_Vehicle 填满你的汽油桶，把这辆车的油重新灌满，然后把这辆车驾驶 [{0}] 到尽头.
+Tutorial_Crouch 通过蹲着 [{0}] 是避免僵尸注意的好方法，这也可以让你通过较小的空间。
+Tutorial_Prone 在速度上也远比趴下 [{0}] 快多了，这也是远比蹲着更糟糕的事情！
+Tutorial_Educated 你已经完成了基本训练！请使用暂停 [{0}] 来离开，但你也可以继续看看高级的教程。
+Tutorial_Harvest 在野外时你需要通过搜寻 [{0}] 浆果，砍伐树木和猎杀动物来生存下去！
+Tutorial_Fish 钓鱼需要耐心和较深的水。当你看到浮标被拉下去的时候请立刻把线卷起来。
+Tutorial_Build 建造基地是你生存下来的关键，从小型的陷阱到大型的墙壁都是可以建造的东西。你甚至可以建造车辆！
+Tutorial_Horn 按 [{0}] 来使用车喇叭！
+Tutorial_Lights 使用你的车灯 [{0}] 可以在黑暗中看到更多东西。
+Tutorial_Sirens 请打开警笛 [{0}] 来证明你不是一个强盗！
+Tutorial_Farm 耕种可以提供一个可持续的食物来源。
+Tutorial_Power 发电机能给需要电的物体供电，如屏蔽器和照明灯。
+Tutorial_Fire 在寒冷的环境中，篝火会让你温暖，也给你一个简陋的地方来烹饪食物。
+Claim 该区域已被其它玩家建立了领地
+Underwater 这里太湿了
+Nav 这里离城市太远了
+Spawn 这里离出生点太近了
+Mobile 不能放在运动物体上
+Oil 缺少石油储备(地下没有石油)
+Volume_Water 水储量:{0}
+Volume_Fuel 油储量：
+Busy 繁忙中(其他玩家正在使用该物品容器)
+Trapdoor 缺少阁楼口
+Fuel 油量: {0}%
+Clean 水质:清洁的
+Salty 水质:含盐的
+Dirty 水质:肮脏的
+Talk 交谈 [{0}]
+Reputation {0} 声望
+Safezone 离安全区域太近了
+Bayonet 劈刺 [{0}]
+
+Chat_Global [世界] {0}: {1}
+Chat_Local [区域] {0}: {1}
+Chat_Group [组] {0}: {1}
+Chat_Welcome [服务器] {0}: {1}
+Chat_Say [警告] {0}: {1}
+
+Vote_Kick {0} [{1}] 正在投票踢出 {2} [{3}]
+Votes_Needed 踢出该玩家的最少同意投票数: {0}
+Vote_Yes 同意 [{0}] 投票数: {1}
+Vote_No 反对 [{0}] 投票数: {1}
+Vote_Off 投票踢人没有在该服务器上启用。
+Vote_Delay 你需要等待上一个投票结束才能再发起投票。
+Vote_Players 没有足够的玩家来进行投票踢人。
+Vote_Pass 投票通过！
+Vote_Fail 投票未通过！
+
+List_Joint_0 ，
+List_Joint_1 和
+
+Arena_Lobby 等待玩家中...
+Arena_Warm_Up 准备开始...
+Arena_Play 战斗开始!
+Arena_Died {0} 死了!
+Arena_Abandoned {0} 被淘汰了!
+Arena_Win {0} 胜利!
+Arena_Lose 游戏结束!
+Arena_Intermission 中场休息...
+
+Mode_Global [世界]
+Mode_Local [区域]
+Mode_Group [组]
+
+Surrender 投降
+Point 指向
+Wave 挥手
+Salute 敬礼
+Rest 休息
+Facepalm 捂脸
+
+Round 当前波数:  {0}
+Score 当前分数:  {0}
+Stat_Tracker_Total_Kills 总击杀数： [{0}]
+Stat_Tracker_Player_Kills 玩家击杀数： [{0}]

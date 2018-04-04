@@ -1,0 +1,26 @@
+Conditions 目标:
+Rewards 奖励:
+
+Condition_Experience {0}/{1} 经验
+Condition_Reputation {0}/{1} 声望
+Condition_Item {0}/{1} {2}
+
+Reward_Experience {0} 经验
+Reward_Reputation {0} 声望
+Reward_Item {1} x{0}
+Reward_Item_Random 随机物品 x{0}
+Reward_Vehicle {0} x1
+
+Accept 接受
+Accept_Tooltip 接受任务
+Decline 拒绝
+Decline_Tooltip 忽略任务
+Continue 继续
+Continue_Tooltip 完成任务
+Track_On 跟踪任务
+Track_Off 取消跟踪任务
+Track_Tooltip 显示/不显示任务细节
+Abandon 放弃
+Abandon_Tooltip 驳回任务
+Return 返回
+Return_Tooltip 退出任务界面

@@ -1,0 +1,10 @@
+InvalidNumberErrorText Failed to convert {0} into a number.
+MinNumberErrorText Failed to make max players less than {0}.
+RecommendedNumberErrorText WARNING: SETTING MAXPLAYERS GREATER THAN {0} IS NOT RECOMMENDED AND WILL NOT SHOW ON THE INTERNET LIST
+MaxNumberErrorText Failed to make max players greater than {0}.
+
+MaxPlayersCommandText MaxPlayers
+MaxPlayersInfoText MaxPlayers [Number]
+MaxPlayersHelpText This sets the maximum number of connections the server is willing to accept.
+
+MaxPlayersText Successfully set max players to {0}!

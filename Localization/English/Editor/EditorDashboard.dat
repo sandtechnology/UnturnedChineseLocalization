@@ -1,0 +1,18 @@
+TerrainButtonText 地形
+TerrainButtonTooltip 调整地形
+
+EnvironmentButtonText 环境
+EnvironmentButtonTooltip 改变环境
+
+SpawnsButtonText 刷新点
+SpawnsButtonTooltip 游戏对象的刷新位置
+
+LevelButtonText 世界蓝图
+LevelButtonTooltip 游戏世界里的城市、树木的摆放
+
+Heights 样品 [{0}]
+Roads 截断 [{0}] 移动 [{1}]
+Navigation 移动 [{0}]
+Objects 选择 [{0}] 移动 [{1}] 建立 [{2}]
+Nodes 移动 [{0}]
+Visibility 切换 [F1-F8]

@@ -1,0 +1,78 @@
+//
+// Add any constant from the UnityEngine.KeyCode enum to translate it here. It doesn't matter if it's in the default English file.
+// For example "Backslash обра́тный слэш" to translate the "\" key.
+//
+
+Alpha0 0
+Alpha1 1
+Alpha2 2
+Alpha3 3
+Alpha4 4
+Alpha5 5
+Alpha6 6
+Alpha7 7
+Alpha8 8
+Alpha9 9
+
+LeftParen (
+RightParen )
+LeftBracket [
+RightBracket ]
+BackQuote ~
+
+Keypad0 小键盘0
+Keypad1 小键盘1
+Keypad2 小键盘2
+Keypad3 小键盘3
+Keypad4 小键盘4
+Keypad5 小键盘5
+Keypad6 小键盘6
+Keypad7 小键盘7
+Keypad8 小键盘8
+Keypad9 小键盘9
+
+UpArrow ↑
+LeftArrow ←
+RightArrow →
+DownArrow ↓
+
+PageUp Page Up
+PageDown Page Down
+
+CapsLock Caps Lock
+
+RightShift 右Shift
+LeftShift 左Shift
+RightControl 右Ctrl
+LeftControl 左Ctrl
+RightAlt 右Alt
+LeftAlt 左Alt
+RightCommand 右Command键
+RightApple 右Apple键
+LeftCommand 左Command键
+LeftApple 左Apple键
+LeftWindows 左Windows键
+RightWindows 右Windows键
+
+Mouse0 鼠标左键
+Mouse1 鼠标右键
+Mouse2 鼠标中键
+Mouse3 鼠标按键 #4
+Mouse4 鼠标按键 #5
+Mouse5 鼠标按键 #6
+//额外添加
+Space 空格键
+KeypadPeriod 小键盘.
+KeypadDivide 小键盘/
+KeypadMultiply 小键盘*
+KeypadMinus 小键盘-
+KeypadPlus 小键盘+
+Return Enter
+Equals =
+Minus -
+Backslash \
+Semicolon ;
+Quote '
+Comma ,
+Period .
+Slash /

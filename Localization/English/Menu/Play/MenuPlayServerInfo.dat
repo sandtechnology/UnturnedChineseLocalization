@@ -1,0 +1,52 @@
+Password_Field_Label 密码
+Password_Field_Replace *
+
+Join_Button 加入
+Join_Button_Tooltip 连接
+Refresh_Button 刷新
+Refresh_Button_Tooltip 刷新
+Cancel_Button 取消
+Cancel_Button_Tooltip 返回
+
+Favorite_On_Button 收藏
+Favorite_Off_Button 取消收藏
+Favorite_Button_Tooltip 收藏/取消收藏
+
+Players 在线玩家: {0}/{1}
+Details 服务器细节
+Map 地图: {0}
+
+Workshop 创意工坊: {0}
+Combat 战斗模式: {0}
+Perspective 视角限制: {0}
+Security 安全: {0}
+Mode 难度: {0}
+Cheats 作弊指令: {0}
+GameMode 游戏模式： {0}
+
+Yes 已启用
+No 已禁用
+
+PvP 玩家vs玩家(PVP)
+PvE 玩家vs自然环境(PVE)
+
+First 只有第一人称视角
+Third 只有第三人称视角
+Both 第一人称和第三人称视角
+Vehicle 载具只有第三人称视角
+
+VAC_Secure VAC已启用
+VAC_Insecure VAC已禁用
+
+BattlEye_Secure 需要BattlEye
+BattlEye_Insecure BattlEye已禁用
+
+Easy 简单
+Normal 普通
+Hard 困难
+
+Server 服务器:
+UGC 创意工坊物品:
+Config 服务器配置:
+Rule {0}: {1}
+Rocket Rocket插件列表:

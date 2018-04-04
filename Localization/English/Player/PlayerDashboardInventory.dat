@@ -1,0 +1,141 @@
+Rarity_0 普通的
+Rarity_1 少见的
+Rarity_2 罕见的
+Rarity_3 史诗的
+Rarity_4 传奇的
+Rarity_5 神话的
+
+Type_0 帽子
+Type_1 裤子
+Type_2 衬衫
+Type_3 面具
+Type_4 背包
+Type_5 背心
+Type_6 眼镜
+Type_7 远程武器
+Type_8 枪架附件
+Type_9 战术附件
+Type_10 瞄准附件
+Type_11 枪管附件
+Type_12 弹匣附件
+Type_13 食品
+Type_14 饮品
+Type_15 药物
+Type_16 近战武器
+Type_17 燃料
+Type_18 工具
+Type_19 可放置物品
+Type_20 存储器
+Type_21 生成器
+Type_22 植物
+Type_23 陷阱
+Type_24 建筑
+Type_25 自制补给品
+Type_26 弹药
+Type_27 生长剂
+Type_28 照明物品
+Type_29 水罐
+Type_30 钓鱼竿
+Type_31 类降落伞
+Type_32 地图
+Type_33 钥匙
+Type_34 箱子
+Type_35 捕捉器
+Type_36 释放器
+Type_37 液体储存器
+Type_38 发电机
+Type_39 遥控触发器
+Type_40 遥控炸弹
+Type_41 经验储存器
+Type_42 辐射滤波器
+Type_43 自动炮塔
+Type_44 工具
+Type_45 工具
+Type_46 指南针
+
+Hotkey_Set 热键：{0}
+Hotkey_Unset 热键：[3-9]
+
+Quality 耐久: {0}%
+Amount 弹药数量: {0}
+
+Fuel 油量: {0}%
+Refill 水分: {0}
+Empty 空的
+Full 满的
+Clean 清洁的
+Salty 含盐的
+Dirty 肮脏的
+
+Ammo 弹药数量： {0} {1}/{2}
+None 空
+
+Equip_Button 装备
+Equip_Button_Tooltip 将这个物品拿在你的手中。
+Dequip_Button 卸下
+Dequip_Button_Tooltip 将这个物品从你的手中卸下
+Drop_Button 丢弃
+Drop_Button_Tooltip 丢弃这个物品到你周围。
+Pickup_Button 拾取
+Pickup_Button_Tooltip 拾取你周围的这个物品。
+
+Take_Button 取出
+Take_Button_Tooltip 从物品容器中取出。
+Store_Button 储存
+Store_Button_Tooltip 储存到物品容器中。
+
+Repair_Button 修复
+Repair_Button_Tooltip 将该物品修复得完好无缺。
+Salvage_Button 回收
+Salvage_Button_Tooltip 回收该物品并得到它的组成材料。
+Refill_Button 填装
+Refill_Button_Tooltip 重新填装该物品的子弹。
+
+Attachments_Button 拆除
+Attachments_Button_Tooltip 拆除枪械附件。
+
+Craft_Rag_Button 合成碎布
+Craft_Rag_Button_Tooltip 升级为碎布。
+Craft_Bandage_Button 合成绷带
+Craft_Bandage_Button_Tooltip 升级为绷带。
+Craft_Dressing_Button 合成敷料
+Craft_Dressing_Button_Tooltip 升级为敷料。
+Craft_Seed_Button 合成种子
+Craft_Seed_Button_Tooltip 回收成种子。
+
+Swap_Cosmetics_Tooltip 切换装饰
+Swap_Skins_Tooltip 切换皮肤
+Swap_Mythics_Tooltip 切换特效
+
+Vehicle_Lock_On 锁住 [{0}]
+Vehicle_Lock_Off 解锁 [{0}]
+Vehicle_Lock_Tooltip 把载具的小偷拒之门外。
+Vehicle_Horn 喇叭 [{0}]
+Vehicle_Horn_Tooltip 喇叭
+Vehicle_Headlights_On 打开前照灯 [{0}]
+Vehicle_Headlights_Off 关闭前照灯 [{0}]
+Vehicle_Headlights_Tooltip 夜间开载具时的照明器具。
+Vehicle_Sirens_On 打开警报器 [{0}]
+Vehicle_Sirens_Off 关闭警报器 [{0}]
+Vehicle_Sirens_Tooltip 播放紧急的音频。
+Vehicle_Blimp_On 上升 [{0}]
+Vehicle_Blimp_Off 下降 [{0}]
+Vehicle_Blimp_Tooltip 通过调整飞艇的压舱物质量来控制飞行高度
+Vehicle_Hook 打开电磁铁 [{0}]
+Vehicle_Hook_Tooltip 运载附近的载具
+Vehicle_Seat_Empty 空
+Vehicle_Seat_Slot {0} [{1}]
+Vehicle_Steal_Battery 偷走电池
+Vehicle_Steal_Battery_Tooltip 从引擎偷走电池。
+Vehicle_Skin_On 使用载具涂装
+Vehicle_Skin_Off 清除载具涂装
+Vehicle_Skin_Tooltip 使用你已激活的载具皮肤。
+
+Hands 手中物品
+Storage 储存物品
+Storage_Trunk {0} 的中转储物箱
+Area 附近物品
+
+Rot_X X++
+Rot_Y Y++
+Rot_Z Z++

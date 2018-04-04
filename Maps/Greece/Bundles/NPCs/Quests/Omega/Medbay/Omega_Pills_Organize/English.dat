@@ -1,0 +1,6 @@
+Name 整理者
+Description <color=rare>医生Saunders</color> 不能区分出止痛药和维生素C。他非常需要你帮忙整理这些药品。
+
+Condition_0 整理止痛药
+Condition_1 整理抗生素
+Condition_2 整理维生素

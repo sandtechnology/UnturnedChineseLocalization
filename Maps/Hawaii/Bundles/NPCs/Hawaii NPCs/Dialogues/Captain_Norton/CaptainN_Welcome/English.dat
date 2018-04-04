@@ -1,0 +1,11 @@
+Message_0_Page_0 你好，我是 <name_npc>！我有一些你可以帮忙的事情，如果你想要帮我的话！
+Message_1_Page_0 很好，如果我们想让通信恢复运行，就需要这些保险丝！<pause> 如果你感兴趣的话，我还有一些你可以帮忙的东西。
+Message_2_Page_0 有要报告的吗？
+
+Response_0 我会去看看
+Response_1 不是现在
+Response_2 我为你找到了这些保险丝！
+Response_3 我会去看看
+Response_4 不是现在
+Response_5 我找到了那个生物样本！
+Response_6 没有要报告的

@@ -1,0 +1,5 @@
+Name 解放者（油漆不牢固）
+
+Interactability_Condition_0 {0}/1 白色油漆
+
+Interact 喷漆 [{0}]

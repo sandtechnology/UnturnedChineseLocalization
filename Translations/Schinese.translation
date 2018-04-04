@@ -1,0 +1,1462 @@
+"Metadata"
+{
+	"Language" "Chinese"
+	"Namespace" "SDG"
+}
+"Translation"
+{
+	"Asset"
+	{
+		"AssetReference"
+		{
+			"GUID"
+			{
+				"Name"
+				{
+					"Text" "资源文件的GUID"
+					"Version" "1"
+				}
+			}
+		}
+		"ContentReference"
+		{
+			"Name"
+			{
+				"Name"
+				{
+					"Text" "这个内容的名字"
+					"Version" "1"
+				}
+			}
+			"Path"
+			{
+				"Name"
+				{
+					"Text" "这个内容的路径"
+					"Version" "1"
+				}
+			}
+		}
+		"Asset"
+		{
+			"GUID"
+			{
+				"Name"
+				{
+					"Text" "GUID"
+					"Version" "1"
+				}
+				"Tooltip"
+				{
+					"Text" "唯一的128位ID"
+					"Version" "1"
+				}
+			}
+			"ID"
+			{
+				"Name"
+				{
+					"Text" "ID"
+					"Version" "2"
+				}
+			}
+		}
+		"Item"
+		{
+			"Gun"
+			{
+				"Ammo_Min"
+				{
+					"Name"
+					{
+						"Text" "最小弹药数量"
+						"Version" "1"
+					}
+				}
+				"Ammo_Max"
+				{
+					"Name"
+					{
+						"Text" "最大弹药数量"
+						"Version" "1"
+					}
+				}
+			}
+		}
+		"Landscape"
+		{
+			"Material"
+			{
+				"Texture"
+				{
+					"Name"
+					{
+						"Text" "材质"
+						"Version" "1"
+					}
+				}
+				"Mask"
+				{
+					"Name"
+					{
+						"Text" "遮盖"
+						"Version" "1"
+					}
+				}
+				"Physics_Material"
+				{
+					"Name"
+					{
+						"Text" "物理材质"
+						"Version" "1"
+					}
+				}
+				"Auto_Ray_Mask"
+				{
+					"Text" "雷的遮盖物"
+					"Version" "2"
+				}
+				"Auto_Ray_Radius"
+				{
+					"Text" "雷的半径"
+					"Version" "2"
+				}
+				"Auto_Max_Angle_End"
+				{
+					"Text" "最大终止角度"
+					"Version" "2"
+				}
+				"Auto_Ray_Length"
+				{
+					"Text" "雷的时间"
+					"Version" "1"
+				}
+				"Use_Auto_Foundation"
+				{
+					"Text" "自动设置基础参数"
+					"Version" "1"
+				}
+				"Auto_Max_Angle_Begin"
+				{
+					"Text" "最大起始角度"
+					"Version" "1"
+				}
+				"Auto_Min_Angle_End"
+				{
+					"Text" "最小终止角度"
+					"Version" "1"
+				}
+				"Auto_Min_Angle_Begin"
+				{
+					"Text" "最小起始角度"
+					"Version" "1"
+				}
+				"Use_Auto_Slope"
+				{
+					"Text" "自动设置角度"
+					"Version" "1"
+				}
+			}
+			"Material_Set"
+			{
+				"Materials"
+				{
+					"Name"
+					{
+						"Text" "材质"
+						"Version" "1"
+					}
+				}
+			}
+			"Foliage"
+			{
+				"Name"
+				{
+					"Text" "树叶"
+					"Version" "1"
+				}
+			}
+		}
+		"Stereo_Song"
+		{
+			"Title"
+			{
+				"Name"
+				{
+					"Text" "标题"
+					"Version" "1"
+				}
+			}
+			"Song"
+			{
+				"Name"
+				{
+					"Text" "歌曲名"
+					"Version" "1"
+				}
+			}
+		}
+	}
+	"Devkit"
+	{
+		"Landscape_Tool"
+		{
+			"Heightmap_Brush_Radius_Var"
+			{
+				"Text" "设置Heightmap_Brush_Radius为: {0}"
+				"Version" "1"
+			}
+			"Heightmap_Brush_Falloff_Var"
+			{
+				"Text" "设置Heightmap_Brush_Falloff为: {0}"
+				"Version" "1"
+			}
+			"Heightmap_Brush_Strength_Var"
+			{
+				"Text" "设置Heightmap_Brush_Strength为: {0}"
+				"Version" "1"
+			}
+			"Heightmap_Flatten_Target_Var"
+			{
+				"Text" "设置Heightmap_Flatten_Target为: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Radius_Var"
+			{
+				"Text" "设置Splatmap_Brush_Radius为: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Falloff_Var"
+			{
+				"Text" "设置Splatmap_Brush_Falloff为: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Strength_Var"
+			{
+				"Text" "设置Splatmap_Brush_Strength为: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Use_Weight_Target_Var"
+			{
+				"Text" "设置Splatmap_Use_Weight_Target为: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Weight_Target_Var"
+			{
+				"Text" "设置Splatmap_Weight_Target为: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Layer_Target_Var"
+			{
+				"Text" "设置Splatmap_Layer_Target为: {0}"
+				"Version" "1"
+			}
+			"Heightmap"
+			{
+				"Brush"
+				{
+					"Radius"
+					{
+						"Text" "半径"
+						"Version" "1"
+					}
+					"Falloff"
+					{
+						"Text" "减少"
+						"Version" "1"
+					}
+					"Strength"
+					{
+						"Text" "厚度"
+						"Version" "1"
+					}
+				}
+				"Flatten_Target"
+				{
+					"Text" "平整目标"
+					"Version" "1"
+				}
+				"Max_Preview_Samples"
+				{
+					"Text" "最大的预览样本"
+					"Version" "1"
+				}
+				"Smooth_Method"
+				{
+					"Text" "平滑方式"
+					"Version" "1"
+				}
+			}
+			"Splatmap"
+			{
+				"Brush"
+				{
+					"Radius"
+					{
+						"Text" "半径"
+						"Version" "1"
+					}
+					"Falloff"
+					{
+						"Text" "减少"
+						"Version" "1"
+					}
+					"Strength"
+					{
+						"Text" "厚度"
+						"Version" "1"
+					}
+				}
+				"Use_Weight_Target"
+				{
+					"Text" "使用目标重量"
+					"Version" "1"
+				}
+				"Weight_Target"
+				{
+					"Text" "目标重量"
+					"Version" "1"
+				}
+				"Max_Preview_Samples"
+				{
+					"Text" "最大的预览样本"
+					"Version" "1"
+				}
+				"Smooth_Method"
+				{
+					"Text" "平滑方式"
+					"Version" "1"
+				}
+				"Use_Auto_Slope"
+				{
+					"Text" "自动设置角度"
+					"Version" "1"
+				}
+				"Auto_Min_Angle_Begin"
+				{
+					"Text" "最小起始角度"
+					"Version" "1"
+				}
+				"Auto_Min_Angle_End"
+				{
+					"Text" "最小终止角度"
+					"Version" "1"
+				}
+				"Auto_Max_Angle_Begin"
+				{
+					"Text" "最大起始角度"
+					"Version" "1"
+				}
+				"Auto_Max_Angle_End"
+				{
+					"Text" "最小终止角度"
+					"Version" "1"
+				}
+				"Use_Auto_Foundation"
+				{
+					"Text" "自动设置基础参数"
+					"Version" "1"
+				}
+				"Auto_Ray_Radius"
+				{
+					"Text" "雷的半径"
+					"Version" "2"
+				}
+				"Auto_Ray_Length"
+				{
+					"Text" "雷的时间"
+					"Version" "1"
+				}
+				"Auto_Ray_Mask"
+				{
+					"Text" "雷的遮盖物"
+					"Version" "1"
+				}
+				"Preview_Method"
+				{
+					"Text" "预览方式"
+					"Version" "1"
+				}
+			}
+		}
+		"Toolbar"
+		{
+			"File"
+			{
+				"Exit"
+				{
+					"Text" "退出"
+					"Version" "1"
+				}
+			}
+			"Edit"
+			{
+				"Undo"
+				{
+					"Text" "撤销"
+					"Version" "1"
+				}
+				"Redo"
+				{
+					"Text" "重做"
+					"Version" "1"
+				}
+			}
+		}
+		"Transactions"
+		{
+			"Heightmap"
+			{
+				"Text" "高度图"
+				"Version" "1"
+			}
+			"Splatmap"
+			{
+				"Text" "地图贴图"
+				"Version" "1"
+			}
+			"Generic"
+			{
+				"Text" "改变"
+				"Version" "1"
+			}
+			"Field_Delta"
+			{
+				"Text" "改变 \"{0}\" 来自 \"{2}\" 的字段 \"{1}\" 为 \"{3}\""
+				"Version" "1"
+			}
+			"Property_Delta"
+			{
+				"Text" "改变 \"{0}\" 来自 \"{2}\" 的属性 \"{1}\" 为 \"{3}\""
+				"Version" "1"
+			}
+			"Spawn"
+			{
+				"Text" "生成 \"{0}\""
+				"Version" "1"
+			}
+			"Delete_Selection"
+			{
+				"Text" "删除选择"
+				"Version" "1"
+			}
+			"Paste"
+			{
+				"Text" "粘贴"
+				"Version" "1"
+			}
+			"Transform"
+			{
+				"Text" "转换"
+				"Version" "1"
+			}
+			"Translation"
+			{
+				"Text" "本地化"
+				"Version" "1"
+			}
+		}
+		"Window"
+		{
+			"Asset_Browser"
+			{
+				"Title"
+				{
+					"Text" "资源浏览器"
+					"Version" "1"
+				}
+			}
+			"Content_Browser"
+			{
+				"Title"
+				{
+					"Text" "内容浏览器"
+					"Version" "1"
+				}
+			}
+			"Foliage_Tool"
+			{
+				"Title"
+				{
+					"Text" "树叶工具"
+					"Version" "1"
+				}
+			}
+			"Hierarchy"
+			{
+				"Title"
+				{
+					"Text" "层级"
+					"Version" "1"
+				}
+			}
+			"Inspector"
+			{
+				"Title"
+				{
+					"Text" "检查员"
+					"Version" "1"
+				}
+				"Key"
+				{
+					"Text" "键"
+					"Version" "1"
+				}
+				"Value"
+				{
+					"Text" "值"
+					"Version" "1"
+				}
+			}
+			"Layout"
+			{
+				"Title"
+				{
+					"Text" "设计"
+					"Version" "1"
+				}
+				"Load"
+				{
+					"Text" "加载"
+					"Version" "1"
+				}
+				"Save"
+				{
+					"Text" "保存"
+					"Version" "1"
+				}
+			}
+			"Type_Browser"
+			{
+				"Title"
+				{
+					"Text" "类型浏览器"
+					"Version" "1"
+				}
+			}
+			"Save"
+			{
+				"Title"
+				{
+					"Text" "保存"
+					"Version" "1"
+				}
+				"Cancel"
+				{
+					"Text" "取消"
+					"Version" "1"
+				}
+				"Submit"
+				{
+					"Text" "保存"
+					"Version" "1"
+				}
+			}
+			"Selection_Tool"
+			{
+				"Title"
+				{
+					"Text" "选择工具"
+					"Version" "1"
+				}
+			}
+			"Landscape_Tool"
+			{
+				"Title"
+				{
+					"Text" "景观工具"
+					"Version" "1"
+				}
+				"Heightmap_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "高度图 [1]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "游戏贴图 [2]"
+						"Version" "1"
+					}
+				}
+				"Tile_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "图块 [3]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Adjust_Button"
+				{
+					"Label"
+					{
+						"Text" "增加 [Q]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Flatten_Button"
+				{
+					"Label"
+					{
+						"Text" "平整 [W]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Smooth_Button"
+				{
+					"Label"
+					{
+						"Text" "平滑 [E]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Ramp_Button"
+				{
+					"Label"
+					{
+						"Text" "斜坡 [R]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Radius"
+				{
+					"Label"
+					{
+						"Text" "半径 [B]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Falloff"
+				{
+					"Label"
+					{
+						"Text" "减少 [F]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Strength"
+				{
+					"Label"
+					{
+						"Text" "厚度 [V]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Flatten_Target"
+				{
+					"Label"
+					{
+						"Text" "平整目标 [Alt]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Smooth_Method"
+				{
+					"Label"
+					{
+						"Text" "平滑方法"
+						"Version" "1"
+					}
+					"Brush_Average"
+					{
+						"Text" "平均刷子"
+						"Version" "1"
+					}
+					"Pixel_Average"
+					{
+						"Text" "平均像素"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Radius"
+				{
+					"Label"
+					{
+						"Text" "半径 [B]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Falloff"
+				{
+					"Label"
+					{
+						"Text" "减少 [F]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Strength"
+				{
+					"Label"
+					{
+						"Text" "厚度 [V]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Use_Weight_Target"
+				{
+					"Label"
+					{
+						"Text" "使用目标重量 [Ctrl]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Weight_Target"
+				{
+					"Label"
+					{
+						"Text" "目标重量 [G]"
+						"Version" "1"
+					}
+				}
+				"Tile_Material_Set"
+				{
+					"Label"
+					{
+						"Text" "已设置的材质"
+						"Version" "1"
+					}
+				}
+			}
+			"Transaction"
+			{
+				"Title"
+				{
+					"Text" "处理"
+					"Version" "1"
+				}
+				"Undo"
+				{
+					"Text" "撤销:"
+					"Version" "1"
+				}
+				"Redo"
+				{
+					"Text" "重做:"
+					"Version" "1"
+				}
+			}
+			"Translation"
+			{
+				"Title"
+				{
+					"Text" "本地化"
+					"Version" "4"
+				}
+				"Edit_Origin"
+				{
+					"Text" "编辑来源 \"{0}\""
+					"Version" "3"
+				}
+				"Edit_Translation"
+				{
+					"Text" "编辑本地化 \"{0}\""
+					"Version" "2"
+				}
+				"Origin_Misses"
+				{
+					"Text" "来源 \"{0}\" 缺少"
+					"Version" "3"
+				}
+				"Origin_Translation_Delta"
+				{
+					"Text" "来源 \"{0}\" -> 本地化 \"{1}\" 增加的词条有 "
+					"Version" "2"
+				}
+				"Tree_Back"
+				{
+					"Text" "返回"
+					"Version" "1"
+				}
+				"Tree_Add_Leaf"
+				{
+					"Text" "增加页面"
+					"Version" "1"
+				}
+				"Tree_Add_Branch"
+				{
+					"Text" "增加分支"
+					"Version" "1"
+				}
+				"Clear_Misses"
+				{
+					"Text" "清理缺失词条"
+					"Version" "1"
+				}
+				"Refresh_Misses"
+				{
+					"Text" "刷新缺失词条"
+					"Version" "1"
+				}
+				"Refresh_Delta"
+				{
+					"Text" "刷新增加词条"
+					"Version" "1"
+				}
+			}
+			"Load"
+			{
+				"Title"
+				{
+					"Text" "加载"
+					"Version" "1"
+				}
+				"Cancel"
+				{
+					"Text" "取消"
+					"Version" "1"
+				}
+				"Submit"
+				{
+					"Text" "加载"
+					"Version" "1"
+				}
+			}
+			"File_Browser"
+			{
+				"Title"
+				{
+					"Text" "文件浏览器"
+					"Version" "1"
+				}
+				"Cancel"
+				{
+					"Text" "取消"
+					"Version" "1"
+				}
+				"Submit"
+				{
+					"Text" "选择"
+					"Version" "1"
+				}
+			}
+			"UGC_Upload_Wizard"
+			{
+				"Title"
+				{
+					"Text" "UGC上传向导"
+					"Version" "1"
+				}
+				"Content_Path"
+				{
+					"Name"
+					{
+						"Text" "内容路径"
+						"Version" "1"
+					}
+				}
+				"Preview_Image_Path"
+				{
+					"Name"
+					{
+						"Text" "预览图片路径"
+						"Version" "1"
+					}
+				}
+				"Visibility"
+				{
+					"Name"
+					{
+						"Text" "可见性"
+						"Version" "1"
+					}
+				}
+				"Curated"
+				{
+					"Name"
+					{
+						"Text" "等待采纳（Curated）"
+						"Version" "1"
+					}
+				}
+				"Legal"
+				{
+					"Label"
+					{
+						"Text" "协议合同"
+						"Version" "1"
+					}
+				}
+				"Upload"
+				{
+					"Label"
+					{
+						"Text" "新建"
+						"Version" "1"
+					}
+				}
+				"Item_Name"
+				{
+					"Name"
+					{
+						"Text" "物品名"
+						"Version" "1"
+					}
+				}
+				"Item_Desc"
+				{
+					"Name"
+					{
+						"Text" "物品描述"
+						"Version" "1"
+					}
+				}
+				"Change_Note"
+				{
+					"Name"
+					{
+						"Text" "保存"
+						"Version" "1"
+					}
+				}
+				"Item_Type"
+				{
+					"Name"
+					{
+						"Text" "物品类型"
+						"Version" "1"
+					}
+				}
+				"Item_Tag"
+				{
+					"Name"
+					{
+						"Text" "物品Tag"
+						"Version" "1"
+					}
+				}
+			}
+			"UGC_Skin_Creator_Wizard"
+			{
+				"Title"
+				{
+					"Text" "皮肤创建向导"
+					"Version" "2"
+				}
+				"Item_ID"
+				{
+					"Name"
+					{
+						"Text" "物品ID"
+						"Version" "1"
+					}
+				}
+				"Primary_Skin"
+				{
+					"Name"
+					{
+						"Text" "第一皮肤(整体的皮肤)"
+						"Version" "1"
+					}
+				}
+				"Albedo_Path"
+				{
+					"Name"
+					{
+						"Text" "反射率(Albedo)文件路径"
+						"Version" "1"
+					}
+				}
+				"Metallic_Path"
+				{
+					"Name"
+					{
+						"Text" "金属光泽(Metallic)文件路径"
+						"Version" "1"
+					}
+				}
+				"Emission_Path"
+				{
+					"Name"
+					{
+						"Text" "自发光(Emission)文件路径"
+						"Version" "1"
+					}
+				}
+				"Secondary_Skins"
+				{
+					"Name"
+					{
+						"Text" "第二皮肤(拿着的皮肤)"
+						"Version" "1"
+					}
+				}
+				"Tertiary_Skin"
+				{
+					"Name"
+					{
+						"Text" "第三皮肤(背着的皮肤)"
+						"Version" "1"
+					}
+				}
+				"Attachment_Skin"
+				{
+					"Name"
+					{
+						"Text" "附件皮肤"
+						"Version" "1"
+					}
+				}
+				"Output_Path"
+				{
+					"Name"
+					{
+						"Text" "输出路径"
+						"Version" "1"
+					}
+				}
+				"Output"
+				{
+					"Label"
+					{
+						"Text" "导出"
+						"Version" "2"
+					}
+				}
+			}
+			"UGC_Skin_Acceptor_Wizard"
+			{
+				"Title"
+				{
+					"Text" "皮肤采纳向导"
+					"Version" "1"
+				}
+				"Workshop_ID"
+				{
+					"Name"
+					{
+						"Text" "创意工坊(Workshop)ID"
+						"Version" "1"
+					}
+				}
+				"Pattern_ID"
+				{
+					"Name"
+					{
+						"Text" "模式(Pattern)ID"
+						"Version" "1"
+					}
+				}
+				"Input"
+				{
+					"Label"
+					{
+						"Text" "导入"
+						"Version" "1"
+					}
+				}
+				"Econ_Name"
+				{
+					"Name"
+					{
+						"Text" "经济名字"
+						"Version" "1"
+					}
+				}
+				"Econ_Desc"
+				{
+					"Name"
+					{
+						"Text" "经济描述"
+						"Version" "1"
+					}
+				}
+				"Econ_Type"
+				{
+					"Name"
+					{
+						"Text" "经济类型"
+						"Version" "1"
+					}
+				}
+				"Icon_Item_ID"
+				{
+					"Name"
+					{
+						"Text" "物品图标ID"
+						"Version" "1"
+					}
+				}
+				"Icon_Skin_ID"
+				{
+					"Name"
+					{
+						"Text" "皮肤图标ID"
+						"Version" "1"
+					}
+				}
+				"Icon"
+				{
+					"Label"
+					{
+						"Text" "捕捉图标"
+						"Version" "1"
+					}
+				}
+				"Icon_Econ_ID"
+				{
+					"Name"
+					{
+						"Text" "经济图标ID"
+						"Version" "1"
+					}
+				}
+			}
+			"Object_Browser"
+			{
+				"Title"
+				{
+					"Text" "项目浏览器"
+					"Version" "1"
+				}
+			}
+			"Visibility"
+			{
+				"Title"
+				{
+					"Text" "可见性"
+					"Version" "1"
+				}
+			}
+		}
+		"Selection_Tool"
+		{
+			"Snap_Position"
+			{
+				"Text" "选择位置"
+				"Version" "1"
+			}
+			"Snap_Rotation"
+			{
+				"Text" "选择角度"
+				"Version" "1"
+			}
+			"Snap_Scale"
+			{
+				"Text" "选择范围"
+				"Version" "1"
+			}
+			"Surface_Offset"
+			{
+				"Text" "表面偏移"
+				"Version" "1"
+			}
+			"Surface_Align"
+			{
+				"Text" "表面对齐"
+				"Version" "1"
+			}
+			"Local_Space"
+			{
+				"Text" "本地空间"
+				"Version" "1"
+			}
+			"Lock_Handles"
+			{
+				"Text" "锁定控键"
+				"Version" "2"
+			}
+		}
+		"Foliage_Tool"
+		{
+			"Brush"
+			{
+				"Radius"
+				{
+					"Text" "半径"
+					"Version" "1"
+				}
+				"Falloff"
+				{
+					"Text" "减少"
+					"Version" "1"
+				}
+				"Strength"
+				{
+					"Text" "厚度"
+					"Version" "1"
+				}
+			}
+			"Density_Target"
+			{
+				"Text" "目标密度"
+				"Version" "1"
+			}
+			"Max_Preview_Samples"
+			{
+				"Text" "最大的预览样本"
+				"Version" "1"
+			}
+			"Surface_Mask"
+			{
+				"Text" "表面遮蔽"
+				"Version" "1"
+			}
+			"Selection_Mask"
+			{
+				"Text" "选取遮蔽"
+				"Version" "1"
+			}
+			"Bake"
+			{
+				"Instanced_Meshes"
+				{
+					"Text" "烘烤实例化网格"
+					"Version" "1"
+				}
+				"Resources"
+				{
+					"Text" "烘烤资源"
+					"Version" "1"
+				}
+				"Objects"
+				{
+					"Text" "烘烤物体"
+					"Version" "1"
+				}
+				"Clear"
+				{
+					"Text" "烘烤清理"
+					"Version" "1"
+			        }
+				"Apply_Scale"
+				{
+					"Text" "应用规模"
+					"Version" "1"
+				}
+			}
+		}
+		"Volumes"
+		{
+			"Kill"
+			{
+				"Players"
+				{
+					"Text" "杀死玩家"
+					"Version" "1"
+				}
+				"Zombies"
+				{
+					"Text" "杀死僵尸"
+					"Version" "1"
+				}
+				"Animals"
+				{
+					"Text" "杀死动物"
+					"Version" "1"
+				}
+				"Vehicles"
+				{
+					"Text" "清除载具"
+					"Version" "1"
+				}
+			}
+			"Death_Cause"
+			{
+				"Text" "造成死亡的原因"
+				"Version" "1"
+			}
+			"Ambiance"
+			{
+				"ID"
+				{
+					"Text" "ID"
+					"Version" "1"
+				}
+				"No_Water"
+				{
+					"Text" "没有水"
+					"Version" "1"
+				}
+				"No_Lighting"
+				{
+					"Text" "没有光照"
+					"Version" "1"
+				}
+				"Override_Fog"
+				{
+					"Text" "对雾进行覆盖"
+					"Version" "1"
+				}
+				"Fog_Color"
+				{
+					"Text" "雾的颜色"
+					"Version" "1"
+				}
+				"Fog_Height"
+				{
+					"Text" "雾的高度"
+					"Version" "1"
+				}
+				"Can_Rain"
+				{
+					"Text" "能下雨"
+					"Version" "1"
+				}
+				"Can_Snow"
+				{
+					"Text" "能下雪"
+					"Version" "1"
+				}
+			}
+		}
+		"Water"
+		{
+			"Volume"
+			{
+				"Water_Type"
+				{
+					"Text" "水的类型"
+					"Version" "1"
+				}
+				"Is_Surface_Visible"
+				{
+					"Text" "表面可见"
+					"Version" "1"
+				}
+				"Is_Reflection_Visible"
+				{
+					"Text" "反射可见"
+					"Version" "1"
+				}
+				"Is_Sea_Level"
+				{
+					"Text" "是海平面"
+					"Version" "1"
+				}
+			}
+		}
+		"Visibility"
+		{
+			"Group"
+			{
+				"Base"
+				{
+					"Internal_Name"
+					{
+						"Text" "内部名称"
+						"Version" "1"
+					}
+					"Display_Name"
+					{
+						"Text" "显示名称"
+						"Version" "1"
+					}
+					"Is_Visible"
+					{
+						"Text" "是可见的"
+						"Version" "1"
+					}
+				}
+				"Volume"
+				{
+					"Is_Wireframe_Visible"
+					{
+						"Text" "线框可见"
+						"Version" "1"
+					}
+					"Wireframe_Color"
+					{
+						"Text" "线框颜色"
+						"Version" "1"
+					}
+					"Wireframe_Depth"
+					{
+						"Text" "线框深度"
+						"Version" "1"
+					}
+					"Is_Surface_Visible"
+					{
+						"Text" "表面可见"
+						"Version" "1"
+					}
+					"Surface_Color"
+					{
+						"Text" "表面颜色"
+						"Version" "1"
+					}
+					"Surface_Depth"
+					{
+						"Text" "表面深度"
+						"Version" "1"
+					}
+				}
+			}
+			"Foliage_Instanced_Meshes"
+			{
+				"Text" "在树叶网格中实例化"
+				"Version" "1"
+			}
+			"Decal_Volumes"
+			{
+				"Text" "贴花大小"
+				"Version" "1"
+			}
+			"Water_Volumes"
+			{
+				"Text" "水大小"
+				"Version" "1"
+			}
+			"Landscape_Hole_Volumes"
+			{
+				"Text" "景观洞大小"
+				"Version" "1"
+			}
+			"Player_Clip_Volumes"
+			{
+				"Text" "修剪玩家大小"
+				"Version" "1"
+			}
+			"Foliage_Volumes"
+			{
+				"Text" "树叶大小"
+				"Version" "1"
+			}
+			"Kill_Volumes"
+			{
+				"Text" "杀人数大小"
+				"Version" "1"
+			}
+			"Spawnpoints"
+			{
+				"Text" "出生点"
+				"Version" "1"
+			}
+			"Effect_Volumes"
+			{
+				"Text" "效果大小"
+				"Version" "1"
+			}
+			"Nav_Clip_Volumes"
+			{
+				"Text" "导航修剪大小"
+				"Version" "1"
+			}
+			"Ambiance_Volumes"
+			{
+				"Text" "气氛大小"
+				"Version" "1"
+			}
+			"Deadzone_Volumes"
+			{
+				"Text" "病毒辐射区大小"
+				"Version" "1"
+			}
+		}
+	}
+	"Stereo_Songs"
+	{
+		"Unturned_Theme"
+		{
+			"Title"
+			{
+				"Text" "Unturned主题曲"
+				"Version" "1"
+			}
+		}
+	}
+}

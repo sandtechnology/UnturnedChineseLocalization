@@ -1,0 +1,27 @@
+Equip_Text 装备
+Equip_Tooltip 装备到你的人物上
+
+Dequip_Text 卸下
+Dequip_Tooltip 脱下这个皮肤/装饰
+
+Target_Item_Text 使用
+Target_Item_Tooltip 选择要应用该装饰的物品。
+
+Contents_Text 查看内容
+Contents_Tooltip 点击这里查看可能开出的东西。
+
+Inspect_Text 查看
+Inspect_Tooltip 点击这里查看它的样子。
+
+Market_Text 市场
+Market_Tooltip 点击这里查看Steam市场页面。
+
+Delete_Text 删除
+Delete_Tooltip 从库存永久删除
+
+Scrap_Text 回收
+Scrap_Tooltip 回收该物品并得到"合成材料"。
+
+Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
+
+Unknown 出现了莫名其妙的错误！请下载游戏更新或重启游戏！

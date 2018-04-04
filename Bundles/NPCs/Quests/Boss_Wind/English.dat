@@ -1,0 +1,4 @@
+Name <color=mythical>余波</color>
+Description 在Peter从Yekativurg逃离时他勉强避免了一个巨大的僵尸的攻击，它从空中出击,撞击地面造成“微型地震”。这令他难以忘怀，如果它被处理的话，他将会很感激。
+
+Condition_0 战胜 {0}/{1} <color=mythical>地震Boss</color>

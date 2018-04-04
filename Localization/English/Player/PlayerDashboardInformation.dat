@@ -1,0 +1,79 @@
+Zoom_In_Button 放大
+Zoom_In_Button_Tooltip 按比例放大
+
+Zoom_Out_Button 缩小
+Zoom_Out_Button_Tooltip 按比例缩小
+
+Center_Button 查看自己的位置
+Center_Button_Tooltip 以玩家为中心移动地图
+
+Chart 当前地图: 图表地图
+Satellite 当前地图: 卫星地图
+
+Quests 任务: {0}
+Quests_Tooltip 查看任务列表
+Groups 组
+Groups_Tooltip 查看组
+Players 玩家: {0}/{1}
+Players_Tooltip 查看玩家列表
+
+Group_Members 成员： {0}/{1}
+Group_Rename 更改名称
+Group_Rename_Tooltip 提交新名字
+Group_Leave 离开
+Group_Leave_Tooltip 离开该组
+Group_Delete 删除
+Group_Delete_Tooltip 删除该组并踢出所有成员
+Group_Delete_Confirm 确认
+Group_Delete_Confirm_Tooltip 放弃该组并踢出所有成员
+Group_Delete_Deny 取消
+Group_Delete_Deny_Tooltip 取消删除该组的操作
+Group_Join 加入
+Group_Join_Tooltip 同意邀请
+Group_Ignore 忽略
+Group_Ignore_Tooltip 拒绝邀请
+Group_Create 创建新组
+Group_Create_Tooltip 成为这个组的所有者
+Group_Promote 升职
+Group_Promote_Tooltip 提升等级
+Group_Demote 降职
+Group_Demote_Tooltip 降低等级
+
+Radio_Frequency_Label 当前无线电频率:
+Radio_Frequency_Tune 调谐
+Radio_Frequency_Tune_Tooltip 调整频率
+Radio_Frequency_Reset 重置
+Radio_Frequency_Reset_Tooltip 重置为默认频率
+
+Group_Rank_Member 成员
+Group_Rank_Admin 管理员
+Group_Rank_Owner 所有者
+
+Streamer Streamer(主播)模式下会隐藏玩家
+Mute_On 静音
+Mute_Off 取消静音
+Mute_Tooltip 静音/取消静音
+Vote_Kick 踢出
+Vote_Kick_Tooltip 投票踢人
+Group_Kick 踢出
+Group_Kick_Tooltip 移除这个成员
+Group_Invite 邀请
+Group_Invite_Tooltip 发送Steam组邀请
+Spy 侦察
+Spy_Tooltip 向你发送这个玩家的游戏截图
+
+No_Chart 没有找到图表地图
+No_GPS 没有找到GPS
+
+Rep {0} [{1}]
+Rep_Neutral 中立
+Rep_Vigilante 义务警员
+Rep_Constable 高级警员
+Rep_Deputy 副警长
+Rep_Sheriff 警长
+Rep_Paragon 模范
+Rep_Thug 罪犯
+Rep_Outlaw 逃犯
+Rep_Gangster 歹徒
+Rep_Bandit 土匪
+Rep_Villain 恶棍

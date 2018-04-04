@@ -1,0 +1,46 @@
+FOV_Slider_Label 视角 [{0}°]
+Volume_Slider_Label 音量 [{0}%]
+Voice_Slider_Label 语音输入的音量 [{0}%]
+Debug_Toggle_Label 显示FPS和Debug信息
+Music_Toggle_Label 打开主菜单/死亡的音乐
+Splashscreen_Toggle_Label 启用启动动画
+Timer_Toggle_Label 打开竞技场的开始提醒
+Physics_Toggle_Label 打开物理效果
+Gore_Toggle_Label 打开血液效果
+Filter_Toggle_Label 过滤别人的文字聊天(合并相同文字)
+Chat_Text_Toggle_Label 允许别人的文字聊天
+Chat_Voice_In_Toggle_Label 允许别人的语音聊天
+Chat_Voice_Out_Toggle_Label 允许自己的语音输入
+Hints_Toggle_Label 打开提示(例子:增加经验值的提示)
+Ambience_Toggle_Label 白天或黑夜的气氛
+Streamer_Toggle_Label Streamer(主播)模式
+Featured_Workshop_Toggle_Label 精选的创意工坊物品
+Show_Hotbar_Toggle_Label 显示快捷栏
+
+Matchmaking_Show_All_Maps_Toggle_Label 在快速匹配中显示所有地图
+Min_Matchmaking_Players_Field_Label 匹配到的最小玩家数
+Max_Matchmaking_Ping_Field_Label 匹配到的最大ping值
+
+Metric_On 公制
+Metric_Off 英制
+Metric_Tooltip 点击按钮来改变测量单位
+
+Talk_On 开启
+Talk_Off 关闭
+Talk_Tooltip NPC聊天文本动画
+
+UI_Free 白色皮肤
+UI_Pro 黑色皮肤
+UI_Tooltip 切换UI的黑色/白色皮肤
+
+Hitmarker_Static 静态的命中标记
+Hitmarker_Dynamic 动态的命中标记
+Hitmarker_Tooltip 锁定命中的目标
+
+Crosshair_Box 准心颜色
+Hitmarker_Box 命中的颜色
+Critical_Hitmarker_Box 爆头的颜色
+Cursor_Box 光标颜色
+Background_Box 界面背景颜色
+Foreground_Box 界面前景颜色
+Font_Box 字体颜色

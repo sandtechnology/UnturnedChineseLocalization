@@ -1,0 +1,4 @@
+Name 食品箱 #4
+
+Interactability_Condition_0 已携带着食品箱。
+Interact 捡起食品箱[{0}]

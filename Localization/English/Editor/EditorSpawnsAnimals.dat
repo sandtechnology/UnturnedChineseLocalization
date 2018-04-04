@@ -1,0 +1,29 @@
+TableNameFieldLabelText 表
+AddTableButtonText 添加
+AddTableButtonTooltip 创建
+RemoveTableButtonText 删除
+RemoveTableButtonTooltip 移除表
+
+SelectionBoxLabelText 选择
+
+TableIDFieldLabelText 生成ID
+
+TierNameFieldLabelText 类别
+AddTierButtonText 添加
+AddTierButtonTooltip 创建类别
+RemoveTierButtonText 删除
+RemoveTierButtonTooltip 移除类别
+
+AnimalIDFieldLabelText 名字
+AddAnimalButtonText 添加
+AddAnimalButtonTooltip 添加动物
+RemoveAnimalButtonText 删除
+RemoveAnimalButtonTooltip 移除动物
+
+RadiusSliderLabelText 半径
+
+AddButtonText 添加 [{0}]
+AddButtonTooltip 创建刷新点
+
+RemoveButtonText 删除 [{0}]
+RemoveButtonTooltip 移除刷新点

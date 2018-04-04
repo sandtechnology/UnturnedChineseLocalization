@@ -1,0 +1,28 @@
+DensitySliderLabelText 密度
+ChanceSliderLabelText 生成概率
+HealthFieldLabelText 耐久度
+Tree_0_ToggleLabelText 树 #1
+Tree_1_ToggleLabelText 树 #2
+Flower_0_ToggleLabelText 花 #1
+Flower_1_ToggleLabelText 花 #2
+RockToggleLabelText 石头
+RoadToggleLabelText 道路
+SnowToggleLabelText 雪
+
+BakeGlobalResourcesButtonText 全局生成
+BakeGlobalResourcesButtonTooltip 生成地图资源
+
+BakeLocalResourcesButtonText 局部生成
+BakeLocalResourcesButtonTooltip 生成地图资源
+
+BakeSkyboxResourcesButtonText 生成天空盒
+BakeSkyboxResourcesButtonTooltip 生成地图资源
+
+SelectionBoxLabelText 选择
+RadiusSliderLabelText 半径
+
+AddButtonText 添加 [{0}]
+AddButtonTooltip 创建刷新点
+
+RemoveButtonText 删除 [{0}]
+RemoveButtonTooltip 移除刷新点

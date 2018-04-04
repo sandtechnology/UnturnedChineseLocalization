@@ -1,0 +1,15 @@
+Search_Button 开始匹配
+Search_Button_Tooltip 开始匹配服务器
+Info_Button 详细信息...
+Info_Button_Tooltip 查看最佳服务器的详细信息
+Lucky_Button 碰碰运气
+Lucky_Button_Tooltip 加入服务器
+
+Progress_Matches 已找到符合要求的 {0} 个服务器，正在比较出最佳的服务器...
+Progress_Best 最佳服务器 - {0}
+Match_No 未知
+Match_Yes 玩家: {0}/{1} Ping: {2} 
+
+Easy_Button 简单
+Normal_Button 普通
+Hard_Button 困难

@@ -1,0 +1,4 @@
+Name 寻找机械零件
+Description <color=rare>首席工程师Heitor</color> 需要你在仓库内寻找备用的机械零件。
+
+Condition_0 找到机械零件 {0}/{1}

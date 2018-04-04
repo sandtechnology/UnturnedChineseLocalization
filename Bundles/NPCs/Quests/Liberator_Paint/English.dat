@@ -1,0 +1,5 @@
+Name 新鲜的油漆外衣
+Description Rusty认为Liberator(解放者)的名字因油漆开始褪色而需要重新润色了，他很确定你下次要去的Saint Petersburg(圣彼得堡)的五金店(Hardware)里还有点白色油漆。
+
+Condition_0 找到白色油漆 {0}/1
+Condition_1 润色 "Liberator" {0}/1

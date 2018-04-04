@@ -1,0 +1,36 @@
+Return_Button_Text 返回
+Return_Button_Tooltip 返回
+Options_Button_Text 游戏设置
+Options_Button_Tooltip 游戏设置
+Graphics_Button_Text 画质设置
+Graphics_Button_Tooltip 画质设置
+Display_Button_Text 显示设置
+Display_Button_Tooltip 显示设置
+Controls_Button_Text 控制设置
+Controls_Button_Tooltip 控制设置
+Exit_Button_Text 退出
+Exit_Button_Timer 退出 [{0}]
+Exit_Button_Tooltip 返回菜单。
+Suicide_Button_Text 自杀
+Suicide_Button_Tooltip 在其它地方重生
+Suicide_Button_Confirm 放弃治疗
+Suicide_Button_Confirm_Tooltip 苟不住了，还是自杀吧
+Suicide_Button_Deny 继续苟活
+Suicide_Button_Deny_Tooltip 我还能再苟一会
+Suicide_Disabled 已被禁用
+
+Spy_Refresh_Button_Text 监察
+Spy_Refresh_Button_Tooltip 获取该玩家的游戏截图
+Spy_Slay_Button_Text 封禁
+Spy_Slay_Button_Tooltip 杀死并永久封禁
+
+Server {1} [{2}] 地图:{0}
+VAC_Secure VAC安全
+VAC_Insecure VAC不安全
+BattlEye_Secure 需要BattlEye
+BattlEye_Insecure BattlEye已禁用
+Streamer Streamer(主播)模式
+
+Favorite_On_Button_Text 收藏
+Favorite_Off_Button_Text 取消收藏
+Favorite_Button_Tooltip 收藏/取消收藏

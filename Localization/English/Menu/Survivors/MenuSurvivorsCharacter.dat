@@ -1,0 +1,20 @@
+Name_Label {0}
+Nick_Label [{0}]
+
+Name_Field_Label 角色名字
+Nick_Field_Label 昵称
+
+Skillset_0 平民
+Skillset_1 消防员
+Skillset_2 警察
+Skillset_3 特种兵
+Skillset_4 农民
+Skillset_5 渔民
+Skillset_6 伐木工
+Skillset_7 工人
+Skillset_8 厨师
+Skillset_9 小偷
+Skillset_10 医生
+Skillset_Box_Label 职业：
+
+Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]

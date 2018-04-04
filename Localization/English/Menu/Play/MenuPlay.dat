@@ -1,0 +1,12 @@
+ConnectButtonText 连接
+ConnectButtonTooltip 使用IP连接服务器
+ServersButtonText 服务器
+ServersButtonTooltip 进入服务器进行多人游戏
+SingleplayerButtonText 单人游戏
+SingleplayerButtonTooltip 单人游戏
+MatchmakingButtonText 快速匹配
+MatchmakingButtonTooltip 快速匹配你需要的服务器
+LobbiesButtonText 组队大厅
+LobbiesButtonTooltip 与好友一起组队进入服务器
+TutorialButtonText 教程
+TutorialButtonTooltip 进入教程关

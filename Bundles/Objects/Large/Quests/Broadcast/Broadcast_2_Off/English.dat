@@ -1,0 +1,5 @@
+Name 广播 #3 关闭
+
+Interactability_Condition_0 {0}/1 广播修理工具包
+
+Interact 修复 [{0}]

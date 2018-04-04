@@ -1,0 +1,4 @@
+Name 保险丝盒！
+Description Thomas在安装之前你给<color=legendary>海军上校Norton</color> 的保险丝时发现它被僵尸占领了，不得不在他打开无线电塔之前回来。他想让你走到Haiku Stairs的顶部然后把广播站的保险丝盒打开。
+
+Condition_0 打开保险丝盒 {0}/1

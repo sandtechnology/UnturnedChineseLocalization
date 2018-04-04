@@ -1,0 +1,27 @@
+SelectionBoxLabelText 选择
+Search_Field_Hint 搜索物体...
+Search 搜索
+Search_Tooltip 搜索
+
+SnapTransformLabelText 快速变换
+SnapRotationLabelText 快速旋转
+
+LargeLabel 大型
+MediumLabel 中型
+SmallLabel 小型
+BarricadesLabel 可放置物体
+StructuresLabel 建筑物体
+NPCsLabel NPC
+
+TransformButtonText 更改位置 [{0}]
+TransformButtonTooltip 移动物件
+
+RotateButtonText 旋转 [{0}]
+RotateButtonTooltip 转动物件
+
+ScaleButtonText 规模 [{0}]
+ScaleButtonTooltip 规模
+
+CoordinateButtonTextGlobal 全部物件
+CoordinateButtonTextLocal 选中的物件
+CoordinateButtonTooltip 适用对象

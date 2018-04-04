@@ -1,0 +1,88 @@
+Motion_Blur_Toggle_Label 运动模糊
+Bloom_Toggle_Label 光晕
+Chromatic_Aberration_Toggle_Label 色差
+Film_Grain_Toggle_Label 胶片颗粒
+Clouds_Toggle_Label 云
+Terrain_Toggle_Label 地形景幕
+Blend_Toggle_Label 地形过渡
+Fog_Toggle_Label 雾的高度
+Nice_Foliage_Toggle_Label 随风摇摆的叶子
+Grass_Displacement_Toggle_Label 蹲下压草(提高真实性)
+Foliage_Focus_Toggle_Label 瞄准镜对焦树叶
+Ragdolls_Toggle_Label 布娃娃系统
+Debris_Toggle_Label 残骸碎片
+Blast_Toggle_Label 爆炸的痕迹
+Puddle_Toggle_Label 雨水坑
+Glitter_Toggle_Label 发光的雪
+Triplanar_Toggle_Label 三平面映射(喵喵喵？-自行百度)
+Skybox_Reflection_Label 天空盒的反射效果(低配慎用)
+
+Distance_Slider_Label 附近的绘制距离 [{0}%]
+Landmark_Slider_Label 地标的绘制距离 [{0}%]
+
+Anti_Aliasing_Button_Label 抗锯齿
+Anti_Aliasing_Button_Tooltip 减少图形边缘锯齿状的像素
+Anisotropic_Filtering_Button_Label 各向异性过滤(低配慎用)
+Anisotropic_Filtering_Button_Tooltip 在斜角处减少模糊的纹理
+Effect_Button_Label 效果持续时间
+Effect_Button_Tooltip 调整效果消失的时间
+Foliage_Button_Label 枝叶密度
+Foliage_Button_Tooltip 调整可见枝叶的数量
+Sun_Shafts_Button_Label 阳光光线特效
+Sun_Shafts_Button_Tooltip 调整光线的反射效果
+Lighting_Button_Label 灯光效果
+Lighting_Button_Tooltip 调整光影效果和光线的数量
+Ambient_Occlusion_Button_Label 环境阴影效果
+Ambient_Occlusion_Button_Tooltip 调整光影的缝隙大小
+Reflection_Button_Label 空间反射质量(低配慎用)
+Reflection_Button_Tooltip 调整水坑反射的质量
+Planar_Reflection_Button_Label 平面反射质量
+Planar_Reflection_Button_Tooltip 调整水面的反射效果
+Water_Button_Label 水面效果
+Water_Button_Tooltip 调整水的透明度，泡沫，波浪和反射效果
+Scope_Button_Label 视野效果
+Scope_Button_Tooltip 调整双渲染范围(远处和近处)的分辨率
+Outline_Button_Label 轮廓质量
+Outline_Button_Tooltip 调整突出的分辨率和模糊效果
+Bone_Button_Label 动画质量
+Bone_Button_Tooltip 调整每顶点混合的骨骼数目
+Terrain_Button_Label 地形质量
+Terrain_Button_Tooltip 调整景观的几何分辨率
+Wind_Button_Label 风的效果
+Wind_Button_Tooltip 计算风的细节, 更高的等级比低级的有更多的计算量(更真实)
+Tree_Mode_Button_Label 树木质量 [需要重启游戏]
+Tree_Mode_Button_Tooltip 选择要使用的树木模型，应用需要重启游戏
+Render_Mode_Button_Label 渲染模式
+Render_Mode_Button_Tooltip Forward渲染模式在老式显卡上可能运行得更好(更稳定), Deferred渲染模式支持贴花和空间反射。
+Landmark_Button_Label 地标
+Landmark_Button_Tooltip 扩展视野距离的极低细节模型
+
+Landmark_Off 关闭
+Landmark_Important 显示重要
+Landmark_All 显示所有
+
+FXAA FXAA
+TAA TAA
+MSAA2 2xMSAA
+MSAA4 4xMSAA
+MSAA8 8xMSAA
+AA_Hint Deferred渲染模式与MSAA不兼容！
+
+AF_Disabled 禁用
+AF_Per_Texture 根据纹理决定
+AF_Forced_On 保持开启
+
+TM_Legacy 旧版树木模型 [遗留物]
+TM_SpeedTree_Fade_None 新版树木模型 - 协调关闭
+TM_SpeedTree_Fade_SpeedTree 新版树木模型 - 协调开启
+
+Forward Forward [老式显卡]
+Deferred Deferred [新式显卡]
+
+Off 关
+Low 低
+Medium 中
+High 高
+Ultra 极高
+
+Warning_GPU_Instancing 警告：你的GPU(显卡)不会对草的渲染进行优化。

@@ -1,0 +1,7 @@
+Name 周边巡逻
+Description <color=legendary>上士Damien</color> 派你出去进行一次快速巡逻。寻找基地周边的近距离对讲机，并在返回前使用它呼叫总部汇报情况。
+
+Condition_0 用基地北边的对讲机呼叫总部
+Condition_1 用基地东边的对讲机呼叫总部
+Condition_2 用基地南边的对讲机呼叫总部
+Condition_3 用基地西边的对讲机呼叫总部

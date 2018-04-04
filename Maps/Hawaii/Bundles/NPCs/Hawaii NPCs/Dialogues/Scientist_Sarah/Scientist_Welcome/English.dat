@@ -1,0 +1,12 @@
+Message_0_Page_0 你已经很清楚地知道了自己在这里的名气，<name_char>！我是不屈者里的科学家头领 <name_npc> ！
+Message_0_Page_1 我一直在研究你带回的这个生物样本！我开始认为，神盾(Aegis)可能与爆发的疫情有关。我有一个任务需要你的帮忙！
+Message_1_Page_0 虽然你现在已经找到了相机，但是我有一个更重要的事情需要你协助。
+Message_2_Page_0 有要报告的事情吗？
+
+Response_0 我会去看看
+Response_1 不是现在
+Response_2 我找到了这个相机！
+Response_3 我会去看看
+Response_4 不是现在
+Response_5 我找到了另一个生物样本！
+Response_6 没有要报告的事情

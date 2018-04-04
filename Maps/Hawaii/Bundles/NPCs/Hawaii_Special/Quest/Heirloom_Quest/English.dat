@@ -1,0 +1,4 @@
+Name 我的宝贝
+Description 它是一个小的<color=common><b>铂金</b></color>戒指。我把它扔在这条路上的某个地方，它不可能走得太远！
+
+Condition_0 找到丢失的戒指 {0}/1

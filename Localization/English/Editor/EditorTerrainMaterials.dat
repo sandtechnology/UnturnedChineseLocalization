@@ -1,0 +1,32 @@
+OvergrowthSliderLabelText 覆盖程度
+ChanceSliderLabelText 生长概率
+SteepnessFieldLabelText 不平整度
+HeightValueLabelText 高度
+TransitionSliderLabelText 过渡
+Grassy_0_ToggleLabelText 草皮 #1
+Grassy_1_ToggleLabelText 草皮 #2
+Flowery_0_ToggleLabelText 花 #1
+Flowery_1_ToggleLabelText 花 #2
+RockyToggleLabelText 石头
+RoadToggleLabelText 道路
+SnowyToggleLabelText 雪地
+FoundationToggleLabelText 地基
+ManualToggleLabelText 手工绘制
+SteepnessToggleLabelText 忽略陡度
+HeightToggleLabelText 忽略高度
+FootprintToggleLabelText 忽略足迹
+
+BakeGlobalMaterialsButtonText 高质量生成
+BakeGlobalMaterialsButtonTooltip 在游戏中的阿尔法地图
+
+BakeLocalMaterialsButtonText 低质量生成
+BakeLocalMaterialsButtonTooltip 编辑器中的阿尔法地图
+
+SelectionBoxLabelText 选择
+SizeSliderLabelText 大小
+NoiseSliderLabelText 噪点
+PreviewToggleLabelText 预览
+
+Map2ButtonText1 主要
+Map2ButtonText2 次要
+Map2ButtonTooltip 景观的主次，次要则更注重性能。

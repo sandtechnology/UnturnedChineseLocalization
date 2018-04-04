@@ -1,0 +1,7 @@
+Name 正在播出
+Description <color=legendary>指挥官Laurence</color>希望让俄罗斯的无线电发射塔再次工作，并广播到仍然在那里的任何生还者。他说，下面的技工Natalie可以提供一个你需要的工具包。
+
+Condition_0 获得广播修理工具包 {0}/1
+Condition_1 修复南方的广播塔 {0}/1
+Condition_2 修复西北方的广播塔 {0}/1
+Condition_3 修复东北方的广播塔 {0}/1

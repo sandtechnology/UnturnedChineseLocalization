@@ -1,0 +1,20 @@
+Type_0_Tooltip 工具
+Type_1_Tooltip 服装
+Type_2_Tooltip 补给品
+Type_3_Tooltip 器械
+Type_4_Tooltip 弹药
+Type_5_Tooltip 可放置物品
+Type_6_Tooltip 建筑
+Type_7_Tooltip 公共设施
+Type_8_Tooltip 家具
+Type_9_Tooltip 维修
+
+Skill_1 需要制作等级 {0}
+Skill_2 需要烹饪等级 {0} + 热量(附近有篝火)
+Skill_3 需要工程师等级 {0}
+
+Search_Field_Hint 按物品名称筛选合成...
+Search 搜索
+Search_Tooltip 搜索合成
+Hide_Uncraftable_Toggle_Label 隐藏当前无法进行的合成配方
+No_Blueprints 该类别中暂无可制作项目。

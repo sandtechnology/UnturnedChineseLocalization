@@ -1,0 +1,67 @@
+InsecureWarningText WARNING: VALVE ANTI-CHEAT IS DISABLED
+
+PlayerConnectedText Connecting: PlayerID: {0} Name: {1} Character: {2}
+PlayerDisconnectedText Disconnecting: PlayerID: {0} Name: {1} Character: {2}
+
+Dismiss_RPC_Credits Kicking for packet spam: PlayerID: {0} Name: {1} Character: {2}
+Dismiss_Timeout Kicking for inactivity: PlayerID: {0} Name: {1} Character: {2}
+
+Global [World] {0} [{1}]: "{2}"
+Local [Area] {0} [{1}]: "{2}"
+Group [Group] {0} [{1}]: "{2}"
+
+Leg leg
+Arm arm
+Spine torso
+Skull head
+
+Bleeding {0} [{1}] bled to death!
+Bones {0} [{1}] fractured to death!
+Freezing {0} [{1}] froze to death!
+Burning {0} [{1}] burned to death!
+Food {0} [{1}] starved to death!
+Water {0} [{1}] dehydrated to death!
+Gun {0} [{1}] was shot in the {2} by {3} [{4}]!
+Melee {0} [{1}] was chopped in the {2} by {3} [{4}]!
+Zombie {0} [{1}] was mauled by a zombie!
+Animal {0} [{1}] was mauled by an animal!
+Suicide {0} [{1}] killed themself.
+Infection {0} [{1}] was infected to death!
+Punch {0} [{1}] was punched in the {2} by {3} [{4}]!
+Breath {0} [{1}] suffocated to death!
+Roadkill {0} [{1}] was roadkilled by {2} [{3}]!
+Vehicle {0} [{1}] was blown up by a vehicle!
+Grenade {0} [{1}] was blown up by {2} [{3}] with a grenade!
+Shred {0} [{1}] was shredded to bits!
+Landmine {0} [{1}] was blown up by a landmine!
+Arena {0} [{1}] was eliminated by the arena!
+Missile {0} [{1}] was blown up by {2} [{3}] with a missile!
+Charge {0} [{1}] was blown up by {2} [{3}] with a remote detonator!
+Splash {0} [{1}] was blown up by {2} [{3}] with an explosive bullet!
+Sentry {0} [{1}] was shot by a sentry gun!
+Acid {0} [{1}] was blown up by a zombie!
+Boulder {0} [{1}] was crushed by a zombie!
+Burner {0} [{1}] was burned by a zombie!
+Spit {0} [{1}] was dissolved by a zombie!
+Spark {0} [{1}] was electrocuted by a zombie!
+
+Vote_Kick {0} [{1}] 正在投票踢出 {2} [{3}]
+Vote_Pass 投票通过!
+Vote_Fail 投票未通过!
+
+New 新
+Updated 已更新！
+Rich_Presence_Editing 正在编辑 {0} 地图
+Rich_Presence_Playing 正在玩 {0} 地图
+Rich_Presence_Menu 主菜单
+Rich_Presence_Lobby 组队大厅
+
+Say 服务器
+Console 控制台
+
+UGC_Fail 提交失败。
+UGC_Success 提交成功！
+
+Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
+
+Shutdown 将在 {0} 秒后重启

@@ -1,0 +1,6 @@
+Name 为厨师Larry找食材!
+Description Larry想要振奋基地所有幸存者的精神。他想让你找到制作它需要的材料，这样他就能烤出一块翡翠色的浆果派了！
+
+Condition_0 找到翡翠色浆果 {0}/4
+Condition_1 找到盒装牛奶 {0}/1
+Condition_2 找到鸡蛋 {0}/1

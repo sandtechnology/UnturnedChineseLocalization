@@ -1,0 +1,4 @@
+Name 重新补给 II
+Description 自助餐厅急需橄榄油, 你被派往附近的农场寻找它。
+
+Condition_0 收集橄榄油 {0}/{1}

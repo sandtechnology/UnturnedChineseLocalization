@@ -1,0 +1,4 @@
+Name 寻找飞机燃料
+Description <color=rare>副官Oswald</color> 愿意给你一个侦察位于莫斯科东北方向的机场情况的尝试，这通常涉及清理好几个僵尸，然后分析环境，准备一份确定哪些领域是值得保护的的报告。
+
+Condition_0 用 <color=legendary>信标(尸潮生成器)</color> 清除机场的僵尸 {0}/{1}

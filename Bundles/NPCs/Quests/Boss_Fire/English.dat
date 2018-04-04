@@ -1,0 +1,4 @@
+Name <color=mythical>焦土政策</color>
+Description 最近 Norbert 在帮助搜刮 Novobirsk 的任务中遇到了一个巨大的"喷火"僵尸. 不幸的是，这意味着:如果不杀死僵尸，他们就不能在那里搜刮供应品。
+
+Condition_0 战胜 {0}/{1} <color=mythical>火焰BOSS</color>

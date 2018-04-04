@@ -1,0 +1,4 @@
+Name 清洗碗碟
+Description <color=epic>首席厨师Pekka</color> 希望你把桌子上的脏盘子清洗干净。
+
+Condition_0 清洗盘子 {0}/{1}

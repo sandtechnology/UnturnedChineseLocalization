@@ -1,0 +1,53 @@
+//Neutral Response Set 0
+Message_0_Page_0 Caution stranger, keep your hands where I can see them!
+Message_1_Page_0 Halt! <pause> State your buisness.
+Message_2_Page_0 Who goes there!
+//Neutral Response Set 1
+Message_3_Page_0 What do you want?
+Message_4_Page_0 Have something to say?
+Message_5_Page_0 I'm not here to chat.
+//Neutral Response Set 2
+Message_6_Page_0 Get Lost.
+Message_7_Page_0 Have something, <pause> important, to say?
+Message_8_Page_0 You're wasting my time.
+//Neutral Response Set 3
+Message_9_Page_0 ...
+Message_10_Page_0 ... <pause> Go. <pause> Now.
+
+//Hostile Response Set 0
+Message_11_Page_0 You're not welcomed here.
+Message_12_Page_0 You've got quite the nerve to poke your face in these parts.
+Message_13_Page_0 I'd leave if I were you.
+//Hostile Response Set 1
+Message_14_Page_0 Testing my patience?
+Message_15_Page_0 I've got an itchy trigger finger, and oh boy do I want to scratch it.
+Message_16_Page_0 You should leave before I change my mind.
+//Hostile Response Set 2
+Message_17_Page_0 Don't try me, I'll waste you with no regret.
+Message_18_Page_0 I've got an itchy trigger finger, and oh boy do I want to scratch it.
+Message_19_Page_0 I've got a bullet with you're name on it.
+
+//Friendly Response Set 0
+Message_20_Page_0 Glad to see you made it back, alive.
+Message_21_Page_0 Welcome back, Soldier.
+Message_22_Page_0 Few, I was worried you might've gotten lost.
+//Friendly Response Set 1
+Message_23_Page_0 Are going in or staying out?
+Message_24_Page_0 <pause>Yes?
+Message_25_Page_0 What're you doing out here still?
+//Friendly Response Set 2
+Message_26_Page_0 We can trade spots if you like it here so much.
+Message_27_Page_0 I need to focus here, I'll catch you later.
+Message_28_Page_0 Sorry, can't talk now.
+
+Response_0 What is this place?
+Response_1 I've completed the tasks.
+Response_2 Don't shoot! I was just exploring!
+Response_3 Hello.
+Response_4 Bye...
+Response_5 I'm on my way out.
+Response_6 I was never here.
+Response_7 I'm on my way out!
+Response_8 Hello!
+Response_9 oh, uh...
+Response_10 Seeya!

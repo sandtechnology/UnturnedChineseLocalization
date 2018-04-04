@@ -1,0 +1,4 @@
+Name 科学！
+Description <color=uncommon>海军少尉Stuart</color> 想知道在Holokai Harbor的实验室研究了什么。他需要你清除所有僵尸，然后在实验室检查有没有遗留的研究！
+
+Condition_0 用 <color=legendary>信标(尸潮生成器)</color> 清除Holokai Harbor的僵尸 {0}/{1}

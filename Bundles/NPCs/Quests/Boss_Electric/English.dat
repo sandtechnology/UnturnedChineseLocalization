@@ -1,0 +1,4 @@
+Name <color=mythical>火花</color>
+Description While 在飞往南方的 Jhavesk 时，<color=uncommon>少尉Cliff</color>队伍的直升机遇到了发着火花的巨大僵尸的几次电击。如果你有足够的勇气，请在它引起更多的麻烦请杀死它，他肯定会很感激你。
+
+Condition_0 战胜 {0}/{1} <color=mythical>雷电BOSS</color>

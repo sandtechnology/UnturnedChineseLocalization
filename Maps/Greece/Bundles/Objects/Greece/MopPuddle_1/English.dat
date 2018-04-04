@@ -1,0 +1,4 @@
+Name 需要清理的水坑 #2
+
+Interactability_Condition_0 拖把太脏了，请清洗拖把。
+Interact 清洗[{0}]

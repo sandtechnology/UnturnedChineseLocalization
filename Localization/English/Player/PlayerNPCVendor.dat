@@ -1,0 +1,11 @@
+Experience 经验: {0}
+Return 返回
+Return_Tooltip 退出商店
+
+Buying 正在收购:
+Selling 正在出售:
+
+Amount_Buy {0}/{1}
+Amount_Sell x{0}
+Price 价格: {0}
+Cost 花费: {0}

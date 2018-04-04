@@ -1,0 +1,6 @@
+Name 寻找Chuck的木筏材料！
+Description Chuck想要你找到他做木筏需要的材料！这样他就能造出一个筏子来离开这个小岛！
+
+Condition_0 找到松树原木 {0}/3
+Condition_1 找到划桨 {0}/1
+Condition_2 找到绳子 {0}/2

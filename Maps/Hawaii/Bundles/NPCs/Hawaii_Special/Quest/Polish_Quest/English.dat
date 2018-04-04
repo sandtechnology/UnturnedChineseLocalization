@@ -1,0 +1,3 @@
+Name 闪闪发光的
+Description 在这个时候，这个戒指似乎已经失去光泽了。 你能找到 <color=uncommon>化工产品</color> 来让我清理它吗？
+Condition_0 找到 <color=uncommon>化工产品</color> {0}/1

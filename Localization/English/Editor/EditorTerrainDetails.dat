@@ -1,0 +1,14 @@
+DensitySliderLabelText 密度
+ChanceSliderLabelText 生成概率
+Grass_0_ToggleLabelText 草皮 #1
+Grass_1_ToggleLabelText 草皮 #2
+Flower_0_ToggleLabelText 花 #1
+Flower_1_ToggleLabelText 花 #2
+RockToggleLabelText 石头
+RoadToggleLabelText 道路
+SnowToggleLabelText 雪地
+
+SelectionBoxLabelText 选择
+
+BakeDetailsButtonText 生成地图
+BakeDetailsButtonTooltip 生成细节化地图

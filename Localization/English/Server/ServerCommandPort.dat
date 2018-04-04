@@ -1,0 +1,8 @@
+InvalidNumberErrorText Failed to convert {0} into a number.
+RunningErrorText Failed to change port while running.
+
+PortCommandText Port
+PortInfoText Port [Number]
+PortHelpText This assigns the port of the server. Port + 1 and port + 2 are also used, so remember to open them on the router as well.
+
+PortText Successfully set port to {0}!

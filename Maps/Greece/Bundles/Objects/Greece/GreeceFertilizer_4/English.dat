@@ -1,0 +1,4 @@
+Name Large Fertilizer Bag 5
+
+Interactability_Condition_0 Already Carrying Fertilizer.
+Interact Pickup Fertilizer[{0}]

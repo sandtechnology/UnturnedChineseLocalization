@@ -1,0 +1,4 @@
+Name 补给搬运工 I
+Description <color=epic>供给管理员Milos</color> 需要你去搬运搜刮小队带回来的补给箱。它能在庭院中被找到。
+
+Condition_0 搬运补给箱 {0}/{1}

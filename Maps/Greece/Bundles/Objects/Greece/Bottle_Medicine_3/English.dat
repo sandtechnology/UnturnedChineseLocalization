@@ -1,0 +1,4 @@
+Name 瓶装药品 #4
+
+//Interactability_Condition_0 Not Carrying any dishes.
+Interact 收集瓶装消毒剂[{0}]

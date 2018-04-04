@@ -1,0 +1,5 @@
+Name 备用零件
+Description <color=uncommon>海军少尉Winston("闲聊")</color> 需要无线通信设备的一些零件来修复他的收音机。
+
+Condition_0 收集 <color=rare>对讲机</color> {0}/{1}
+Condition_1 收集 <color=rare>耳机</color> {0}/{1}

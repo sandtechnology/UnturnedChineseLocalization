@@ -1,0 +1,20 @@
+Author_Label 游戏作者： {1}  汉化作者：wswlxz(汉化原作者) sand(接坑汉化作者)  //    版本号为 {0}
+
+Stat_Kills_Zombies_Normal 你已杀了 {0} 只正常僵尸! 全球玩家总共杀死了 {1} 只正常僵尸！
+Stat_Kills_Players 你已杀死 {0} 位玩家！ 全球玩家总共杀死了 {1} 位玩家！
+Stat_Deaths_Players 你已死亡 {0} 次！ 全球玩家总共死亡了 {1} 次！
+Stat_Found_Items 你已找到 {0} 个物品！ 全球玩家总共找到了 {1} 个物品！
+Stat_Found_Resources 你已收获 {0} 次！ 全球玩家总共收获了 {1} 次！
+Stat_Found_Experience 你已获得 {0} 点经验值！ 全球玩家总共获得了 {1} 点经验值！
+Stat_Kills_Zombies_Mega 你已杀死 {0} 只大型僵尸！ 全球玩家总共杀死了 {1} 只大型僵尸！
+Stat_Kills_Animals 你已杀死 {0} 只动物！ 全球玩家总共杀死了 {1} 只动物！
+Stat_Found_Crafts 你已合成 {0} 件物品！ 全球玩家总共合成了 {1} 件物品！
+Stat_Found_Fishes 你已钓到 {0} 条鱼！全球玩家总共钓到了 {1} 条鱼!
+Stat_Found_Plants 你已种植 {0} 次农作物！ 全球玩家总共种植了 {1} 次农作物！
+Stat_Accuracy 你已以 {1}% 的命中率命中生物 {0} 次！ 全球玩家总共以 {3}% 的命中率命中生物 {2} 次！
+Stat_Headshots 你已射爆 {0} 次生物的头！ 全球玩家总共射爆了 {1} 次生物的头！
+Stat_Travel_Foot 你已在游戏中步行 {0} ！全球玩家在游戏中总共步行了 {1} ！
+Stat_Travel_Vehicle 你已在游戏中使用载具行驶 {0} ！全球玩家在游戏中总共使用载具行驶了 {1} ！
+Stat_Arena_Wins 你已赢得 {0} 次竞技场战斗！ 全球玩家总共赢得了 {1} 次竞技场战斗！
+Stat_Found_Buildables 你已建造 {0} 个物体！全球玩家总共建造了 {1} 个物体！
+Stat_Found_Throwables 你已投掷 {0} 个物品! 全球玩家总共投掷了 {1} 个物品!

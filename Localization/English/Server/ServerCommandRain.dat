@@ -1,0 +1,8 @@
+InvalidParameterErrorText Failed to find parameters in format [Min Freq]/[Max Freq]/[Min Time]/[Max Time].
+InvalidNumberErrorText Failed to convert {0} into a number.
+
+RainCommandText Rain
+RainInfoText Rain [Min Freq]/[Max Freq]/[Min Time]/[Max Time]
+RainHelpText This assigns the rain frequency and duration where 0 is no time, 0.5 is 50% of a day and 1 is 100%. 
+
+RainText Successfully set rain!

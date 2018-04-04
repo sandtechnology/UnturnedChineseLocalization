@@ -1,0 +1,4 @@
+Name 走私者的海湾
+Description 如果你认为这值得一试，<color=epic>长官Brian</color>就给你调查走私的许可。他认为所有线索的基础是建立于沿着海岸线的地方-装载货物的痕迹上。
+
+Condition_0 找到证据 {0}/1

@@ -1,0 +1,4 @@
+Name 锅 #2
+
+//Interactability_Condition_0 你必须把菜肴倒掉！
+Interact 收集蒸煮锅[{0}]

@@ -1,0 +1,16 @@
+BrowseButtonText 浏览
+BrowseButtonTooltip 浏览
+SubmitButtonText 提交
+SubmitButtonTooltip 提交
+EditorButtonText 编辑
+EditorButtonTooltip 编辑
+ErrorButtonText 日志
+ErrorButtonTooltip 查看日志
+LocalizationButtonText 本地化
+LocalizationButtonTooltip 比较差异的工具
+SpawnsButtonText 生成表
+SpawnsButtonTooltip 调试掉落率
+ModulesButtonText 模块
+ModulesButtonTooltip 查看已被加载的模块
+
+Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]

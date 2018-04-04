@@ -1,0 +1,8 @@
+Name 传送控制器B
+
+Interact 使用传送器 [{0}]
+
+Interactability_Condition_0 缺少传送器线圈
+Interactability_Condition_1 缺少传送器线圈
+Interactability_Condition_2 缺少传送器线圈
+Interactability_Condition_3 信号已中断

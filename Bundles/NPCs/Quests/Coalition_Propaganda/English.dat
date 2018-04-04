@@ -1,0 +1,8 @@
+Name 获得消息
+Description 对于没有收音机的幸存者，<color=legendary>指挥官Laurence</color> 计划张贴关于Liberator(解放者)方向的海报。他建议将它们放置在每个城镇/城市的警察局中。
+
+Condition_0 Jhavesk的警察局 {0}/1
+Condition_1 Yekativurg的警察局 {0}/1
+Condition_2 St. Petersburg的警察局 {0}/1
+Condition_3 Moscow西部的警察局 {0}/1
+Condition_4 Moscow南方的警察局 {0}/1

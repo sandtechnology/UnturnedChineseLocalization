@@ -1,0 +1,5 @@
+Name 双手剑(回收)
+
+Interact 放入双手剑 [{0}]
+
+Interactability_Condition_1 缺少双手剑

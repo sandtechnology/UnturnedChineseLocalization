@@ -1,0 +1,35 @@
+TableNameFieldLabelText 僵尸表
+AddTableButtonText 添加
+AddTableButtonTooltip 创建僵尸表
+RemoveTableButtonText 删除
+RemoveTableButtonTooltip 移除僵尸表
+
+SelectionBoxLabelText 选择
+
+MegaToggleLabelText 巨型僵尸
+HealthFieldLabelText 血量
+DamageFieldLabelText 攻击伤害
+LootIndexFieldLabelText 物资数量
+LootIDFieldLabelText 物资ID
+XPFieldLabelText 经验
+RegenFieldLabelText 再生
+DifficultyGUIDFieldLabelText 难度GUID
+
+ItemIDFieldLabelText 物品ID
+AddItemButtonText 添加
+AddItemButtonTooltip 创建物品
+RemoveItemButtonText 删除
+RemoveItemButtonTooltip 移除物品
+
+RadiusSliderLabelText 半径
+
+AddButtonText 添加 [{0}]
+AddButtonTooltip 创建刷新点
+
+RemoveButtonText 删除 [{0}]
+RemoveButtonTooltip 移除刷新点
+
+Slot_0 衣服
+Slot_1 裤子
+Slot_2 帽子
+Slot_3 背心

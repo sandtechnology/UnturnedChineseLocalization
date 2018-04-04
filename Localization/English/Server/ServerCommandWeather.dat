@@ -1,0 +1,11 @@
+NoWeatherErrorText Failed to find weather called {0}.
+
+WeatherCommandText Weather
+WeatherInfoText Weather [None | Storm | Blizzard]
+WeatherHelpText This starts or stops the current weather cycle.
+
+WeatherText Successfully set weather to {0}!
+
+WeatherNone None
+WeatherStorm Storm
+WeatherBlizzard Blizzard

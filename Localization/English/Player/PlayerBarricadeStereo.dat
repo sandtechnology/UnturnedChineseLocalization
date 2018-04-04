@@ -1,0 +1,6 @@
+Stop_Button 停止
+Stop_Button_Tooltip 暂停播放
+Close_Button 关闭
+Close_Button_Tooltip 关闭界面
+
+Volume_Slider_Label 音量: {0}%

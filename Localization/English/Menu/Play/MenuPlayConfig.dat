@@ -1,0 +1,163 @@
+Items 物品
+Vehicles 载具
+Zombies 僵尸
+Animals 动物
+Barricades 可放置物品
+Structures 建筑
+Players 玩家
+Objects 物体
+Events 事件
+Gameplay 游戏内设置
+
+Spawn_Chance 刷新几率 [0-1]
+Respawn_Time 重生时间
+Decay_Time 衰减时间
+Damage_Multiplier 伤害倍数
+Armor_Multiplier 护甲倍数
+
+Max_Instances_Tiny 迷你地图的最大数量
+Max_Instances_Small 小型地图的最大数量
+Max_Instances_Medium 中型地图的最大数量
+Max_Instances_Large 大型地图的最大数量
+Max_Instances_Insane 巨型地图的最大数量
+
+Despawn_Dropped_Time 玩家生成删除时间
+Despawn_Natural_Time 自然生成删除时间
+Has_Durability 是否有耐久
+
+Quality_Full_Chance 满质量的概率 [0-1]
+Quality_Multiplier 质量倍数
+
+Gun_Bullets_Full_Chance 枪内子弹全满的概率 [0-1]
+Gun_Bullets_Multiplier 枪内子弹倍数
+Magazine_Bullets_Full_Chance 子弹全满的概率 [0-1]
+Magazine_Bullets_Multiplier 子弹倍数
+Crate_Bullets_Full_Chance 子弹箱全满的概率 [0-1]
+Crate_Bullets_Multiplier 子弹箱倍数
+
+Loot_Chance 掉落战利品的概率 [0-1]
+Crawler_Chance 生成爬行僵尸的概率 [0-0.5]
+Sprinter_Chance 生成运动员僵尸的概率 [0-0.5]
+Flanker_Chance 生成隐形僵尸的概率 [0-0.5]
+Burner_Chance 生成燃烧僵尸的概率 [0-0.5]
+Acid_Chance 生成酸液僵尸的概率 [0-0.5]
+Boss_Electric_Chance 生成雷电BOSS的概率 [0-0.5]
+Boss_Wind_Chance 生成地震BOSS的概率 [0-0.5]
+Boss_Fire_Chance 生成火焰BOSS的概率 [0-0.5]
+Spirit_Chance 生成防弹运动员僵尸的概率 [0-0.5]
+Respawn_Day_Time 白天生成僵尸的时间间隔
+Respawn_Night_Time 夜晚生成僵尸的时间间隔
+Respawn_Beacon_Time 尸潮时生成僵尸的时间间隔
+Beacon_Experience_Multiplier 尸潮时的经验倍数
+Full_Moon_Experience_Multiplier 满月时的经验倍数
+Min_Drops 普通僵尸最小掉落物品数
+Max_Drops 普通僵尸最大掉落物品数
+Min_Mega_Drops 大型僵尸最小掉落物品数
+Max_Mega_Drops 大型僵尸最大掉落物品数
+Min_Boss_Drops Boss僵尸最小掉落物品数
+Max_Boss_Drops Boss僵尸最大掉落物品数
+Slow_Movement 缓慢地移动
+Can_Stun 能被击晕
+
+Has_Battery_Chance 有电池的概率
+Min_Battery_Charge 电池的最小电量
+Max_Battery_Charge 电池的最大电量
+Has_Tire_Chance 有轮胎的概率
+
+Experience_Multiplier 经验倍数
+Detect_Radius_Multiplier NPC的检测半径倍数
+Ray_Aggressor_Distance 用子弹或直接伤害雷击者的距离
+
+Health_Regen_Min_Food 自然回血的最小饱腹度
+Health_Regen_Min_Water 自然回血的最小水分值
+Health_Regen_Ticks 每一Tick自然回血的血量
+
+Food_Use_Ticks 饱腹度使用的Tick数值(秒为单位)
+Food_Damage_Ticks 饱腹度每一Tick减少的数值
+
+Water_Use_Ticks 水分值使用的Tick数值(秒为单位)
+Water_Damage_Ticks 水分值每一Tick减少的数值
+
+Virus_Infect 健康值开始持续下降的阈值
+Virus_Use_Ticks 健康值使用的Tick数值(秒为单位)
+Virus_Damage_Ticks 每一Tick健康值减少的数值
+
+Leg_Regen_Ticks 骨折后自愈的Tick(秒为单位)
+Bleed_Damage_Ticks 每一Tick血量减少的数值
+Bleed_Regen_Ticks 流血后自愈的Tick(秒为单位)
+
+Lose_Skills_PvP 战斗(被玩家杀死)死亡掉落技能的比例
+Lose_Skills_PvE 自然(其它原因而死)死亡掉落技能的比例
+Lose_Items_PvP 战斗(被玩家杀死)死亡掉落物品的比例
+Lose_Items_PvE 自然(其它原因而死)死亡掉落物品的比例
+Lose_Clothes_PvP 战斗(被玩家杀死)死亡掉落衣服
+Lose_Clothes_PvE 自然(其它原因而死)死亡掉落衣服
+
+Can_Hurt_Legs 能让腿受到伤害
+Can_Break_Legs 能骨折
+Can_Fix_Legs 骨折后能自愈
+Can_Start_Bleeding 能流血
+Can_Stop_Bleeding 流血后能自愈
+
+Rain_Frequency_Min 降雨频率(最小)
+Rain_Frequency_Max 降雨频率(最大)
+Rain_Duration_Min 雨天最短持续时间
+Rain_Duration_Max 雨天最长持续时间
+
+Snow_Frequency_Min 降雪频率(最小)
+Snow_Frequency_Max 降雪频率(最大)
+Snow_Duration_Min 雪天最短持续时间
+Snow_Duration_Max 雪天最长持续时间
+
+Binary_State_Reset_Multiplier 二进制状态复位(物体开关)时间的倍数
+Fuel_Reset_Multiplier 生成汽油的时间倍数
+Water_Reset_Multiplier 生成水的时间倍数
+Resource_Reset_Multiplier 生成资源的时间倍数
+Rubble_Reset_Multiplier 生成矿石的时间倍数
+
+Airdrop_Frequency_Min 每分钟空投频率(最小)
+Airdrop_Frequency_Max 每分钟空投频率(最大)
+Airdrop_Speed 空投速度
+Airdrop_Force 空投降落速度
+
+Arena_Min_Players 竞技场最低玩家数
+Arena_Compactor_Damage 竞技场边界伤害
+
+Arena_Clear_Timer 竞技场的清理时间
+Arena_Finale_Timer 竞技场的胜者时间
+Arena_Restart_Timer 竞技场重新开始的时间
+
+Arena_Use_Airdrops 竞技场使用空投
+Arena_Use_Compactor_Pause 竞技场使用边界停止系统
+
+Arena_Compactor_Delay_Timer 竞技场边界的开启延迟时间
+Arena_Compactor_Pause_Timer 竞技场边界的暂停时间
+
+Arena_Compactor_Speed_Tiny 竞技场边界迷你地图缩小速率	
+Arena_Compactor_Speed_Small 竞技场边界小型地图缩小速率
+Arena_Compactor_Speed_Medium 竞技场边界中型地图缩小速率
+Arena_Compactor_Speed_Large 竞技场边界大型地图缩小速率
+Arena_Compactor_Speed_Insane 竞技场边界巨型地图缩小速率
+Arena_Compactor_Shrink_Factor 竞技场边界的损耗因子系数
+
+Repair_Level_Max 维修技能最大等级
+Hitmarkers 有命中标记
+Crosshair 显示准星
+Ballistics 有弹道
+Chart 可在没有手绘地图的情况下查看手绘地图
+Satellite 可在没有GPS的情况下查看卫星地图
+Compass 可在没有指南针的情况下使用指南针
+Group_Map 在地图中能看到同组成员的位置
+Group_HUD 在HUD中能看到同组成员的位置
+Allow_Static_Groups 允许静态组(加入steam组的组队功能)
+Allow_Dynamic_Groups 允许动态组(大厅组队功能)
+Allow_Shoulder_Camera 允许挎式摄影机(第三人称摄影位置)
+Can_Suicide 可以自杀
+
+Timer_Exit 退出的等待时间
+Timer_Respawn 随机重生的等待时间
+Timer_Home 重生到床上的等待时间
+Max_Group_Members 组队成员的最大数量
+
+Default 恢复默认值
+Default_Tooltip 使用默认设置。

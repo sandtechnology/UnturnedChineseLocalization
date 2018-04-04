@@ -1,0 +1,21 @@
+Key_Text 购买钥匙
+Key_Tooltip 点击这里查看商店的页面。
+
+Unbox_Text 打开
+Unbox_Tooltip 使用钥匙打开箱子。
+
+Unwrap_Text 从箱子中取出
+Unwrap_Tooltip 从包裹中取出
+
+Origin_Unbox 你从箱子中取出一个道具！
+Origin_Unwrap 你从包裹中取出一个道具！
+
+Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
+Exchange_Timed_Out Steam物品服务器没有响应。当你刷新后你的物品将会在库存显示。
+Exchange_Unknown 你的游戏已经过时(下载更新)！
+Exchange_Mythic 出现了一个莫名其妙的错误！
+
+Rarity_Rare 罕见物品概率: {0}%
+Rarity_Epic 史诗物品概率: {0}% 
+Rarity_Legendary 传奇物品概率: {0}%
+Rarity_Mythical 神话物品概率: {0}%

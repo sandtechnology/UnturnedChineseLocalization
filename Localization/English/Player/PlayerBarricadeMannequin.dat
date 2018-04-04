@@ -1,0 +1,17 @@
+Cosmetics_Button 使用服装装饰装饰
+Cosmetics_Button_Tooltip 用你当前的服装装饰装饰人体模型
+Add_Button 放入衣服 [{0}]
+Add_Button_Tooltip 将你手中的衣服放到人体模型上
+Remove_Button 拿出衣服 [{0}]
+Remove_Button_Tooltip 从人体模型拿出衣服
+Swap_Button 切换服装
+Swap_Button_Tooltip 与人体模型交换服装
+Pose_Button_Tooltip 调整姿势
+Mirror_Button 镜像
+Mirror_Button_Tooltip 翻转姿势
+Cancel_Button 取消
+Cancel_Button_Tooltip 没有任何更改
+
+T T形的姿势
+Classic 经典的姿势
+Lie 放松的姿势

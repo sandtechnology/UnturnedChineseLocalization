@@ -1,0 +1,34 @@
+Type_Tooltip 目标资源类型
+Type_Item 物品
+Type_Vehicle 载具
+Type_Animal 动物
+
+View_Button 查看
+View_Button_Tooltip 寻找生成ID
+Raw_Button 复制
+Raw_Button_Tooltip 导出到剪贴板
+New_Button 创建
+New_Button_Tooltip 创建生成资源
+Write_Button 应用
+Write_Button_Tooltip 应用对资源文件的更改
+Add_Root_Spawn_Button 添加生成
+Add_Root_Spawn_Button_Tooltip 新的来源
+Remove_Root_Button 删除
+Remove_Root_Button_Tooltip 删除来源
+Add_Table_Asset_Button 添加资源
+Add_Table_Asset_Button_Tooltip 新表
+Add_Table_Spawn_Button 添加生成
+Add_Table_Spawn_Button_Tooltip 新表
+Remove_Table_Button 删除
+Remove_Table_Button_Tooltip 删除表
+Apply_Weights_Button 应用权重
+Apply_Weights_Button_Tooltip 应用计算机的百分比机会
+
+Roots_Box {0} - 来源
+Roots_Box_Tooltip 生成来源
+
+Tables_Box {0} - 表
+Tables_Box_Tooltip 生成结果
+
+Weight_Tooltip 权重
+Chance_Tooltip 几率

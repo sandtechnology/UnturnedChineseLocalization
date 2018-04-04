@@ -1,0 +1,30 @@
+TableNameFieldLabelText 车辆列表
+AddTableButtonText 添加
+AddTableButtonTooltip 创建车辆列表
+RemoveTableButtonText 删除
+RemoveTableButtonTooltip 移除车辆列表
+
+SelectionBoxLabelText 选择
+
+TableIDFieldLabelText 生成ID
+
+TierNameFieldLabelText 层
+AddTierButtonText 添加
+AddTierButtonTooltip 创建层
+RemoveTierButtonText 删除
+RemoveTierButtonTooltip 移除层
+
+VehicleIDFieldLabelText 车辆ID
+AddVehicleButtonText 添加
+AddVehicleButtonTooltip 创建车辆
+RemoveVehicleButtonText 删除
+RemoveVehicleButtonTooltip 移除车辆
+
+RadiusSliderLabelText 半径
+RotationSliderLabelText 角度
+
+AddButtonText 添加 [{0}]
+AddButtonTooltip 创建刷新点
+
+RemoveButtonText 删除 [{0}]
+RemoveButtonTooltip 移除刷新点

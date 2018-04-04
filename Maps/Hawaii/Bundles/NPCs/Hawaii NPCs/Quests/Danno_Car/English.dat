@@ -1,0 +1,5 @@
+Name 找到汽车零部件！
+Description Danno真的很喜欢他的车，他想把它修好！他要你给他找一个电池和一个轮胎！
+
+Condition_0 找到载具电池 {0}/1
+Condition_1 找到轮胎 {0}/1

@@ -1,0 +1,26 @@
+Name_Field_Label 地图名
+
+Add_Button 添加
+Add_Button_Tooltip 创建地图
+
+Remove_Button 删除
+Remove_Button_Tooltip 删除地图
+Remove_Button_Confirm 确认
+Remove_Button_Confirm_Tooltip 删除地图
+Remove_Button_Deny 取消
+Remove_Button_Deny_Tooltip 保留地图
+
+Edit_Button 编辑
+Edit_Button_Tooltip 编辑
+Edit2_Button 编辑 (开发工具包)
+Edit2_Button_Tooltip 使用未完成的开发工具包
+
+Tiny 迷你地图
+Small 小型地图
+Medium 中型地图
+Large 大型地图
+Insane 巨型地图
+
+VR_Label Roomscale VR
+VR_Hint_0 在VR的VR菜单中启动。
+VR_Hint_1 这会禁用桌面剧场！

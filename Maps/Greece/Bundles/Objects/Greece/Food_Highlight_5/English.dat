@@ -1,0 +1,4 @@
+Name 食品箱放置处（未被放置） #6
+
+Interactability_Condition_0 你没有携带着食品箱
+Interact 放下食品箱[{0}]

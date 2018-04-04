@@ -1,0 +1,7 @@
+Name <color=mythical>一网打尽</color>
+Description 我们在Kailua-Kona发现了一群幸存的士兵。不幸的是，僵尸分布的区域太密集了, 所以安全地救出他们是很困难的事情。这是依靠蛮力的选择。你将要击杀一群僵尸，而且这里面还有几只特别大的特殊僵尸。
+
+Condition_0 清除Kailua-Kona的僵尸群 {0}/1
+Condition_1 战胜 <color=mythical>地震僵尸</color> {0}/1
+Condition_2 战胜 <color=mythical>火焰僵尸</color> {0}/1
+Condition_3 战胜 <color=mythical>雷电僵尸</color> {0}/1

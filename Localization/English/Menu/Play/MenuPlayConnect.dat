@@ -1,0 +1,13 @@
+IP_Field_Label IP地址
+Port_Field_Label 端口
+Password_Field_Label 密码
+Password_Field_Replace *
+
+Connect_Button 连接
+Connect_Button_Tooltip 连接
+
+Connecting 尝试连接中... [第{0}次尝试连接]
+Pro 你需要购买黄金DLC才能加入该服务器。
+Password 服务器需要密码。
+Full 服务器人数已满。
+Timed_Out 无法找到服务器。

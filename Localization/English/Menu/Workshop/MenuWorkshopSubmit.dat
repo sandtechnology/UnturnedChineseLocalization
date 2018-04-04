@@ -1,0 +1,124 @@
+Name_Field_Label 名称
+Description_Field_Label 描述
+Path_Field_Label 路径(文件夹)
+Preview_Field_Label 预览图片
+Change_Field_Label 改变备注
+
+Create_Button 创建
+Create_Button_Tooltip 创建
+
+Legal_Button 提交此内容之前，您必须同意创意工坊的Steam用户合约
+Legal_Button_Tooltip 查看用户合约
+
+Map 地图
+Localization 本地化文件
+Object 物体
+Item 物品
+Vehicle 载具
+Skin 皮肤
+
+Map_Type_Survival 生存
+Map_Type_Horde 部落
+Map_Type_Arena 竞技场
+
+Item_Type_Backpack 背包
+Item_Type_Barrel 桶
+Item_Type_Barricade 路障
+Item_Type_Fisher 渔具
+Item_Type_Food 食物
+Item_Type_Fuel 燃料
+Item_Type_Glasses 眼镜
+Item_Type_Grip 配件
+Item_Type_Grower 生长物
+Item_Type_Gun 枪械
+Item_Type_Hat 帽子
+Item_Type_Magazine 弹药
+Item_Type_Mask 面巾
+Item_Type_Medical 医药
+Item_Type_Melee 近战
+Item_Type_Optic 眼镜
+Item_Type_Shirt 衣服
+Item_Type_Sight 瞄准器
+Item_Type_Structure 建筑材料
+Item_Type_Supply 补给品
+Item_Type_Tactical 战术挂件
+Item_Type_Throwable 抛掷物
+Item_Type_Tool 工具
+Item_Type_Vest 背心
+Item_Type_Water 水
+
+Vehicle_Type_Wheels_2 2个轮子
+Vehicle_Type_Wheels_4 4个轮子
+Vehicle_Type_Plane 飞机
+Vehicle_Type_Helicopter 直升机
+Vehicle_Type_Boat 船/艇
+Vehicle_Type_Train 火车
+
+Skin_Type_Generic_Pattern 通用模式
+Skin_Type_Ace 左轮Ace
+Skin_Type_Augewehr AUGA1
+Skin_Type_Avenger 复仇者
+Skin_Type_Bluntforce 泵动式散弹枪
+Skin_Type_Bulldog 斗牛犬
+Skin_Type_Butterfly_Knife 蝴蝶刀
+Skin_Type_Calling_Card PPSh41冲锋枪
+Skin_Type_Cobra 眼镜蛇自动手枪
+Skin_Type_Colt 柯尔特式自动手枪
+Skin_Type_Compound_Bow 复合弓
+Skin_Type_Crossbow 十字弩
+Skin_Type_Desert_Falcon 沙漠之鹰
+Skin_Type_Dragonfang 龙牙轻机枪
+Skin_Type_Eaglefire 鹰火
+Skin_Type_Ekho JS-12.7mm
+Skin_Type_Fusilaut FAMAS G1
+Skin_Type_Grizzly 巴雷特反器材狙击枪
+Skin_Type_Hawkhound 猎鹰犬
+Skin_Type_Heartbreaker 负心人(碎心者)
+Skin_Type_Hell_Fury 地狱之怒
+Skin_Type_Honeybadger 蜜獾
+Skin_Type_Katana 武士刀
+Skin_Type_Kryzkarek PMM手枪
+Skin_Type_Machete 弯刀
+Skin_Type_Maplestrike 枫之突击瞄准器
+Skin_Type_Maschinengewehr 机枪
+Skin_Type_Masterkey 双筒霰弹猎枪
+Skin_Type_Matamorez VSS狙击步枪
+Skin_Type_Military_Knife 军刀
+Skin_Type_Nightraider 夜袭者
+Skin_Type_Nykorev PKM瞄准器
+Skin_Type_Peacemaker P90瞄准器
+Skin_Type_Rocket_Launcher RPG
+Skin_Type_Sabertooth 剑齿虎半自动步枪
+Skin_Type_Scalar Scalar
+Skin_Type_Schofield 斯科菲尔德步枪
+Skin_Type_Shadowstalker 暗影潜行者(电磁炮)
+Skin_Type_Snayperskya SVD狙击步枪
+Skin_Type_Sportshot 竞技步枪
+Skin_Type_Timberwolf 森林狼狙击枪
+Skin_Type_Teklowvka TEC-9
+Skin_Type_Viper 毒蛇冲锋枪
+Skin_Type_Vonya Saiga-12
+Skin_Type_Yuri PP19野牛冲锋枪
+Skin_Type_Zubeknakov AK47(AK)
+
+Object_Type_Model 模型
+Object_Type_Resource 资源
+Object_Type_Effect 效果
+Object_Type_Animal 动物
+
+Public 公开
+Friends_Only 只分享给朋友
+Private 私人
+
+Community 随时可用
+Review 等待采纳
+
+Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
+
+Alert_Name 请注明在创意工坊中显示的项目名称
+Alert_Preview 请指定一个在创意工坊中显示的预览图像(大小必须小于1MB，文件类型为.png或.jpg)。
+Alert_Path 请指定包含要上传到创意工坊的项目文件夹的本地路径。
+Alert_Map 请指定一个有效的地图。
+Alert_Localization 请指定一个有效的本地化文件夹。
+Alert_Object 请指定一个有效的项目/物品/载具/皮肤。
+Alert_Curated 请只提交物品和皮肤到采纳创意工坊.

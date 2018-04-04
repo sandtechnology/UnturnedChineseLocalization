@@ -1,0 +1,4 @@
+Name 秘密小吃
+Description <color=epic>长官Brian</color>渴望获得几个甜甜圈，但不想被别人认为这样符合警察刻板的印象。他希望这件事能保持低调，你必须要(嘘嘘-低调地去做)。
+
+Condition_0 烘烤 {0}/{1} {2}

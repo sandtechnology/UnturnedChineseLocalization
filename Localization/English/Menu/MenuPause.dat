@@ -1,0 +1,31 @@
+Return_Button 返回
+Return_Button_Tooltip 返回
+
+Exit_Button 退出游戏
+Exit_Button_Tooltip 退出游戏
+
+Report_Button 提交BUG
+Report_Button_Tooltip 提交BUG
+
+Trello_Button Trello路线图
+Trello_Button_Tooltip 展望未来的开发计划！
+
+Twitter_Button Twitter新闻
+Twitter_Button_Tooltip 点击此处查看开发进程和更新通知。
+
+Steam_Button Steam新闻
+Steam_Button_Tooltip 点击此处查看完整的帖子或评论。
+
+Credits_Button 鸣谢
+Credits_Button_Tooltip 鸣谢参与到Unturned中的每个人。
+
+Forum_Button 论坛
+Forum_Button_Tooltip 点击此处前往成熟的讨论板块。
+
+Blog_Button 博客
+Blog_Button_Tooltip 点击此处查看开发进程以及作者个人的一些帖子。
+
+Wiki_Button Wiki
+Wiki_Button_Tooltip 点击此处前往社区运营的Wiki。
+
+Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]

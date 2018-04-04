@@ -1,0 +1,21 @@
+AdjustUpButtonText 提升 [{0}]
+AdjustUpButtonTooltip 往上拉
+
+AdjustDownButtonText 下陷 [{0}]
+AdjustDownButtonTooltip 往下拉
+
+SmoothButtonText 平滑 [{0}]
+SmoothButtonTooltip 使局部自然化
+
+FlattenButtonText 平整 [{0}]
+FlattenButtonTooltip 直接拉到设定的高度
+
+SizeSliderLabelText 大小
+NoiseSliderLabelText 噪点
+StrengthSliderLabelText 厚度
+
+HeightValueLabelText 高度
+
+Map2ButtonText1 主要
+Map2ButtonText2 次要
+Map2ButtonTooltip 景观的主次，次要则更注重性能。

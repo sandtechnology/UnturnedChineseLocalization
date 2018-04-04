@@ -1,0 +1,17 @@
+Capacity_Text {0}/{1}
+Capacity_Label 经验容量
+Wallet_Label 当前经验
+Amount_Label 数量
+Transaction_Label 办理
+Tax_Label 经验税
+Net_Label 最后得到经验
+
+Deposit 存入
+Deposit_Label 存人经验到图书馆
+Withdraw 取出
+Withdraw_Label 从图书馆取出经验
+
+Yes_Button 转移经验
+Yes_Button_Tooltip 保存更改
+No_Button 取消
+No_Button_Tooltip 撤销更改
