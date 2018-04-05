@@ -11,6 +11,7 @@ Gameplay 游戏内设置
 
 Spawn_Chance 刷新几率 [0-1]
 Respawn_Time 重生时间
+Unlocked_After_Seconds_In_Safezone 在安全区域自动解除锁定的时间（秒）
 Decay_Time 衰减时间
 Damage_Multiplier 伤害倍数
 Armor_Multiplier 护甲倍数
