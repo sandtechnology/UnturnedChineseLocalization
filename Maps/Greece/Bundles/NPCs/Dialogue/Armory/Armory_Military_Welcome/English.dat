@@ -1,12 +1,25 @@
 Message_0_Page_0 你一定是新来的！欢迎，请先填好这份文件。
 Message_1_Page_0 你最好给我来这里的原因。
 Message_2_Page_0 <color=mythical>最高统帅部</color>有一项紧急任务要给你！
-Message_3_Page_0 我能为你做什么？
+Message_3_Page_0 在我看来，你一定是一个勤奋的人。这里有一份你的晋升通知书，你现在是<color=uncommon>准下士</color>了。这是你的新装备。
+Message_4_Page_0 看起来你已经被晋升了，这真令我难忘，请拿走你的<color=uncommon>下士</color>制服吧。
+Message_5_Page_0 你觉得<color=epic>军士</color>这个等级听起来如何？你被晋升了, <name_char>。如果制服太紧请告诉我。
+Message_6_Page_0 <color=mythical>总统Estevao</color> 听说了你的事迹，他要求你前往战情室工作。噢, 与此同时你也被晋升为了 <color=epic>上士</color>。
+Message_7_Page_0 看看这杰出的人啊！<name_char>, 现在是与往常一样的完美时机。<color=legendary>军士长</color>这个级别是你的了。能走这么远的没有多少人，你应该为此感到荣幸。 
+Message_8_Page_0 我能为您做些什么？
+
 
 Response_0 <i>*填写这份文件*</i>
 Response_1 <i>*错误地填写这份文件*</i>
-Response_2 糟糕，我丢了我的笔。
+Response_2 哎呀，我的笔丢了。
 Response_3 这里的等级制度如何？
 Response_4 这是什么？
 Response_5 任务完成了。
-Response_6 再见！
+Response_6 这是我的荣幸。
+Response_7 谢谢你的夸奖，这是我的荣幸。
+Response_8 这是我的荣幸。
+Response_9 我很荣幸接受它。
+Response_10 我会尽我最大努力的。
+Response_11 有外出任务吗？
+Response_12 我想看看军械库里的一些物品。
+Response_13 再见！
