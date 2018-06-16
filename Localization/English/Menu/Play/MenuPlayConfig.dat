@@ -102,6 +102,9 @@ Can_Fix_Legs 骨折后能自愈
 Can_Start_Bleeding 能流血
 Can_Stop_Bleeding 流血后能自愈
 
+Spawn_With_Max_Skills 出生时的最大技能等级
+Spawn_With_Stamina_Skills 出生时的稳定性技能等级
+
 Rain_Frequency_Min 降雨频率(最小)
 Rain_Frequency_Max 降雨频率(最大)
 Rain_Duration_Min 雨天最短持续时间

@@ -1,10 +1,12 @@
 Message_0_Page_0 嘿！离开这里！不然我就叫警卫了！
 Message_1_Page_0 看看这些美丽的作物！
-Message_2_Page_0 欢迎来到温室. 为了保证作物的健康和正常收获，我们需要做大量的工作。
+Message_2_Page_0 欢迎来到温室。为了保证作物的健康和正常收获，我们需要做大量的工作。
 
 Response_0 我需要做什么？
-Response_1 好的，所有肥料都在这里了
+Response_1 好的，所有肥料都在这里了。
 Response_2 接下来要干嘛？
 Response_3 这是你要的种子！
-Response_4 这景象真令人难以忘怀！
-Response_5 对不起！
+Response_4 下一步要做什么？
+Response_5 我一会再来。
+Response_6 这景象真令人难以忘怀！
+Response_7 对不起！
