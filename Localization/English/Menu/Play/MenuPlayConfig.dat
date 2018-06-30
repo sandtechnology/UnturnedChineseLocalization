@@ -62,6 +62,10 @@ Max_Boss_Drops Boss僵尸最大掉落物品数
 Slow_Movement 缓慢地移动
 Can_Stun 能被击晕
 
+Beacon_Max_Rewards 尸潮掉落奖励物品的最大数量
+Beacon_Max_Participants 尸潮奖励参与战斗者的最大人数
+Beacon_Rewards_Multiplier 尸潮奖励物品数量倍数
+
 Has_Battery_Chance 有电池的概率
 Min_Battery_Charge 电池的最小电量
 Max_Battery_Charge 电池的最大电量
