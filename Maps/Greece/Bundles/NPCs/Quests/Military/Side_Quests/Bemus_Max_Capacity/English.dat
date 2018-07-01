@@ -1,0 +1,5 @@
+Name 扩充容量
+Description 工程部缺乏储存资源的地方。如果你能制作一些储藏箱的话，<color=rare>工程师Bemus</color>会很感激你的。
+
+Condition_0 合成金属衣柜 {0}/{1}
+Condition_1 合成松木箱 {0}/{1}

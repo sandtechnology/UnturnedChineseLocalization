@@ -1,0 +1,6 @@
+Name <color=epic>理想的形式</color>
+Description <color=epic>医生Pluto</color> 把你派去Meteora的Military（正规军）基地以收集一些特殊形式僵尸的数据样本。
+
+Condition_0 杀死燃烧僵尸 {0}/{1}
+Condition_1 杀死酸液僵尸 {0}/{1}
+Condition_2 杀死隐形僵尸 {0}/{1}

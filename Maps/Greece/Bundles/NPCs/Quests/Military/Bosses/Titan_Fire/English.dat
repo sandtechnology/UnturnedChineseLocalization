@@ -1,0 +1,4 @@
+Name <color=mythical>怒战巨人II</color>
+Description <color=rare>Corporal Ondrej</color> 讲述了另一个巨型僵尸，一个像巨人一样高的僵尸。它有喷出来自地狱的愤怒的能力，可以在需要的时候喷出来自地狱的火焰。这种生物必须在它能引起更多的麻烦之前被猎杀，它最后出现的地方也是在Farsala的下水道里。
+
+Condition_0 战胜 {0}/{1} <color=mythical>喷火巨人</color>

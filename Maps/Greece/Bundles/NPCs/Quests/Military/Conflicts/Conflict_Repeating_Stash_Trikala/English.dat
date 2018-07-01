@@ -1,0 +1,6 @@
+Name Farsala补给回收
+Description 我们的回收小组不得不在Trikala留下一大堆供应品。你需要赶在敌人之前回收这些供应品。
+
+Condition_0 回收第一个贮藏点
+Condition_1 回收第二个贮藏点
+Condition_2 回收第三个贮藏点

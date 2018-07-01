@@ -1,0 +1,5 @@
+Name 站岗
+Description <color=legendary>上士Damien</color> 需要你站23:00到06:00的岗。在开始你的巡逻之前，请先找到地面大门的对讲机进行呼叫。
+
+Condition_0 好好巡逻
+Condition_1 每隔一小时呼叫一次，直到早上6点。 {0}/{1}

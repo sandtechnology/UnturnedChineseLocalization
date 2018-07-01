@@ -40,7 +40,7 @@ Crate_Bullets_Multiplier 子弹箱子弹倍数
 
 Loot_Chance 掉落战利品的概率 [0-1]
 Crawler_Chance 生成爬行僵尸的概率 [0-0.5]
-Sprinter_Chance 生成运动员僵尸的概率 [0-0.5]
+Sprinter_Chance 生成短跑僵尸的概率 [0-0.5]
 Flanker_Chance 生成隐形僵尸的概率 [0-0.5]
 Burner_Chance 生成燃烧僵尸的概率 [0-0.5]
 Acid_Chance 生成酸液僵尸的概率 [0-0.5]

@@ -1,0 +1,5 @@
+Name 获得知识的代价
+Description <color=epic>医生Andrina</color> 以你允许她对你做一些现场实验来交换获取她的一些研究成果；她说你可能会没事的。
+
+Condition_0 变成<color=uncommon>感染者</color>
+Condition_1 让<color=epic>Andrina</color>进行一些测试
