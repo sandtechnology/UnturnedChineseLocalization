@@ -3,5 +3,5 @@ Description <color=uncommon>农民Pan</color> 需要你找到更多的种子以�
 
 Condition_0 找到莴苣种子 {0}/{1}
 Condition_1 找到马铃薯种子 {0}/{1}
-Condition_2 找到胡萝卜种子 {0}/{1}
+Condition_2 找到玉米种子 {0}/{1}
 Condition_3 找到番茄种子 {0}/{1}

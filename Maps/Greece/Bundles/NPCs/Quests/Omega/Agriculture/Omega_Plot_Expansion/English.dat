@@ -1,0 +1,5 @@
+Name 耕地扩展
+Description <color=uncommon>农民Pan</color>和<color=uncommon>庭园设计家Seoras</color>正试图扩大温室，他们需要你的帮助，请尽其所能地收集所需的配件吧。
+
+Condition_0 合成种植箱 {0}/{1}
+Condition_1 合成小块土地 {0}/{1}
