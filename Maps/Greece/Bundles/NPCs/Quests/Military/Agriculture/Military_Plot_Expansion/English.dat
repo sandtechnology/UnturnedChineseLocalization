@@ -1,0 +1,5 @@
+Name 耕地扩展
+Description <color=rare>植物学家Fauna</color>需要更多的种植箱和土地，这样她就可以增加农业部的预期收获产量。
+
+Condition_0 合成种植箱 {0}/{1}
+Condition_1 合成小块土地 {0}/{1}
