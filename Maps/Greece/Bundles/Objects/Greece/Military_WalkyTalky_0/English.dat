@@ -1,4 +1,4 @@
-Name Hellenic(正规军)巡逻检查点（未通过） #1
+Name 政府军巡逻检查点（未通过） #1
 
 //Interactability_Condition_0 Not Carrying any dishes.
 Interact 呼叫[{0}]
