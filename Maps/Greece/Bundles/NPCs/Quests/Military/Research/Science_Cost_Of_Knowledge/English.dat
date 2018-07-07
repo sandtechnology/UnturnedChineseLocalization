@@ -1,0 +1,5 @@
+Name 获取信息的代价
+Description 为了获取<color=epic>医生Andrina</color>的研究成果，你需要允许她对你做一些现场的实验；她说你可能会没事的。
+
+Condition_0 变成<color=uncommon>感染者</color>
+Condition_1 让<color=epic>Andrina</color>进行一些实验

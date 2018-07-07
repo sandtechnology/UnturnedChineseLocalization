@@ -62,6 +62,8 @@ Console 控制台
 UGC_Fail 提交失败。
 UGC_Success 提交成功！
 
+Map_Missing 无法找到地图 {0}，将使用默认地图 {1}！
+
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
 
 Shutdown 将在 {0} 秒后重启

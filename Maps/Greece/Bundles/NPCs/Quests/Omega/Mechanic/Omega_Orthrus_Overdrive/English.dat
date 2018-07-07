@@ -1,0 +1,13 @@
+Name <color=legendary>“超频”双头犬</color>
+Description 抵抗军的工程师们正在努力把一般的车辆变成强大的武装车。帮助他们建造一个吧，你可能会得到回报的。
+
+Condition_0 搭建车身框架
+Condition_1 安装炮塔
+Condition_2 安装引擎
+Condition_3 安装1号轮子
+Condition_4 安装2号轮子
+Condition_5 安装3号轮子
+Condition_6 安装4号轮子
+Condition_7 安装装甲
+Condition_8 安装聚光灯
+Condition_9 安装犁状物

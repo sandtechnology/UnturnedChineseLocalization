@@ -1,0 +1,4 @@
+Name 农民的饭碗
+Description <color=rare>植物学家Goldie</color> 给了你一些外国种子让你尝试种植。只需带回一个收成好的植株即可。
+
+Condition_0 种植浆果 {0}/{1}

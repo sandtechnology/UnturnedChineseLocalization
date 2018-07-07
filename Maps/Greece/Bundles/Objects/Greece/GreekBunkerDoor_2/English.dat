@@ -1,4 +1,4 @@
 Name 希腊地堡军方大门 #2
 
 Interactability_Condition_0 没有该派系的访问权限
-Interact 开启/关闭[{0}]
+Interact 交互[{0}]

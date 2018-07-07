@@ -1,0 +1,6 @@
+Name 枪伤——需要操作
+
+Interact 尝试移除子弹[{0}]
+
+Interactability_Condition_0 你的病人已无法挽救了。
+Interactability_Condition_1 你成功地移除了子弹！

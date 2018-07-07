@@ -1,0 +1,5 @@
+Name 伤口——需要操作
+
+Interact 清理伤口[{0}]
+
+Interactability_Condition_0 你的病人已经死了。

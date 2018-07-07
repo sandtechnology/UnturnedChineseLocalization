@@ -1,0 +1,4 @@
+Name 抢救无线电
+Description <color=rare>清洁工Obelius</color>有一份与往常不同的清理工作要你做。<color=legendary>军士长Tennyson</color> 的小队在不得不仓促撤退时在Trikala意外地遗漏了一些重要的通讯设备。你需要在设备落入坏人之手之前把它拿回来。
+
+Condition_0 回收无线电设备 {0}/{1}

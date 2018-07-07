@@ -1,0 +1,6 @@
+Name <color=legendary>完美的形式</color>
+Description <color=epic>医生Pluto</color>需要在Trinity Monastary发现的一些特殊僵尸的数据样本以完成他的研究。
+
+Condition_0 杀死隐形(鬼魂)僵尸 {0}/{1}
+Condition_1 杀死巨型僵尸 {0}/{1}
+Condition_2 杀死巨人僵尸 {0}/{1}

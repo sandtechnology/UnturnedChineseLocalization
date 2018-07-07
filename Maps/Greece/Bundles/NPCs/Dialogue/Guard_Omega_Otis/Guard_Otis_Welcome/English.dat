@@ -1,0 +1,9 @@
+Message_0_Page_0 通行证，谢谢。<pause> 什么？没有？你最好去军械库去把那些东西都填好。
+Message_1_Page_0 风车做得怎么样了？
+Message_2_Page_0 通行证，谢谢。<pause> 检查完毕，欢迎，<name_char>。
+
+Response_0 项目完成了。
+Response_1 我可能需要一些建议。
+Response_2 我搞砸了，你能把它拆卸掉吗？
+Response_3 我会让你回到工作中的。
+Response_4 明白了。

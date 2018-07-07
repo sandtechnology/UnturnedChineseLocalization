@@ -1,4 +1,4 @@
-Message_0_Page_0 这是受限制的区域, 你必须离开。
+Message_0_Page_0 这是受管制的区域, 你必须离开。
 Message_1_Page_0 我们能帮你什么？
 Message_2_Page_0 啊，能看见你真好，我需要你的帮助。
 
@@ -6,5 +6,12 @@ Response_0 我需要做什么？
 Response_1 药品都已经整理完毕了。
 Response_2 我能帮你什么？
 Response_3 我已经带回药品了。
-Response_4 我没事。
-Response_5 我马上就离开这里！
+Response_4 我需要去哪里？
+Response_5 有什么紧急状况吗？
+Response_6 我完成了。
+Response_7 病人怎么样了？
+Response_8 总有一个是合适的。
+Response_9 我一会再来。
+Response_10 我想做点交易。
+Response_11 我没事。
+Response_12 我马上就离开这里！

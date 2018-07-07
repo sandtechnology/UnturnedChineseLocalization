@@ -1,0 +1,71 @@
+# Lines starting with # are treated as comments, and empty lines are skipped.
+# Curse words are matched regardless of case.
+# 每一行以#开始来添加注释，空行会被忽略。
+# 屏蔽词将会直接匹配于聊天文本。
+
+fuck
+fucking
+fuckd
+fuck'd
+fucked
+
+shit
+shiting
+shitting
+shat
+
+damn
+damnn
+damnnn
+damnnnn
+damned
+
+# There is the "Hell's Fury" in-game, but usage of Hell in a message is probably angry.
+# 游戏中有“地狱之怒”这个武器，但在聊天中使用“hell”可能是表示很愤怒的样子。
+hell
+
+# Common Russian slurs.
+# 这是一般俄罗斯人的诋毁词。
+
+suka
+cuka
+cyka
+сука
+blyat
+блят
+блять
+
+tit
+tits
+titty
+titties
+tiddy
+tiddies
+
+# Nothing against other genders, but usage in chat is usually rude.
+# 这里并没有针对某一部分人，被添加只是因为它通常被用于骂人。
+gay
+gayy
+gayyy
+lesbian
+lesbo
+
+cock
+whore
+fag
+faggot
+nigger
+bitch
+clit
+cunt
+dick
+pussy
+penis
+vag
+vagina
+hentai
+porn
+
+# Chinese（你可以在这里添加你需要屏蔽的脏话）
+
+

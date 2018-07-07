@@ -1,0 +1,6 @@
+Name Georgette的秘密
+Description 为了一个特别的时刻，<color=uncommon>Georgette</color>背着爸爸尝试烹饪翡翠色的浆果派，但是她没有所有需要的东西。
+
+Condition_0 找到牛奶 {0}/{1}
+Condition_1 找到鸡蛋 {0}/{1}
+Condition_2 找到巧克力棒 {0}/{1}

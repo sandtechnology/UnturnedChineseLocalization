@@ -6,5 +6,12 @@ Response_0 我需要做什么？
 Response_1 所有的肥料都已储存完毕。
 Response_2 接下来要干嘛？
 Response_3 我找到了你要的种子！
-Response_4 有时间我会来的。
-Response_5 对不起！
+Response_4 你的女儿, Georgette, 正在偷偷地把浆果从架子后面拿出来。
+//Pest Problem, Completed by talking to Margarett
+Response_5 现在我该做什么？
+//Plot Expansion
+Response_6 有什么能做的吗？
+//Goodbye
+Response_7 我一会再来帮你。
+Response_8 有时间我会来的。
+Response_9 对不起！
