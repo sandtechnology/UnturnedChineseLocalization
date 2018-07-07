@@ -1,0 +1,10 @@
+Name 重回时尚
+Description <color=epic>供给管理员Milos</color> 给了你第一个真正的搜刮清单。看起来清单的内容全是衣物。
+
+Condition_0 获得安全帽 {0}/{1}
+Condition_1 获得警帽 {0}/{1}
+Condition_2 获得黑色背包 {0}/{1}
+Condition_3 获得绿色背包 {0}/{1}
+Condition_4 获得黑色行李包 {0}/{1}
+Condition_5 获得绿色旅行包 {0}/{1}
+Condition_6 获得工作裤 {0}/{1}

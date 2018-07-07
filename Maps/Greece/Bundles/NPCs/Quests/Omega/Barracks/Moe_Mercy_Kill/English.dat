@@ -1,0 +1,4 @@
+Name 解脱Macario
+Description 在遭遇尸潮袭击之后，<color=uncommon>学员Moe</color>把他的朋友落下了，而且无法回去把变成僵尸的他解脱。那个旧营地在Kamena Vourla Beach的西边。Macario是个很高的人，你一眼就能看见他。
+
+Condition_0 解脱Macario {0}/{1}

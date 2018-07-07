@@ -1,0 +1,5 @@
+Name 命悬一线
+Description <color=legendary>营长Aleksy</color> 失血过多，将需要输血。不幸的是，<color=rare>Doctor Saunders</color>没有血袋。你得去荒地找点血袋回来。
+
+Condition_0 收集血袋 {0}/{1}
+

@@ -1,0 +1,6 @@
+Name 学无止境
+Description Layna在没有课本的情况下教学很困难。她在Trikala的公寓里落下了三本书，如果你能把它们拿来，她会很感激你的。
+
+Condition_0 取回历史书
+Condition_1 取回科学书
+Condition_2 取回数学书

@@ -1,0 +1,4 @@
+Name 奖杯狩猎者
+Description Castor的奖杯在地堡的某些地方丢失了。你能把它们找全吗？
+
+Condition_0 找到奖杯 {0}/{1}
