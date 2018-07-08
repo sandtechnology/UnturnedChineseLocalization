@@ -3,5 +3,5 @@ Description <color=epic>供给管理员Milos</color> 需要你找到下列的补
 
 Condition_0 获得水罐 {0}/{1}
 Condition_1 获得MRE(军粮) {0}/{1}
-Condition_2 获得手绘地图 {0}/{1}
+Condition_2 获得图表地图 {0}/{1}
 Condition_3 获得滤毒罐 {0}/{1}
