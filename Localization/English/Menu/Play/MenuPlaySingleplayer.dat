@@ -19,11 +19,14 @@ Reset_Button_Deny_Tooltip 取消重置操作
 Maps_Official 官方地图
 Maps_Official_Tooltip Nelson创造的地图
 Maps_Curated 已采纳的地图
-Maps_Curated_Tooltip 为你精心挑选-这里有社区自行创造的地图更新
+Maps_Curated_Tooltip 亲自为你挑选的、社区自行创造的地图更新
 Maps_Workshop 创意工坊地图
 Maps_Workshop_Tooltip 从创意工坊下载的地图
 Maps_Misc 其它地图
 Maps_Misc_Tooltip 来自活动和测试的地图
+
+Retired_Map_Tooltip 在Steam创意工坊上查看这个已过期的地图。
+Retired_Label 地图已过期
 
 Tiny 迷你地图
 Small 小型地图
@@ -38,7 +41,7 @@ Curated_Map_Timestamp_Format MMM/dd/yy
 Cheats_Label 作弊指令
 
 Survival 生存
-Horde 尸潮 [测试版本]
+Horde 尸潮 [Alpha版本]
 Arena 竞技场
 
 Info {0} - {1}
@@ -46,11 +49,11 @@ Info {0} - {1}
 Creators 创造这个地图的主要作者：
 Collaborators 帮助创造这个地图的人：
 Thanks 特别鸣谢：
-Credits_Text 如果你正在享受 {0} 地图，并打算通过购买 {1} 来支持其创建者，那么你可以前往库存页面进行购买，那里也有可用的一些比较详细的介绍。
+Credits_Text 如果你打算通过购买 {1} 来支持你正在享受的 {0} 地图的创造者，那么请前往商店界面进行进一步操作，在库存页面会有关于它的更加详细的介绍。
 Credits_Tooltip 点击这里查看库存页面。
 Timed_Text 这张来自创意工坊的地图已经被官方限时推荐至<color=#00FF00>{0}</color>，在这之后它仍会在Steam创意工坊上可用。
 
 Feedback_Button 反馈或报告bug
-Feedback_Button_Tooltip 点击这里来查看讨论。
+Feedback_Button_Tooltip 点击这里来查看讨论区。
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
