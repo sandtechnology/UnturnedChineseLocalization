@@ -49,6 +49,9 @@ Vote_Kick {0} [{1}] 正在投票踢出 {2} [{3}]
 Vote_Pass 投票通过!
 Vote_Fail 投票未通过!
 
+Player_Group_Queue_Leave {0} 将在 {1} 秒后离开你的组！
+Player_Group_Left {0} 离开了你的组！
+
 New 新
 Updated 已更新！
 Rich_Presence_Editing 正在编辑 {0} 地图
@@ -62,8 +65,8 @@ Console 控制台
 UGC_Fail 提交失败。
 UGC_Success 提交成功！
 
-Map_Missing 无法找到地图 {0}，将使用默认地图 {1}！
+Map_Missing Failed to find map {0}, defaulting to {1}!
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
 
-Shutdown 将在 {0} 秒后重启
+Shutdown Shutdown in: {0}

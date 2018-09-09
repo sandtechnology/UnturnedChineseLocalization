@@ -168,6 +168,7 @@ Can_Suicide 可以自杀
 Timer_Exit 退出的等待时间
 Timer_Respawn 随机重生的等待时间
 Timer_Home 重生到床上的等待时间
+Timer_Leave_Group 离开组的等待时间
 Max_Group_Members 组队成员的最大数量
 
 Default 恢复默认值
