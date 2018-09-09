@@ -18,6 +18,7 @@ Layout_4 通讯
 Layout_5 界面
 Layout_6 载具
 Layout_7 编辑器
+Layout_8 模组/插件
 
 Key_0_Button 左移 [{0}]
 Key_1_Button 右移 [{0}]
@@ -78,3 +79,8 @@ Key_55_Button 打开开发工具包 [{0}]
 Key_56_Button 截图 [{0}]
 Key_57_Button 重载资源文件 [{0}]
 Key_58_Button 复制Debug信息 [{0}]
+Key_59_Button 可编码按键 #1 [{0}]
+Key_60_Button 可编码按键 #2 [{0}]
+Key_61_Button 可编码按键 #3 [{0}]
+Key_62_Button 可编码按键 #4 [{0}]
+Key_63_Button 可编码按键 #5 [{0}]
