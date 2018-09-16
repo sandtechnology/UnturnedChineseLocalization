@@ -1,5 +1,5 @@
 Name 空投
-Description <color=epic>供给管理员Milos</color> 需要你找到下列的补给品，它们在大多数空投中都会出现。
+Description <color=epic>供给管理员Milos</color> 需要你找到下列的供给品，它们在大多数空投中都会出现。
 
 Condition_0 获得水罐 {0}/{1}
 Condition_1 获得MRE(军粮) {0}/{1}

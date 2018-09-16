@@ -1,4 +1,4 @@
-Name 抢占补给品 I
-Description 我们的一个侦察队在Farsala中找到了一些补给品。你需要在敌人发现前取回它。
+Name 抢占供给品 I
+Description 我们的一个侦察队在Farsala中找到了一些供给品。你需要在敌人发现前取回它。
 
-Condition_0 取回补给品 {0}/{1}
+Condition_0 取回供给品 {0}/{1}
