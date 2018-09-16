@@ -1,5 +1,5 @@
 Name 工欲善其事，必先利其器
 Description 工程部缺少了一些重要的设备，去寻找一个手提钻和一个撬棍吧，你最好在Karpenissi Mine附近寻找。
 
-Condition_0 获得锤子 {0}/{1}
+Condition_0 获得手提钻 {0}/{1}
 Condition_1 获得撬棍 {0}/{1}
