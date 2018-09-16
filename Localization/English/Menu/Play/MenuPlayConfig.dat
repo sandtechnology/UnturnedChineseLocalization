@@ -15,6 +15,7 @@ Unlocked_After_Seconds_In_Safezone 在安全区域自动解除锁定的时间（
 Decay_Time 衰减时间
 Damage_Multiplier 伤害倍数
 Armor_Multiplier 护甲倍数
+Backstab_Multiplier 背刺加成伤害倍数
 Gun_Lowcal_Damage_Multiplier 小口径枪械伤害倍数
 Gun_Highcal_Damage_Multiplier 大口径枪械伤害倍数
 Melee_Damage_Multiplier 近战伤害倍数
@@ -62,6 +63,7 @@ Min_Boss_Drops Boss僵尸最小掉落物品数
 Max_Boss_Drops Boss僵尸最大掉落物品数
 Slow_Movement 缓慢地移动
 Can_Stun 能被击晕
+Weapons_Use_Player_Damage 武器伤害使用玩家伤害
 
 Beacon_Max_Rewards 尸潮掉落奖励物品的最大数量
 Beacon_Max_Participants 尸潮奖励参与战斗者的最大人数
