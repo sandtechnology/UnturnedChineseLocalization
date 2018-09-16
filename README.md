@@ -1,5 +1,5 @@
 # UnturnedChineseLocalization
-A Unturned Chinese Localization Project,which was base on http://www.mcbbs.net/thread-462858-1-1.html
+A Unturned Chinese Localization Project,which was based on http://www.mcbbs.net/thread-462858-1-1.html
 
 For more details please go to http://www.mcbbs.net/forum.php?mod=viewthread&tid=524031 (Chinese)
 
