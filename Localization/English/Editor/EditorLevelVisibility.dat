@@ -8,6 +8,6 @@ Vehicles_Label 车辆 [F7]
 Border_Label 边境 [F8]
 Animals_Label 动物 [F9]
 
-Point ({0}, {1})
+Point （{0}, {1}）
 Objects {0} - {1}%
 Triangles {0}

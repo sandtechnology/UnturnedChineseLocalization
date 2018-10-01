@@ -18,16 +18,16 @@ Safezone 你可以通过放置一个<color=legendary>屏蔽器</color>来防止�
 Claim 你可以通过放置<color=legendary>领地旗帜</color>来防止非同组玩家在领地区域内进行建造。
 Group 如果你和你的朋友在一个相同的组会以下效果：1.没有友军伤害和建筑保护。2.能在地图上看到对方。3.能在竞技场模式中组队获胜。
 Map 你可以通过按下[{0}]来查看该地区的地图，但是这需要一个<color=uncommon>手绘地图</color>或<color=epic>GPS</color>。
-Beacon 你可以通过放置一个尸潮信标(尸潮生成器)来召唤一大波的僵尸。
+Beacon 你可以通过放置一个尸潮信标（尸潮生成器）来召唤一大波的僵尸。
 Horn 你可以在驾驶车辆时按下[{0}]来使用汽车喇叭。
 Lights 你可以在驾驶载具时通过按下[{0}]来开关载具上的灯。
 Snap 你可以通过按住[{0}]来调整一个物体的放置位置。
 Upgrade 你可以在按住[{0}]时点击项目来把它一次性全部制作或升到满级。
 Grab 在和附近物品互动时，你可以通过按住[{0}]再左键单击物品来丢出或捡起附近的物品。
-Skycrane 你可以在驾驶<color=epic>空中起重机(云中鹤直升机)</color>时按[{0}]来开关电磁铁
+Skycrane 你可以在驾驶<color=epic>空中起重机（云中鹤直升机）</color>时按[{0}]来开关电磁铁
 Seat 你可以在载具时通过按[F1-F12]来切换你的座位。
 Rarity 物品的品质从最好到最平凡的是：<color=legendary>传奇</color> -> <color=epic>史诗</color> -> <color=rare>罕见</color> -> <color=uncommon>少见</color> -> <color=common>普通</color>
 Orientation 你可以在背包中通过右击物品再按[{0}]来旋转该物品。
 Red 你爆头的标记颜色设置也会影响瞄准器的发光颜色。
 Steady 在瞄准时你可以通过按住[{0}]来开始屏息。记得估计子弹的下落距离和它的行程时间！
-Streamer 您可以通过修改StreamerNames.json文件来自定义Streamer(主播)模式中使用的名称。也许那里应该有观众/订阅者的名字！
+Streamer 您可以通过修改StreamerNames.json文件来自定义Streamer（主播）模式中使用的名称。也许那里应该有观众/订阅者的名字！

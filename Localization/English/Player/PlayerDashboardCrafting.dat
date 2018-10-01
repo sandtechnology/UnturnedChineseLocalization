@@ -10,7 +10,7 @@ Type_8_Tooltip 家具
 Type_9_Tooltip 维修
 
 Skill_1 需要制作等级 {0}
-Skill_2 需要烹饪等级 {0} + 热量(附近有篝火)
+Skill_2 需要烹饪等级 {0} + 热量（附近有篝火）
 Skill_3 需要工程师等级 {0}
 
 Search_Field_Hint 按物品名称筛选合成...

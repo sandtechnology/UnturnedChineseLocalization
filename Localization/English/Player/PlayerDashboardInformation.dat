@@ -49,7 +49,7 @@ Group_Rank_Member 成员
 Group_Rank_Admin 管理员
 Group_Rank_Owner 所有者
 
-Streamer Streamer(主播)模式下会隐藏玩家
+Streamer Streamer（主播）模式下会隐藏玩家
 Mute_On 静音
 Mute_Off 取消静音
 Mute_Tooltip 静音/取消静音
