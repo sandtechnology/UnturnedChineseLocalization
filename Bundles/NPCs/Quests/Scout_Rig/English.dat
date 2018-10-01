@@ -1,4 +1,4 @@
 Name 第一次接触
-Description <color=legendary>联盟</color>已经不是第一次前往俄罗斯了。在组织的初期，俄罗斯特遣部队缴获了一个在西南代理的海上石油钻井平台，并等待我们重新占领，但是在这期间发生了一些问题。 <color=rare>副官Oswald</color> 需要你找出它在哪里。
+Description <color=legendary>联盟</color>已经不是第一次前往俄罗斯了。在组织的初期，俄罗斯特遣部队缴获了一个在西南代理的海上石油钻井平台，并等待我们重新占领，但是在这期间发生了一些问题。<color=rare>副官Oswald</color> 需要你找出它在哪里。
 
-Condition_0 用 <color=legendary>信标(尸潮生成器)</color> 清除石油钻井平台的僵尸 {0}/{1}
+Condition_0 用 <color=legendary>信标（尸潮生成器）</color> 清除石油钻井平台的僵尸 {0}/{1}

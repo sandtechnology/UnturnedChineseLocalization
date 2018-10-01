@@ -84,10 +84,10 @@ Underwater 这里太湿了
 Nav 这里离城市太远了
 Spawn 这里离出生点太近了
 Mobile 不能放在运动物体上
-Oil 缺少石油储备(地下没有石油)
+Oil 缺少石油储备（地下没有石油）
 Volume_Water 水储量:{0}
 Volume_Fuel 油储量：
-Busy 繁忙中(其他玩家正在使用该物品容器)
+Busy 繁忙中（其他玩家正在使用该物品容器）
 Trapdoor 缺少阁楼口
 Fuel 油量: {0}%
 Clean 水质:清洁的

@@ -1,8 +1,8 @@
 Message_0_Page_0 我认识你吗？
-Message_1_Page_0 ...嗯，嘿！欢迎来到温室...这里没什么好看的。
-Message_2_Page_0 <i>她迅速地把一些东西放到她的背后</i> 你...你好！你工作得怎么样，<name_char>?
+Message_1_Page_0 …嗯，嘿！欢迎来到温室…这里没什么好看的。
+Message_2_Page_0 <i>她迅速地把一些东西放到她的背后</i> 你…你好！你工作得怎么样，<name_char>？
 Message_3_Page_0 给你看看吧, 不要告诉我爸爸。拜托了！我有自己出于善意的原因。
-Message_4_Page_0  * 她快速地看了看周围 *  你拿到了，嗯，供给品？
+Message_4_Page_0 * 她快速地看了看周围 * 你拿到了，嗯，供给品？
 Message_5_Page_0 你好，<name_char>！非常感谢你的帮助，我欠你一个人情。
 Message_6_Page_0 看看你干的好事！你为什么要告诉他！我以为你会明白的，但现在看来显然我是错的。
 
@@ -14,5 +14,5 @@ Response_4 嘿，<name_npc>, 我拿到了你的，供给品。
 Response_5 我还在为此忙碌呢！
 Response_6 嘿，<name_npc>！我很乐意帮助你。
 Response_7 你这是在偷东西！我这样做才是对的。
-Response_8 嗯...我不这么认为，这里有我要看的许多植物。
+Response_8 嗯…我不这么认为，这里有我要看的许多植物。
 Response_9 可能不认识。

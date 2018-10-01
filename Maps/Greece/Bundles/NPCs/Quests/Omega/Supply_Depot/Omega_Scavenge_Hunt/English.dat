@@ -1,4 +1,4 @@
 Name 搜刮者
 Description 为了保证弹药供应，<color=epic>供给管理员Milos</color> 需要你外出寻找一些弹药。
 
-Condition_0 找到民用弹药箱(小口径) {0}/{1}
+Condition_0 找到民用弹药箱（小口径） {0}/{1}

@@ -1,16 +1,16 @@
 Name_Field_Label 名称
 Description_Field_Label 描述
-Path_Field_Label 路径(文件夹)
+Path_Field_Label 路径（文件夹）
 Preview_Field_Label 预览图片
 Change_Field_Label 改变备注
 Allowed_IPs_Label 允许的IP
-Allowed_IPs_Hint 以逗号分隔，比如“127.0.0.1,192.168.0.0”
+Allowed_IPs_Hint 多个IP请以逗号分隔，比如“127.0.0.1,192.168.0.0”，IP前没有-为白名单，带-为黑名单。
 Allowed_IPs_Tooltip 如果设置了IP，那么只有具有特定IP的服务器才能自动下载该创意工坊物品，可用于为特定的服务器定制内容。
 
 Create_Button 创建
 Create_Button_Tooltip 创建
 
-Legal_Button 提交此内容之前，您必须同意创意工坊的Steam用户合约
+Legal_Button 提交此内容之前，您必须同意创意工坊的Steam用户合约！
 Legal_Button_Tooltip 查看用户合约
 
 Map 地图
@@ -76,7 +76,7 @@ Skin_Type_Ekho JS-12.7mm
 Skin_Type_Fusilaut FAMAS G1
 Skin_Type_Grizzly 巴雷特反器材狙击枪
 Skin_Type_Hawkhound 猎鹰犬
-Skin_Type_Heartbreaker 负心人(碎心者)
+Skin_Type_Heartbreaker 负心人（碎心者）
 Skin_Type_Hell_Fury 地狱之怒
 Skin_Type_Honeybadger 蜜獾
 Skin_Type_Katana 武士刀
@@ -94,7 +94,7 @@ Skin_Type_Rocket_Launcher RPG
 Skin_Type_Sabertooth 剑齿虎半自动步枪
 Skin_Type_Scalar Scalar
 Skin_Type_Schofield 斯科菲尔德步枪
-Skin_Type_Shadowstalker 暗影潜行者(电磁炮)
+Skin_Type_Shadowstalker 暗影潜行者（电磁炮）
 Skin_Type_Snayperskya SVD狙击步枪
 Skin_Type_Sportshot 竞技步枪
 Skin_Type_Timberwolf 森林狼狙击枪
@@ -102,7 +102,7 @@ Skin_Type_Teklowvka TEC-9
 Skin_Type_Viper 毒蛇冲锋枪
 Skin_Type_Vonya Saiga-12
 Skin_Type_Yuri PP19野牛冲锋枪
-Skin_Type_Zubeknakov AK47(AK)
+Skin_Type_Zubeknakov AK47（AK）
 
 Object_Type_Model 模型
 Object_Type_Resource 资源
@@ -119,9 +119,9 @@ Review Curated（等待采纳）
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
 
 Alert_Name 请注明在创意工坊中显示的项目名称
-Alert_Preview 请指定一个在创意工坊中显示的预览图像(大小必须小于1MB，文件类型为.png或.jpg)。
+Alert_Preview 请指定一个在创意工坊中显示的预览图像（大小必须小于1MB，文件类型为.png或.jpg）。
 Alert_Path 请指定包含要上传到创意工坊的项目文件夹的本地路径。
 Alert_Map 请指定一个有效的地图。
 Alert_Localization 请指定一个有效的本地化文件夹。
 Alert_Object 请指定一个有效的项目/物品/载具/皮肤。
-Alert_Curated 只能提交物品和皮肤到Curated创意工坊。
+Alert_Curated 只能提交物品和皮肤到Curated（等待采纳）创意工坊。

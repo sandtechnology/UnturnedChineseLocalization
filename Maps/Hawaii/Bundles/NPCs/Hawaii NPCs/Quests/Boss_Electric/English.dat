@@ -1,4 +1,4 @@
 Name <color=mythical>充能者</color>
-Description 在驾驶汽车经过Pahala时， <color=epic>海军少校Lee</color> 的小队被一个巨大的僵尸电了几下，他的一个同伴受伤了。他希望你能找到并杀死僵尸，这样经过的其他人就不会受伤了！
+Description 在驾驶汽车经过Pahala时，<color=epic>海军少校Lee</color> 的小队被一个巨大的僵尸电了几下，他的一个同伴受伤了。他希望你能找到并杀死僵尸，这样经过的其他人就不会受伤了！
 
 Condition_0 战胜 {0}/{1} <color=mythical>雷击Boss</color>

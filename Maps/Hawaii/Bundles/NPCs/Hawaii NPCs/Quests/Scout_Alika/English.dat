@@ -1,4 +1,4 @@
 Name 军事基地
 Description <color=uncommon>海军少尉Stuart</color> 想要你潜入位于这个岛东北部的夏威夷海岸警卫队总部, 这很容易对吧？
 
-Condition_0 用 <color=legendary>信标(尸潮生成器)</color> 清除 Alika Base 的僵尸 {0}/{1}
+Condition_0 用 <color=legendary>信标（尸潮生成器）</color> 清除 Alika Base 的僵尸 {0}/{1}

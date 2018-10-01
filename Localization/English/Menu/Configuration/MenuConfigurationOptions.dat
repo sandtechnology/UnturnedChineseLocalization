@@ -7,11 +7,11 @@ Splashscreen_Toggle_Label 游戏启动动画
 Timer_Toggle_Label 竞技场开始提示音
 Physics_Toggle_Label 显示物理效果
 Gore_Toggle_Label 显示血液效果
-Filter_Toggle_Label 过滤别人的文字聊天(合并相同文字)
+Filter_Toggle_Label 过滤别人的文字聊天（合并相同文字）
 Chat_Text_Toggle_Label 允许别人的文字聊天
 Chat_Voice_In_Toggle_Label 允许别人的语音聊天
 Chat_Voice_Out_Toggle_Label 允许自己的语音输入
-Hints_Toggle_Label 打开提示(例子:增加经验值的提示)
+Hints_Toggle_Label 打开提示（例子:增加经验值的提示）
 Ambience_Toggle_Label 播放白天/黑夜的环境音乐
 Streamer_Toggle_Label Streamer模式
 Featured_Workshop_Toggle_Label 推荐创新创意工坊物品

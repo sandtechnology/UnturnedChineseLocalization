@@ -12,7 +12,7 @@ Origin_Unwrap 你从包裹中取出一个道具！
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
 Exchange_Timed_Out Steam物品服务器没有响应。当你刷新后你的物品将会在库存显示。
-Exchange_Unknown 你的游戏已经过时(下载更新)！
+Exchange_Unknown 你的游戏已经过时（下载更新）！
 Exchange_Mythic 出现了一个莫名其妙的错误！
 
 Rarity_Rare 罕见物品概率: {0}%

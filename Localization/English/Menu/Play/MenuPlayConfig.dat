@@ -82,26 +82,26 @@ Health_Regen_Min_Food 自然回血的最小饱腹度
 Health_Regen_Min_Water 自然回血的最小水分值
 Health_Regen_Ticks 每一Tick自然回血的血量
 
-Food_Use_Ticks 饱腹度使用的Tick数值(秒为单位)
+Food_Use_Ticks 饱腹度使用的Tick数值（秒为单位）
 Food_Damage_Ticks 饱腹度每一Tick减少的数值
 
-Water_Use_Ticks 水分值使用的Tick数值(秒为单位)
+Water_Use_Ticks 水分值使用的Tick数值（秒为单位）
 Water_Damage_Ticks 水分值每一Tick减少的数值
 
 Virus_Infect 健康值开始持续下降的阈值
-Virus_Use_Ticks 健康值使用的Tick数值(秒为单位)
+Virus_Use_Ticks 健康值使用的Tick数值（秒为单位）
 Virus_Damage_Ticks 每一Tick健康值减少的数值
 
-Leg_Regen_Ticks 骨折后自愈的Tick(秒为单位)
+Leg_Regen_Ticks 骨折后自愈的Tick（秒为单位）
 Bleed_Damage_Ticks 每一Tick减少的血量数值
-Bleed_Regen_Ticks 流血后自愈的Tick(秒为单位)
+Bleed_Regen_Ticks 流血后自愈的Tick（秒为单位）
 
-Lose_Skills_PvP 战斗(被玩家杀死)死亡掉落技能的比例
-Lose_Skills_PvE 自然(其它原因而死)死亡掉落技能的比例
-Lose_Items_PvP 战斗(被玩家杀死)死亡掉落物品的比例
-Lose_Items_PvE 自然(其它原因而死)死亡掉落物品的比例
-Lose_Clothes_PvP 战斗(被玩家杀死)死亡掉落衣服
-Lose_Clothes_PvE 自然(其它原因而死)死亡掉落衣服
+Lose_Skills_PvP 战斗（被玩家杀死）死亡掉落技能的比例
+Lose_Skills_PvE 自然（其它原因而死）死亡掉落技能的比例
+Lose_Items_PvP 战斗（被玩家杀死）死亡掉落物品的比例
+Lose_Items_PvE 自然（其它原因而死）死亡掉落物品的比例
+Lose_Clothes_PvP 战斗（被玩家杀死）死亡掉落衣服
+Lose_Clothes_PvE 自然（其它原因而死）死亡掉落衣服
 
 Can_Hurt_Legs 能让腿受到伤害
 Can_Break_Legs 能骨折
@@ -112,24 +112,24 @@ Can_Stop_Bleeding 流血后能自愈
 Spawn_With_Max_Skills 出生时的最大技能等级
 Spawn_With_Stamina_Skills 出生时的稳定性技能等级
 
-Rain_Frequency_Min 降雨频率(最小)
-Rain_Frequency_Max 降雨频率(最大)
+Rain_Frequency_Min 降雨频率（最小）
+Rain_Frequency_Max 降雨频率（最大）
 Rain_Duration_Min 雨天最短持续时间
 Rain_Duration_Max 雨天最长持续时间
 
-Snow_Frequency_Min 降雪频率(最小)
-Snow_Frequency_Max 降雪频率(最大)
+Snow_Frequency_Min 降雪频率（最小）
+Snow_Frequency_Max 降雪频率（最大）
 Snow_Duration_Min 雪天最短持续时间
 Snow_Duration_Max 雪天最长持续时间
 
-Binary_State_Reset_Multiplier 二进制状态复位(物体开关)时间的倍数
+Binary_State_Reset_Multiplier 二进制状态复位（物体开关）时间的倍数
 Fuel_Reset_Multiplier 生成汽油的时间倍数
 Water_Reset_Multiplier 生成水的时间倍数
 Resource_Reset_Multiplier 生成资源的时间倍数
 Rubble_Reset_Multiplier 生成矿石的时间倍数
 
-Airdrop_Frequency_Min 每分钟空投频率(最小)
-Airdrop_Frequency_Max 每分钟空投频率(最大)
+Airdrop_Frequency_Min 每分钟空投频率（最小）
+Airdrop_Frequency_Max 每分钟空投频率（最大）
 Airdrop_Speed 空投速度
 Airdrop_Force 空投降落速度
 
@@ -162,9 +162,9 @@ Satellite 可在没有GPS的情况下查看卫星地图
 Compass 可在没有指南针的情况下使用指南针
 Group_Map 在地图中能看到同组成员的位置
 Group_HUD 在HUD中能看到同组成员的位置
-Allow_Static_Groups 允许静态组(steam组的组队功能)
-Allow_Dynamic_Groups 允许动态组(大厅组队功能)
-Allow_Shoulder_Camera 允许挎式摄影机(第三人称摄影位置)
+Allow_Static_Groups 允许静态组（steam组的组队功能）
+Allow_Dynamic_Groups 允许动态组（大厅组队功能）
+Allow_Shoulder_Camera 允许挎式摄影机（第三人称摄影位置）
 Can_Suicide 可以自杀
 
 Timer_Exit 退出的等待时间

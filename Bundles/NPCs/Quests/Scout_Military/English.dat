@@ -1,4 +1,4 @@
 Name 狼的巢穴
 Description Volk，俄罗斯的狼，但是本质上是俄罗斯最大的军事基地。<color=rare>副官Oswald</color> 想要你秘密地在西北潜入它，这很容易对吧？
 
-Condition_0 用 <color=legendary>信标(尸潮生成器)</color> 清除军事基地的僵尸 {0}/{1}
+Condition_0 用 <color=legendary>信标（尸潮生成器）</color> 清除军事基地的僵尸 {0}/{1}
