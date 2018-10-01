@@ -4,7 +4,7 @@ Path_Field_Label 路径（文件夹）
 Preview_Field_Label 预览图片
 Change_Field_Label 改变备注
 Allowed_IPs_Label 允许的IP
-Allowed_IPs_Hint 多个IP以逗号分隔，比如“127.0.0.1,192.168.0.0”
+Allowed_IPs_Hint 多个IP请以逗号分隔，比如“127.0.0.1,192.168.0.0”，IP前没有-为白名单，带-为黑名单。
 Allowed_IPs_Tooltip 如果设置了IP，那么只有具有特定IP的服务器才能自动下载该创意工坊物品，可用于为特定的服务器定制内容。
 
 Create_Button 创建
