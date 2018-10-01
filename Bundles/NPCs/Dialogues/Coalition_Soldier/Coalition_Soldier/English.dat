@@ -1,12 +1,12 @@
-Message_0_Page_0 欢迎加入！你应该去跟 <color=legendary>首领Sydney</color> 交谈，她现在正在甲板上。
-Message_1_Page_0 很高兴见到你。 <color=uncommon>少尉 <name_char></color>！
-Message_2_Page_0 很高兴见到你， <color=rare>副官 <name_char></color>！
-Message_3_Page_0 很高兴见到你， <color=epic>少校 <name_char></color>！
+Message_0_Page_0 欢迎加入！你应该去跟 <color=legendary>首领Sydney</color> 交谈，她现在正在船上。
+Message_1_Page_0 很高兴见到你。<color=uncommon>少尉 <name_char></color>！
+Message_2_Page_0 很高兴见到你，<color=rare>副官 <name_char></color>！
+Message_3_Page_0 很高兴见到你，<color=epic>少校 <name_char></color>！
 Message_4_Page_0 滚出去，强盗人渣。
 Message_5_Page_0 留在我能看见你的地方。
-Message_6_Page_0 很高兴见到你， <name_char>！
+Message_6_Page_0 很高兴见到你，<name_char>！
 
 Response_0 谢谢
-Response_1 你也是， <name_npc>！
+Response_1 你也是，<name_npc>！
 Response_2 好吧好吧
 Response_3 我不是来给这里带来麻烦的

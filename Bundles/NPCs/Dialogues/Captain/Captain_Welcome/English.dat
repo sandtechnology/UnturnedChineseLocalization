@@ -1,7 +1,7 @@
-Message_0_Page_0 啊你好！我听到有新人上了甲板. 我是<name_npc>, 负责该船只并帮助我们遇到的任何幸存者。这是我们第一次见到你，你叫什么名字？
+Message_0_Page_0 啊你好！我听到有新人上了船。我是<name_npc>, 负责该船只并帮助我们遇到的任何幸存者。这是我们第一次见到你，你叫什么名字？
 Message_1_Page_0 从各方面来看，你已经充分证明了自己的能力，我们在寻找一名<color=uncommon>少尉</color>。你愿意加入我们吗？
-Message_2_Page_0 你已经是一个示范 <color=uncommon>少尉</color>, 是时候给你升职了! 如果你已经准备好，我将会将你升职为一个<color=rare>中尉</color>！
-Message_3_Page_0 我很为你骄傲， <name_char>... <pause>您已经完成了主要的工作，我想你已经准备好作为<color=epic>上校</color>并带领自己拥有的小队。你说什么？
+Message_2_Page_0 你已经是一个示范 <color=uncommon>少尉</color>, 是时候给你升职了!如果你已经准备好，我将会将你升职为一个<color=rare>中尉</color>！
+Message_3_Page_0 我很为你骄傲，<name_char>… <pause>您已经完成了主要的工作，我想你已经准备好作为<color=epic>上校</color>并带领自己拥有的小队。你说什么？
 Message_4_Page_0 有什么要报告的吗？
 
 Response_0 我的名字是 <name_char>

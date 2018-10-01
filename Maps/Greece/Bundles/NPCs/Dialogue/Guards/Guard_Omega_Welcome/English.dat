@@ -11,8 +11,8 @@ Message_6_Page_0 走开。
 Message_7_Page_0 有什么 <pause> 重要的话要说吗？
 Message_8_Page_0 你在浪费我的时间。
 //Neutral Response Set 3
-Message_9_Page_0 ...
-Message_10_Page_0 ... <pause> 给我离开这里。 <pause> 现在。
+Message_9_Page_0 …
+Message_10_Page_0 … <pause> 给我离开这里。<pause> 现在。
 
 //Hostile Response Set 0
 Message_11_Page_0 这里不欢迎你。
@@ -44,7 +44,7 @@ Response_0 这里是什么地方？
 Response_1 我完成了我的任务。
 Response_2 别开枪，我只是在探索！
 Response_3 你好。
-Response_4 再见...
+Response_4 再见…
 Response_5 我马上就走。
 Response_6 我从未来过这里。
 Response_7 我会马上离开！

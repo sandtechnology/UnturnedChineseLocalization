@@ -33,7 +33,7 @@ Alert_Crafting 合成中...
 Craft_Entry 合成 {0} - 需要<color=gold>合成材料</color> x{1}
 Craft_Common_Cosmetic <color=common>低阶饰品（随机）</color>
 Craft_Common_Skin <color=common>低阶皮肤（随机）</color>
-Craft_Uncommon_Cosmetic <color=common高阶饰品（随机）</color>
+Craft_Uncommon_Cosmetic <color=common>高阶饰品（随机）</color>
 Craft_Uncommon_Skin <color=common>高阶皮肤（随机）</color>
 Craft_Stat_Tracker_Total_Kills <color=#ff7f00>总击杀数计数器</color>
 Craft_Stat_Tracker_Player_Kills <color=#ff0000>玩家击杀数计数器</color>

@@ -1,5 +1,5 @@
 Name 铁证悬案
-Description <color=epic>长官Brian</color>建议你在甲板上开始询问Darren以及Harry的同寝室的伙伴。Harry的东西可能是值得搜索的，询问Natalie所看到的东西和Roman可能听到的东西...我只想说他有很多建议。
+Description <color=epic>长官Brian</color>建议你在船上开始询问Darren以及Harry的同寝室的伙伴。Harry的东西可能是值得搜索的，询问Natalie所看到的东西和Roman可能听到的东西…我只想说他有很多建议。
 
 Condition_0 搜索 <color=rare>副官Harry</color> 的住处(服务器中找到日记并阅读后需要重新连接才可完成) {0}/1
 Condition_1 问 <color=uncommon>少尉Darren</color> 一些问题 {0}/1
