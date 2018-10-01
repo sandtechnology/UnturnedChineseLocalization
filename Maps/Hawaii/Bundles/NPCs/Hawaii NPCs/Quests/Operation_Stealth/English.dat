@@ -1,8 +1,8 @@
 Name <color=mythical>险之又险</color>
-Description 我们在Kailua-Kona发现了一群幸存的士兵。不幸的是，僵尸分布的区域太密集了, 所以安全地救出他们是很困难的事情。这是分散注意力的选择，你要在未被僵尸发现的情况下设置5(其实是4)个分散注意力的信标。杀死任何僵尸都将会导致你被发现，同时也会导致信标被摧毁。
+Description 我们在Kailua-Kona发现了一群幸存的士兵。不幸的是，僵尸分布的区域太密集了, 所以安全地救出他们是很困难的事情。这是分散注意力的选择，你要在未被僵尸发现的情况下设置5（其实是4）个分散注意力的信标。杀死任何僵尸都将会导致你被发现，同时也会导致信标被摧毁。
 
 Condition_0 <color=mythical>不要</color>杀死僵尸
-Condition_1 在Hotel(旅馆)放置诱饵 {0}/1
-Condition_2 在Waterpark(水上公园)放置诱饵 {0}/1
-Condition_3 在House(房子)放置诱饵 {0}/1
-Condition_4 在Diner(饭店)放置诱饵 {0}/1
+Condition_1 在Hotel（旅馆）放置诱饵 {0}/1
+Condition_2 在Waterpark（水上公园）放置诱饵 {0}/1
+Condition_3 在House（房子）放置诱饵 {0}/1
+Condition_4 在Diner（饭店）放置诱饵 {0}/1

@@ -1,7 +1,7 @@
-Message_0_Page_0 嘿!我听说这里有一张新面孔。欢迎，我的名字是<name_npc>!我负责这个哨站，来帮助那些可能仍在岛上的幸存者。正如你所看到的，我们已经有相当多的幸存者出现了。既然我已经介绍了自己，你的名字呢?
+Message_0_Page_0 嘿！我听说这里有一张新面孔。欢迎，我的名字是<name_npc>！我负责这个哨站，来帮助那些可能仍在岛上的幸存者。正如你所看到的，我们已经有相当多的幸存者出现了。既然我已经介绍了自己，你的名字呢？
 Message_1_Page_0 大家都说过，你已经证明了自己是我们所追求的 <color=uncommon>海军少尉</color>。如果你想要的话，这个等级就是你的了！
 Message_2_Page_0 你是一个 <color=uncommon>海军少尉</color> 的模范, 现在是你升职的时候了！如果你准备好了，我就准备把你升为 <color=rare>海军中尉</color>！
-Message_3_Page_0 我为你感到骄傲，<name_char>… <pause>你已经完成了一份出色的工作，我认为你已经准备好作为 <color=epic>海军中尉-指挥官</color> 领导自己的团队了。你说什么？
+Message_3_Page_0 我为你感到骄傲，<name_char>…<pause> 你已经完成了一份出色的工作，我认为你已经准备好作为 <color=epic>海军中尉-指挥官</color> 领导自己的团队了。你说什么？
 Message_4_Page_0 有什么问题吗？
 
 Response_0 我的名字是 <name_char>
@@ -9,6 +9,6 @@ Response_1 我准备好了
 Response_2 谢谢，我不会让你失望的
 Response_3 我站在 <color=legendary>海军总司令</color> 的身边，我很荣幸
 Response_4 我需要一些时间来考虑这个问题
-Response_5 我能加入不屈者吗?
+Response_5 我能加入不屈者吗？
 Response_6 这里的等级是怎么样的？
 Response_7 不，我想这就是全部！

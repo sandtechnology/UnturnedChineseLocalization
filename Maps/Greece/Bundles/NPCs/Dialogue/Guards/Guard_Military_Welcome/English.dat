@@ -1,6 +1,6 @@
 //Neutral Response Set 0
 Message_0_Page_0 我警告你陌生人, 把手放在我能看见的地方！
-Message_1_Page_0 停下来！<pause> 你是干什么的！
+Message_1_Page_0 停下来！ <pause> 你是干什么的！
 Message_2_Page_0 谁在那里！
 //Neutral Response Set 1
 Message_3_Page_0 你要干嘛？
@@ -12,7 +12,7 @@ Message_7_Page_0 有什么 <pause> 重要的话要说吗？
 Message_8_Page_0 你在浪费我的时间。
 //Neutral Response Set 3
 Message_9_Page_0 …
-Message_10_Page_0 … <pause> 给我离开这里。<pause> 现在。
+Message_10_Page_0 …<pause> 给我离开这里。 <pause> 现在。
 
 //Hostile Response Set 0
 Message_11_Page_0 这里不欢迎你。
@@ -33,7 +33,7 @@ Message_21_Page_0 欢迎回来，士兵。
 Message_22_Page_0 没人跟着你，对吗？
 //Friendly Response Set 1
 Message_23_Page_0 是要进去还是要待在外面？
-Message_24_Page_0 <pause>你确定吗？
+Message_24_Page_0 <pause> 你确定吗？
 Message_25_Page_0 你还在这儿干什么？
 //Friendly Response Set 2
 Message_26_Page_0 如果你喜欢这里，那么我们就可以交换下位置。

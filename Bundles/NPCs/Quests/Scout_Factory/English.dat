@@ -1,4 +1,4 @@
 Name 大量生产
 Description 俄罗斯有很多仓库装满了旧二战和冷战的机械，但是这一次在西北要特别注意，因为从6年前不同的卫星图像数据表明：工厂正在重新投入使用，<color=rare>副官Oswald</color> 想这可能是在生产新的装甲车辆。
 
-Condition_0 用 <color=legendary>信标(尸潮生成器)</color> 清除坦克工厂的僵尸 {0}/{1}
+Condition_0 用 <color=legendary>信标（尸潮生成器）</color> 清除坦克工厂的僵尸 {0}/{1}

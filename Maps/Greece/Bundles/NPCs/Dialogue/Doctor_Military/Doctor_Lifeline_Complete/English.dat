@@ -5,7 +5,7 @@ Message_1_Page_0 看来你忽略了一些东西，因为当你走后, <color=leg
 //Survived with infection, losing arm
 Message_2_Page_0 在你到外面的时候, <color=rare>护士Nelda</color> 看了看他的伤口。它绝对被感染了，而且已经发展成坏疽；我们很可能得把他的手臂锯掉，只有这样他才能活下来。
 //Wound reopened, bled out
-Message_3_Page_0 你来晚了一步。<pause> 当你在外面闲逛的时候，伤口的开裂导致 <color=legendary>Tennyson</color> 因失血过多而死。
+Message_3_Page_0 你来晚了一步。 <pause> 当你在外面闲逛的时候，伤口的开裂导致 <color=legendary>Tennyson</color> 因失血过多而死。
 //Wound reopened, Survived
 Message_4_Page_0 我们急需这些血袋！当你在外面的时候，伤口的开裂导致 <color=legendary>Tennyson</color> 又流血了！
 //Bullet wasn't removed from the shoulder.

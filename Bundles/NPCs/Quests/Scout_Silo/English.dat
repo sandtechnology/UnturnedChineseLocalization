@@ -1,4 +1,4 @@
 Name 大规模杀伤性武器
 Description 远在北方的一个秘密地下核导弹发射井据说已经被引爆了，但除了辐射，没有发现任何发生爆炸的证据。<color=rare>副官Oswald</color> 需要你确认核弹头完全损毁以至于不能再次进行使用。
 
-Condition_0 用 <color=legendary>信标(尸潮生成器)</color> 清除导弹发射井的僵尸 {0}/{1}
+Condition_0 用 <color=legendary>信标（尸潮生成器）</color> 清除导弹发射井的僵尸 {0}/{1}
