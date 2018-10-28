@@ -111,6 +111,7 @@ Can_Stop_Bleeding 流血后能自愈
 
 Spawn_With_Max_Skills 出生时的最大技能等级
 Spawn_With_Stamina_Skills 出生时的稳定性技能等级
+Allow_Instakill_Headshots 允许“爆头秒杀”
 
 Rain_Frequency_Min 降雨频率（最小）
 Rain_Frequency_Max 降雨频率（最大）
