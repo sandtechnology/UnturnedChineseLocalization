@@ -42,14 +42,14 @@ Crate_Bullets_Multiplier 子弹箱子弹倍数
 
 Loot_Chance 掉落战利品的概率 [0-1]
 Crawler_Chance 生成爬行僵尸的概率 [0-0.5]
-Sprinter_Chance 生成短跑僵尸的概率 [0-0.5]
+Sprinter_Chance 生成疾跑僵尸的概率 [0-0.5]
 Flanker_Chance 生成隐形僵尸的概率 [0-0.5]
 Burner_Chance 生成燃烧僵尸的概率 [0-0.5]
 Acid_Chance 生成酸液僵尸的概率 [0-0.5]
 Boss_Electric_Chance 生成雷电BOSS的概率 [0-0.5]
 Boss_Wind_Chance 生成地震BOSS的概率 [0-0.5]
 Boss_Fire_Chance 生成火焰BOSS的概率 [0-0.5]
-Spirit_Chance 生成防弹运动员僵尸的概率 [0-0.5]
+Spirit_Chance 生成防弹疾跑僵尸的概率 [0-0.5]
 Respawn_Day_Time 白天生成僵尸的时间间隔
 Respawn_Night_Time 夜晚生成僵尸的时间间隔
 Respawn_Beacon_Time 尸潮时生成僵尸的时间间隔
@@ -64,6 +64,7 @@ Max_Boss_Drops Boss僵尸最大掉落物品数
 Slow_Movement 缓慢地移动
 Can_Stun 能被击晕
 Weapons_Use_Player_Damage 武器伤害使用玩家伤害
+Only_Critical_Stuns 只有近战才可击晕
 
 Beacon_Max_Rewards 尸潮掉落奖励物品的最大数量
 Beacon_Max_Participants 尸潮奖励参与战斗者的最大人数
@@ -152,7 +153,7 @@ Arena_Compactor_Speed_Small 竞技场边界小型地图缩小速率
 Arena_Compactor_Speed_Medium 竞技场边界中型地图缩小速率
 Arena_Compactor_Speed_Large 竞技场边界大型地图缩小速率
 Arena_Compactor_Speed_Insane 竞技场边界巨型地图缩小速率
-Arena_Compactor_Shrink_Factor 竞技场边界的损耗因子系数
+Arena_Compactor_Shrink_Factor 竞技场边界的损耗因子系数（Shrink Factor）
 
 Repair_Level_Max 维修技能最大等级
 Hitmarkers 命中标记

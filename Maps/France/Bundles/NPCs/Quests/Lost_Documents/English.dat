@@ -1,0 +1,4 @@
+Name <color=legendary>丢失的文档</color>
+Description 上校Jourdon在他匆忙撤离的时候落下了一些重要的文档，帮他带回来吧。
+
+Condition_0 带回<color=legendary>文档</color> {0}/1
