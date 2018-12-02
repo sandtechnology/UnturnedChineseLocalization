@@ -1,0 +1,4 @@
+Name <color=Mythical>Paris的喷火者</color>
+Description 在Paris发现了一个巨大的突变体。干掉它。
+
+Condition_0 战胜 {0}/{1} <color=mythical>喷火Boss</color>

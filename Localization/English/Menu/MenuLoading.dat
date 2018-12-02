@@ -13,7 +13,7 @@ Loading_Misc 加载杂项...
 Assets_Scan 在 {0} 找到了 {1} 个资源文件
 Assets_Load 正在加载 {0} 资源文件: {1}/{2}
 Level_Load 正在加载地图： {0}%
-Queue_Position 你在队列中的位置: #{0}
+Queue_Position 排队中……你当前的位置是 #{0}
 Queue_Cancel 取消
 Queue_Cancel_Tooltip 离开队列
 
@@ -34,6 +34,6 @@ Workshop_Client 客户端创意工坊
 Bundles_Server 服务器
 NPC NPC
 
-Creators 创建者：
-Collaborators 合作创建者：
+Creators 创作者：
+Collaborators 合作者：
 Thanks 特别鸣谢：

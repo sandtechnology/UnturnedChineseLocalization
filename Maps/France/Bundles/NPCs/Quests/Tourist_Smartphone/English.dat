@@ -1,0 +1,4 @@
+Name <color=uncommon>寻找智能手机</color>
+Description <color=uncommon>Jack</color>在他飞机坠毁的地方落下了他的智能手机。他的飞机坠落在了Cotentin Arsenal北边的一个岛上。他看起来非常需要它，没有了它，什么都对他不再重要。
+
+Condition_0 找到<color=rare>智能手机</color> {0}/1

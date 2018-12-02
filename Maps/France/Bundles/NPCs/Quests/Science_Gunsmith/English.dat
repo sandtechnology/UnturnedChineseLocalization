@@ -1,0 +1,8 @@
+Name <color=legendary>重型武器</color>
+Description <color=rare>下士Matthieu</color>想要一些新设备以让他的机器能制造高级的枪械。同时他也需要你尽可能地寻找武器蓝图。在建筑工地和机库寻找机器设备，并寻找特定枪械生成的位置吧。
+
+Condition_0 <color=rare>武器蓝图</color> {0}/11
+Condition_1 <color=legendary>测径器</color> {0}/1
+Condition_2 <color=legendary>深度计</color> {0}/1
+Condition_3 <color=legendary>四爪单动卡盘</color> {0}/1
+Condition_4 <color=legendary>精密刀具</color> {0}/1

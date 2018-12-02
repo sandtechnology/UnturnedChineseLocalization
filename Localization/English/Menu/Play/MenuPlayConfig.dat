@@ -42,14 +42,14 @@ Crate_Bullets_Multiplier 子弹箱子弹倍数
 
 Loot_Chance 掉落战利品的概率 [0-1]
 Crawler_Chance 生成爬行僵尸的概率 [0-0.5]
-Sprinter_Chance 生成短跑僵尸的概率 [0-0.5]
+Sprinter_Chance 生成疾跑僵尸的概率 [0-0.5]
 Flanker_Chance 生成隐形僵尸的概率 [0-0.5]
 Burner_Chance 生成燃烧僵尸的概率 [0-0.5]
 Acid_Chance 生成酸液僵尸的概率 [0-0.5]
 Boss_Electric_Chance 生成雷电BOSS的概率 [0-0.5]
 Boss_Wind_Chance 生成地震BOSS的概率 [0-0.5]
 Boss_Fire_Chance 生成火焰BOSS的概率 [0-0.5]
-Spirit_Chance 生成防弹运动员僵尸的概率 [0-0.5]
+Spirit_Chance 生成防弹疾跑僵尸的概率 [0-0.5]
 Respawn_Day_Time 白天生成僵尸的时间间隔
 Respawn_Night_Time 夜晚生成僵尸的时间间隔
 Respawn_Beacon_Time 尸潮时生成僵尸的时间间隔
