@@ -16,6 +16,8 @@ Decay_Time 衰减时间
 Damage_Multiplier 伤害倍数
 Armor_Multiplier 护甲倍数
 Backstab_Multiplier 背刺加成伤害倍数
+Armor_Lowtier_Multiplier 低级护甲伤害倍数
+Armor_Hightier_Multiplier 高级护甲伤害倍数
 Gun_Lowcal_Damage_Multiplier 小口径枪械伤害倍数
 Gun_Highcal_Damage_Multiplier 大口径枪械伤害倍数
 Melee_Damage_Multiplier 近战伤害倍数

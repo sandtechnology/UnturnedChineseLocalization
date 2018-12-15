@@ -58,7 +58,8 @@ Name_Character_Invalid 你的角色名字包含无效字符。
 Name_Character_Number 你的角色名字不能全是数字。
 Timed_Out  与服务器丢失连接。
 Map 服务器正在运行一张你没有的地图。
-Shutdown 服务器已经关闭了！
+Shutdown 服务器已关闭！
+Shutdown_Reason 服务器因 {0} 而关闭。
 Ping 你的Ping太高了！
 Plugin 这个服务器上的一个插件禁止了你的帐户进入服务器。
 Barricade 你没有服务器正在使用的自定义可放置物品资源文件。
@@ -74,7 +75,7 @@ Pro_Title 永久的黄金DLC升级
 Pro_Button 升级到黄金DLC账户可以获得额外的角色定制、高端服务器、更多的角色槽！更多可用功能可以在商店的页面查看。
 Pro_Button_Tooltip 点击这里查看商店的页面。
 
-BattlEye_Header 警告： BattlEye已禁用
-BattlEye_Body BattlEye防作弊没有运行，你不能加入BattlEye保护的服务器。 如果你卸载了它或者跳过了它的安装程序，你就可以通过运行在Unturned/BattlEye文件夹下的Install_BattlEye.bat脚本来重新安装它。
+BattlEye_Header 警告：BattlEye已禁用
+BattlEye_Body BattlEye防作弊未启用，你将不能加入受BattlEye保护的服务器。如果你卸载了它或者跳过了它的安装程序，你就可以通过运行在Unturned/BattlEye文件夹下的Install_BattlEye.bat脚本来重新安装它。
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
