@@ -19,8 +19,8 @@ Market_Tooltip 点击这里查看Steam市场页面。
 Delete_Text 删除
 Delete_Tooltip 从库存永久删除
 
-Scrap_Text 回收
-Scrap_Tooltip 回收该物品并得到"合成材料"。
+Scrap_Text 回收（{0} 个"合成材料"）
+Scrap_Tooltip 回收该物品并得到{0}个"合成材料"。
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
 
