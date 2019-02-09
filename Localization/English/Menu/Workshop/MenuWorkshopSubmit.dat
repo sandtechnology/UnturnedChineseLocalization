@@ -1,7 +1,7 @@
 Name_Field_Label 名称
 Description_Field_Label 描述
-Path_Field_Label 路径（文件夹）
-Preview_Field_Label 预览图片
+Path_Field_Label 内容路径（文件夹）
+Preview_Field_Label 预览图路径（文件）
 Change_Field_Label 改变备注
 Allowed_IPs_Label 允许的IP
 Allowed_IPs_Hint 多个IP请以逗号分隔，比如“127.0.0.1,192.168.0.0”，IP前没有-为白名单，带-为黑名单。
@@ -125,3 +125,13 @@ Alert_Map 请指定一个有效的地图。
 Alert_Localization 请指定一个有效的本地化文件夹。
 Alert_Object 请指定一个有效的项目/物品/载具/皮肤。
 Alert_Curated 只能提交物品和皮肤到Curated（等待采纳）创意工坊。
+PathFieldNotification_Empty 内容路径不能为空。
+PathFieldNotification_MissingFolder 内容路径不存在。
+PathFieldNotification_Map 内容路径只能包含你的地图文件夹。
+PathFieldNotification_Localization 内容路径应该只包含Editor、Menu、Player以及其它文件夹。
+PathFieldNotification_Bundle 内容路径应该包含至少一个文件夹。
+
+PreviewFieldNotification_Empty 预览图路径不能为空。
+PreviewFieldNotification_MissingFile 指定的预览图不存在。
+PreviewFieldNotification_Extension 预览图必须为.png或.jpg后缀。
+PreviewFieldNotification_FileSize 预览图文件大小过大。
