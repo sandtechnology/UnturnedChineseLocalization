@@ -130,7 +130,9 @@ Binary_State_Reset_Multiplier 二进制状态复位（物体开关）时间的�
 Fuel_Reset_Multiplier 生成汽油的时间倍数
 Water_Reset_Multiplier 生成水的时间倍数
 Resource_Reset_Multiplier 生成资源的时间倍数
+Resource_Drops_Multiplier 掉落资源的数量倍数
 Rubble_Reset_Multiplier 生成矿石的时间倍数
+Allow_Holiday_Drops 允许节日掉落
 
 Airdrop_Frequency_Min 每分钟空投频率（最小）
 Airdrop_Frequency_Max 每分钟空投频率（最大）
