@@ -1,4 +1,0 @@
-Name 化学制品收集者
-Description <color=rare>清洁工Obelius</color>的清洁用品快要用光了，他派你出去找一些回来。
-
-Condition_0 找到化学制品 {0}/{1}

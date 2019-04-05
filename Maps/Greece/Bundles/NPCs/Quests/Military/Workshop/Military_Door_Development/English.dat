@@ -1,5 +1,0 @@
-Name 研发门
-Description <color=epic>车间管理员Hyperion</color> 需要你设计一些安全门的原型。资源是有限的，因此请尽量设计成最合理的结构。
-
-Condition_0 结构必须完整 {0}/{1}
-Condition_1 花费必须低于 {0}/{1}

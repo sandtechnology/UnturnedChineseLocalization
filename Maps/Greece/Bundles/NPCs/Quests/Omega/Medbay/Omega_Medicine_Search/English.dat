@@ -1,5 +1,0 @@
-Name 药品搜寻
-Description <color=rare>医生Saunders</color> 的治疗室需要抗生素和绷带。遗憾的是他并不知道它们的样子，所以他需要你去Volos收集并带回这些医护用品。
-
-Condition_0 收集抗生素 {0}/{1}
-Condition_1 收集绷带 {0}/{1}

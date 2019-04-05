@@ -1,7 +1,0 @@
-Name 寻找种子
-Description <color=epic>首席植物学家Daphne</color> 说如果你能在当地的农场中找到用于温室的种子，他将会感谢你。
-
-Condition_0 找到小麦种子 {0}/{1}
-Condition_1 找到马铃薯种子 {0}/{1}
-Condition_2 找到玉米种子 {0}/{1}
-Condition_3 找到番茄种子 {0}/{1}

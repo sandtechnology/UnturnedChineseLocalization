@@ -1,4 +1,0 @@
-Name <color=mythical>怒战巨人III</color>
-Description <color=rare>步兵Dionite</color>知道一个神秘的生物；它生活在Farsala特有的地狱里，而且还能随意弯曲光线。一个拥有这种力量的怪物可能会终结我们所有人，如果让它活着，我们人类可能就会因此灭亡。
-
-Condition_0 战胜 <color=mythical>发光巨人</color> {0}/{1}

@@ -1,5 +1,0 @@
-Name 风力发电机
-Description <color=rare>首席工程师Heitor</color> 让你负责设计风车，他派出<color=uncommon>步兵Belen</color>来提供你需要的帮助。你会在院子的外面发现建筑它的区域。
-
-Condition_0 必须在结构上健全 {0}/{1}
-Condition_1 花费必须小于 {0}/{1}

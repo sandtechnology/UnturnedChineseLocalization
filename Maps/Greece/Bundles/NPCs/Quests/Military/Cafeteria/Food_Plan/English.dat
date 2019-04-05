@@ -1,6 +1,0 @@
-Name 食物计划
-Description <color=uncommon>厨师Julian</color> 需要你帮助选择下周的菜单。你有五种选择来填满这三餐的内容。它们还必须满足所需的营养、能量供给和士气。
-
-Condition_0 至多提供 {1} 能量供给，当前为 {0}
-Condition_1 至少提供 {1} 营养，当前为 {0}
-Condition_2 至少提供大于 {1} 的士气，当前为 {0}

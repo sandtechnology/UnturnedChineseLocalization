@@ -1,6 +1,0 @@
-Name 肉！新鲜的肉！
-Description <color=epic>首席厨师Pekka</color>厌倦了用旧罐头肉来烹饪食物。他需要你出去搞点新鲜的肉。
-
-Condition_0 获得生鹿肉 {0}/{1}
-Condition_1 获得生猪肉 {0}/{1}
-Condition_2 获得生牛肉 {0}/{1}

@@ -1,4 +1,0 @@
-Name <color=mythical>怒战巨人II</color>
-Description <color=uncommon>学员Iskander</color>看到了一个神秘的生物，它生活在Farsala特有的地狱里。如果活着这只野兽，它就会造成毁灭性的破坏；你需要彻底地杀死它。
-
-Condition_0 战胜 <color=mythical>喷火巨人</color> {0}/{1}

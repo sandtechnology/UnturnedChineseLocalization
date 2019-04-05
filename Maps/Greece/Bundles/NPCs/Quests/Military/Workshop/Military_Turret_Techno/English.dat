@@ -1,6 +1,0 @@
-Name 炮塔技术
-Description <color=epic>车间管理员Hyperion</color> 给了你另一个项目。他想让你做一些自动哨兵炮塔的原型。
-
-Condition_0 合成自动哨兵塔（中立） {0}/{1}
-Condition_1 合成自动哨兵塔（友好） {0}/{1}
-Condition_2 合成自动哨兵塔（敌对） {0}/{1}
