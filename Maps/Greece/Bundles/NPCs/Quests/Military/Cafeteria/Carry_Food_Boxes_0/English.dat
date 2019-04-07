@@ -1,4 +1,0 @@
-Name 重新补给 I
-Description <color=uncommon>厨师Julian</color> 需要你从仓库中拿一些新鲜的食材过来。
-
-Condition_0 搬运食品箱 {0}/{1}

@@ -1,5 +1,0 @@
-Name 伤口——需要缝合操作
-
-Interact 缝合伤口[{0}]
-
-Interactability_Condition_0 你的病人已经死了。

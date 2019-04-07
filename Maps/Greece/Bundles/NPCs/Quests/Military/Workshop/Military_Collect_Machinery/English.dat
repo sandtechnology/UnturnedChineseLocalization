@@ -1,4 +1,0 @@
-Name 寻找机械零件
-Description <color=epic>车间管理员Hyperion</color> 需要你在仓库中寻找备用的机械零件。
-
-Condition_0 找到机械零件 {0}/{1}

@@ -1,6 +1,0 @@
-Name 小吃的诱惑
-Description <color=uncommon>列兵Giles</color> 要和你进行一个交易：给他一些高质量的垃圾食品，他就会给你一些他的特别口香糖。
-
-Condition_0 获得糖棒 {0}/{1}
-Condition_1 获得巧克力棒 {0}/{1}
-Condition_2 获得炸土豆条 {0}/{1}

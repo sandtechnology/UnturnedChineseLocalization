@@ -1,6 +1,0 @@
-Name <color=rare>一般形式</color>
-Description <color=epic>医生Pluto</color>派你去Trikala收集一些一般形式僵尸的数据样本。
-
-Condition_0 杀死普通僵尸 {0}/{1}
-Condition_1 杀死爬行僵尸 {0}/{1}
-Condition_2 杀死短跑僵尸 {0}/{1}

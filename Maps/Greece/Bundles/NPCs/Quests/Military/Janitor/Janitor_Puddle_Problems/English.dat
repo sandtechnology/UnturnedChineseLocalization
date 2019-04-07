@@ -1,4 +1,0 @@
-Name 烦人的水坑
-Description 走廊上一片狼藉。<color=rare>清洁工Obelius</color> 递给你一个拖把并希望你把它清理干净。（注意：每次使用拖把之后都需要清洗一下拖把）
-
-Condition_0 清理水坑 {0}/{1}

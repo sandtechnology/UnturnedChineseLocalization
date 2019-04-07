@@ -1,4 +1,0 @@
-Name <color=mythical>怒战巨人I</color>
-Description <color=uncommon>学员Nestor</color>讲述了一个神秘生物，它生活在Farsala特有的地狱里。这样的生物如果活着，会对周边造成威胁，为了大家的安全，你需要彻底地杀死它。
-
-Condition_0 战胜 <color=mythical>地震巨人</color> {0}/{1}

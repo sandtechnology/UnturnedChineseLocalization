@@ -1,4 +1,0 @@
-Name <color=mythical>怒战巨人I</color>
-Description <color=rare>下士Ondrej</color>讲述了一个可怕的僵尸, 一个和巨人一样高的僵尸。他有着波塞冬的能力，可以在需要的时候制造地震。这样的生物必须在引起更多麻烦之前被杀死，它最后一次出现的地方在Farsala的下水道里。
-
-Condition_0 战胜 <color=mythical>地震巨人</color> {0}/{1}

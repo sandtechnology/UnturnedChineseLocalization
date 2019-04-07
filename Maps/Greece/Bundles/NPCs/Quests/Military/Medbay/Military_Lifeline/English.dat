@@ -1,5 +1,0 @@
-Name 生命线
-Description <color=legendary>军士长Tennyson</color> 失血过多，将需要输血。不幸的是，<color=rare>医生Saunders</color> 没有血袋。你得去荒地找点血袋回来。
-
-Condition_0 收集血袋 {0}/{1}
-

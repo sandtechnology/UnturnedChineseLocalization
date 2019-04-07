@@ -1,5 +1,0 @@
-Name 寻找药品
-Description <color=epic>医生Jace</color> 极其需要处理伤口的医护用品。他想自己去拿但又发现自己没有进行战斗训练，所以只好拜托你。附近的Lamia小镇貌似还有一些医护用品。
-
-Condition_0 收集消毒剂 {0}/{1}
-Condition_1 收集绷带 {0}/{1}

@@ -1,6 +1,0 @@
-Name 新鲜的肉
-Description <color=epic>首席厨师Daria</color>不能忍受用罐装火腿和其他各式肉类来烹饪。她需要一些真正的新鲜原料来做正餐。
-
-Condition_0 获得生鹿肉 {0}/{1}
-Condition_1 获得生猪肉 {0}/{1}
-Condition_2 获得生牛肉 {0}/{1}

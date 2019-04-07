@@ -1,7 +1,0 @@
-Name 材料任务
-Description <color=rare>首席工程师Heitor</color> 的车间需要更多的制作材料。
-
-Condition_0 收集桦木原木 {0}/{1}
-Condition_1 收集枫木原木 {0}/{1}
-Condition_2 收集松木原木 {0}/{1}
-Condition_3 收集金属碎片 {0}/{1}

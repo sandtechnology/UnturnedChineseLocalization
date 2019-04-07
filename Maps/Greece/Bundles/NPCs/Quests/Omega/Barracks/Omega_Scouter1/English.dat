@@ -1,5 +1,0 @@
-Name 侦察小队 I
-Description 我们的一支侦察小队即将出发。<color=epic>上校Nicole</color> 需要你帮忙消灭感染的源头。
-
-Condition_0 消灭Almiros Farm的感染者 {0}/{1}
-Condition_1 消灭Kala Nera Farm的感染者 {0}/{1}

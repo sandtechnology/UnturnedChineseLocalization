@@ -38,9 +38,10 @@ Craft_Uncommon_Skin <color=common>高阶皮肤（随机）</color>
 Craft_Stat_Tracker_Total_Kills <color=#ff7f00>总击杀数计数器</color>
 Craft_Stat_Tracker_Player_Kills <color=#ff0000>玩家击杀数计数器</color>
 Craft_Ragdoll_Effect_Zero_Kelvin <color=#00ffff>冰点武器包</color>
+Craft_Mythical_Skin <color=mythical>随机神话皮肤</color>
 
 Origin_Craft 你合成了一个物品！
 
-No_Items 等待Steam库存响应...
+No_Items 请等待Steam库存响应...
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
