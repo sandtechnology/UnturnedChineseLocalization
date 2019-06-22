@@ -1,0 +1,10 @@
+# Empty lines and lines beginning with '#' are ignored.
+# 空行与以'#'起始的行会被忽略。
+# Matches use regular expressions.
+# 匹配使用正则表达式。
+
+# P9nda is a youtube video creator whose official network closed down, so there are scammers operating unofficial servers.
+# P9nda是一个youtuber的官方服务器，但目前已关闭，所以有人开设了假冒的服务器来骗人，因此需要屏蔽。
+# (?i) Enables case insensitivity.
+# (?i) 为忽略大小写的符号。
+(?i)P9nda
