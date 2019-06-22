@@ -1,6 +1,0 @@
-Name 找到医生Elliot的供应品！
-Description 医生Elliot需要医疗用品，这样她就能继续治疗伤员了！
-
-Condition_0 找到绷带 {0}/5
-Condition_1 找到维生素 {0}/2
-Condition_2 找到医疗包 {0}/1

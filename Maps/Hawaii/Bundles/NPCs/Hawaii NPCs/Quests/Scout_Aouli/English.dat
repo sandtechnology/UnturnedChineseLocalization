@@ -1,4 +1,0 @@
-Name 寻找港口！
-Description <color=uncommon>海军少尉Stuart</color>愿意给你一个尝试侦察一个地方的机会。他要你去侦察下Aouli Harbor。这通常包括清理一些僵尸，然后分析该区域的其他潜在危险！
-
-Condition_0 用 <color=legendary>信标（尸潮生成器）</color> 清除Aouli Harbor的僵尸 {0}/{1}
