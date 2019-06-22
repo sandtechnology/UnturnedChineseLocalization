@@ -1,7 +1,0 @@
-Name 找到植物学家的供应品！
-Description Betty想要基地的菜园运行起来, 但是需要做一些事情！
-
-Condition_0 找到肥料 {0}/2
-Condition_1 找到玉米种子 {0}/2
-Condition_2 找到莴苣种子 {0}/2
-Condition_3 找到小麦种子 {0}/2

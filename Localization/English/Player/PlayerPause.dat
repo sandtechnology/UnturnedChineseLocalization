@@ -24,7 +24,7 @@ Spy_Refresh_Button_Tooltip 获取该玩家的游戏截图
 Spy_Slay_Button_Text 封禁
 Spy_Slay_Button_Tooltip 杀死并永久封禁
 
-Server {1} [{2}] 地图:{0}
+Server_WithVersion {2} [{3}] 当前地图：{0} 版本：v{1}
 VAC_Secure VAC安全
 VAC_Insecure VAC不安全
 BattlEye_Secure 需要BattlEye

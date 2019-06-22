@@ -1,6 +1,0 @@
-Name 帮助Arnold储备武器吧！
-Description Arnold正在整理军械库，他需要你给他一些东西！
-
-Condition_0 找到填满弹药的民用弹药箱 {0}/2
-Condition_1 找到柯尔特手枪 {0}/2
-Condition_2 找到填满弹药的柯尔特手枪弹匣 {0}/2

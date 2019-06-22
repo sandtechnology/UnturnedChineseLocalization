@@ -1,5 +1,0 @@
-Name 坠毁
-Description 飞机在Holokai Harbor西北部坠毁之前<color=epic>Mac-海军少校Alastair</color>的小队就已经成功撤离了。你现在的任务是先清除Holokai Harbor的僵尸，然后去水下打捞弹药箱。
-
-Condition_0 用<color=legendary>尸潮信标</color>清除Holokai Harbor的僵尸 {0}/{1}
-Condition_1 打捞被淹没的<color=rare>弹药箱</color> {0}/{1}

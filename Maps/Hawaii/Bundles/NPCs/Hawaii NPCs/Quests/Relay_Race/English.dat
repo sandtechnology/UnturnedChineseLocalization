@@ -1,8 +1,0 @@
-Name 接力赛
-Description <color=uncommon>海军少尉Winston（"闲聊"）</color> 需要你的帮助来让他与 <color=legendary>联盟</color> 联系上。你必须先从The Ailani那收集4个可部署的无线电继电器，然后在Airport、The Akoni北部的灯塔、Mauna Kea的天文台和Alika Base这些地方进行部署。
-
-Condition_0 收集无线电继电器 {0}/{1}
-Condition_1 在Airport部署继电器 {0}/1
-Condition_2 在灯塔部署继电器 {0}/1
-Condition_3 在Mauna Kea部署继电器 {0}/1
-Condition_4 在Alika Base部署继电器 {0}/1
