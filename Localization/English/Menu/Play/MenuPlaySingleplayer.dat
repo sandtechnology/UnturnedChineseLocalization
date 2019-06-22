@@ -1,7 +1,7 @@
 Play_Button 开始游戏
 Play_Button_Tooltip 开始游戏
 
-Any_Button 随机
+Any_Button 随机难度
 Easy_Button 简单
 Normal_Button 普通
 Hard_Button 困难
@@ -12,7 +12,7 @@ Config_Button_Tooltip 修改游戏配置。
 Reset_Button 重置地图
 Reset_Button_Tooltip 重置单人地图的数据
 Reset_Button_Confirm 确定
-Reset_Button_Confirm_Tooltip 你确定重置吗？该操作无法撤消！
+Reset_Button_Confirm_Tooltip 你确定重置吗？该操作无法被撤消！
 Reset_Button_Deny 取消
 Reset_Button_Deny_Tooltip 取消重置操作	
 
@@ -25,8 +25,15 @@ Maps_Workshop_Tooltip 从创意工坊下载的地图
 Maps_Misc 其它地图
 Maps_Misc_Tooltip 来自活动和测试的地图
 
-Retired_Map_Tooltip 在Steam创意工坊上查看这个已过期的地图。
-Retired_Label 地图已过期
+Retired_View_Label 在Steam创意工坊上查看
+Retired_View_Tooltip 在Steam创意工坊上查看这个地图。
+Retired_Manage_Sub 订阅
+Retired_Manage_Unsub 取消订阅
+Retired_Manage_Tooltip 自动安装或卸载该地图。
+Retired_Label 已过期
+
+Manage_Workshop_Label 管理订阅物品
+Manage_Workshop_Tooltip 点击以访问创意工坊的订阅物品管理页面。
 
 Tiny 迷你地图
 Small 小型地图
@@ -44,7 +51,7 @@ Survival 生存
 Horde 尸潮 [Alpha版本]
 Arena 竞技场
 
-Info {0} - {1}
+Info_WithVersion {0} - {1} - v{2}
 
 Creators 创造这个地图的主要作者：
 Collaborators 帮助创造这个地图的人：

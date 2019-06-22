@@ -57,22 +57,23 @@ Name_Character_Long 你的角色名字太长。
 Name_Character_Invalid 你的角色名包含无效字符。
 Name_Character_Number 你的角色名不能全是数字。
 Timed_Out 与服务器丢失连接。
-Map 服务器正在运行一张你没有的地图。
+Map 该服务器正在运行一张你没有的地图。
 Shutdown 服务器已关闭！
 Shutdown_Reason 服务器因 {0} 而关闭。
 Ping 你的Ping太高了！
-Plugin 这个服务器上的一个插件禁止了你的帐户进入服务器。
+Plugin 该服务器上的一个插件禁止了你的帐户进入服务器。
 Plugin_Reason 插件提示：{0}
-Barricade 你没有服务器正在使用的自定义可放置物品资源文件。
-Structure 你没有服务器正在使用的自定义建筑资源文件。
-Vehicle 你没有服务器正在使用的自定义载具资源文件。
+Barricade 你没有该服务器正在使用的自定义可放置物品资源文件。
+Structure 你没有该服务器正在使用的自定义建筑资源文件。
+Vehicle 你没有该服务器正在使用的自定义载具资源文件。
 Client_Module_Desync 服务器没有你正在使用的自定义模块文件。
 Server_Module_Desync 你没有服务器正在使用的自定义模块文件。
 BattlEye_Broken BattlEye防作弊: 服务不能正常运行，请用启动器（steam）重新开启游戏，如果你已卸载BattlEye或跳过安装步骤，那么你可以通过运行在游戏目录的BattlEye文件夹下的Install_BattlEye.bat脚本来重新安装它。
 BattlEye_Update BattlEye防作弊: 服务需要更新，请用启动器（steam）重新开启游戏。
 BattlEye_Unknown BattlEye防作弊: 未知的请求，请用启动器（steam）重新开启游戏。
+Level_Version 该服务器正在使用与你不同的地图版本: {0}
 Failure_Unknown 未知错误：{0} 原因：{1}
-Reject_Unknown 因未知原因而被拒绝进入：{0}
+Reject_Unknown 因未知原因被拒绝进入：{0}
 
 Pro_Title 永久的黄金DLC升级 
 Pro_Button 升级到黄金DLC账户可以获得额外的角色定制、进入黄金DLC服务器的机会以及更多的角色槽！更多可用功能可以在商店的页面查看。

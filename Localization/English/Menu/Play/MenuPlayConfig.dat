@@ -106,6 +106,8 @@ Lose_Items_PvP 战斗（被玩家杀死）死亡掉落物品的比例
 Lose_Items_PvE 自然（其它原因而死）死亡掉落物品的比例
 Lose_Clothes_PvP 战斗（被玩家杀死）死亡掉落衣服
 Lose_Clothes_PvE 自然（其它原因而死）死亡掉落衣服
+Lose_Weapons_PvP 战斗（被玩家杀死）死亡掉落武器
+Lose_Weapons_PvE 自然（其它原因而死）死亡掉落武器
 
 Can_Hurt_Legs 能让腿受到伤害
 Can_Break_Legs 能骨折
