@@ -10,6 +10,7 @@ TeleportInfoText Teleport [SteamID | Player]/[SteamID | Player | Location]
 TeleportHelpText This teleports the first player to the second or a location.
 
 TeleportText Successfully teleported {0} to {1}!
+TeleportObstructed Unable to teleport {0} because {1} was obstructed.
 
 WaypointCommand WP
 WaypointText waypoint
