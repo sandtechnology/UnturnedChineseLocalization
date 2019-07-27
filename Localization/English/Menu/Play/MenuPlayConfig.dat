@@ -69,6 +69,10 @@ Can_Stun 能被击晕
 Weapons_Use_Player_Damage 武器伤害使用玩家伤害
 Only_Critical_Stuns 只有近战才可击晕
 
+Can_Target_Barricades 能否打击可放置物品
+Can_Target_Structures 能否打击建筑
+Can_Target_Vehicles 能否打击载具
+
 Beacon_Max_Rewards 尸潮掉落奖励物品的最大数量
 Beacon_Max_Participants 尸潮奖励参与战斗者的最大人数
 Beacon_Rewards_Multiplier 尸潮奖励物品数量倍数
@@ -149,7 +153,7 @@ Arena_Clear_Timer 竞技场的清理时间
 Arena_Finale_Timer 竞技场的胜者时间
 Arena_Restart_Timer 竞技场重新开始的时间
 
-Arena_Use_Airdrops 竞技场使用空投
+Use_Airdrops 使用空投
 Arena_Use_Compactor_Pause 竞技场使用边界停止系统
 
 Arena_Compactor_Delay_Timer 竞技场边界的开启延迟时间

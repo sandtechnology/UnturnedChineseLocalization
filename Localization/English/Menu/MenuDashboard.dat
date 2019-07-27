@@ -12,10 +12,15 @@ BackButtonText 返回
 BackButtonTooltip 返回
 NewsTooltip 点击此处发表评论或查看其他公告。
 
+Curated_Workshop_Title 被采纳的创意工坊物品: {0}
 Featured_Workshop_Title 精选的创意工坊物品: {0}
+Featured_Workshop_Dismiss 关闭
 ReadMore_Link_On [展开]
 ReadMore_Link_Off [收起]
 Featured_Workshop_Link 查看创意工坊物品
+Featured_Workshop_Sub 订阅该物品
+Featured_Workshop_Unsub 取消订阅该物品
+Featured_Workshop_Stockpile_Link 在库存内查看 {0}
 News_Author {0} - {1}
 News_Comments_Link 查看评论
 
