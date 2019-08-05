@@ -17,10 +17,10 @@ Featured_Workshop_Title 精选的创意工坊物品: {0}
 Featured_Workshop_Dismiss 关闭
 ReadMore_Link_On [展开]
 ReadMore_Link_Off [收起]
-Featured_Workshop_Link 查看创意工坊物品
+Featured_Workshop_Link 查看该创意工坊物品
 Featured_Workshop_Sub 订阅该物品
 Featured_Workshop_Unsub 取消订阅该物品
-Featured_Workshop_Stockpile_Link 在库存内查看 {0}
+Featured_Workshop_Stockpile_Link 在库存中查看 {0}
 News_Author {0} - {1}
 News_Comments_Link 查看评论
 
@@ -79,6 +79,7 @@ BattlEye_Unknown BattlEye防作弊: 未知的请求，请用启动器（steam）
 Level_Version 该服务器正在使用与你不同的地图版本: {0}
 Failure_Unknown 未知错误：{0} 原因：{1}
 Reject_Unknown 因未知原因被拒绝进入：{0}
+Workshop_Download_Restriction 服务器对创意工坊物品 {0} 的使用没有被其创作者允许。
 
 Pro_Title 永久的黄金DLC升级 
 Pro_Button 升级到黄金DLC账户可以获得额外的角色定制、进入黄金DLC服务器的机会以及更多的角色槽！更多可用功能可以在商店的页面查看。
