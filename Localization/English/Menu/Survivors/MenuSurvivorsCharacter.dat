@@ -1,7 +1,7 @@
 Name_Label {0}
 Nick_Label [{0}]
 
-Name_Field_Label 角色名字
+Name_Field_Label 角色名
 Nick_Field_Label 昵称
 
 Skillset_0 平民

@@ -17,7 +17,7 @@ Featured_Workshop_Title 精选的创意工坊物品: {0}
 Featured_Workshop_Dismiss 关闭
 ReadMore_Link_On [展开]
 ReadMore_Link_Off [收起]
-Featured_Workshop_Link 查看该创意工坊物品
+Featured_Workshop_Link 在创意工坊查看该物品
 Featured_Workshop_Sub 订阅该物品
 Featured_Workshop_Unsub 取消订阅该物品
 Featured_Workshop_Stockpile_Link 在库存中查看 {0}
@@ -57,8 +57,8 @@ Name_Player_Short 你的Steam用户名太短了。
 Name_Player_Long 你的Steam用户名太长了
 Name_Player_Invalid 你的Steam用户名包含无效字符。
 Name_Player_Number 你的Steam用户名不能全是数字。
-Name_Character_Short 你的角色名字太短。
-Name_Character_Long 你的角色名字太长。
+Name_Character_Short 你的角色名字太短了。
+Name_Character_Long 你的角色名字太长了。
 Name_Character_Invalid 你的角色名包含无效字符。
 Name_Character_Number 你的角色名不能全是数字。
 Timed_Out 与服务器丢失连接。
@@ -80,12 +80,13 @@ Level_Version 该服务器正在使用与你不同的地图版本: {0}
 Failure_Unknown 未知错误：{0} 原因：{1}
 Reject_Unknown 因未知原因被拒绝进入：{0}
 Workshop_Download_Restriction 服务器对创意工坊物品 {0} 的使用没有被其创作者允许。
+Workshop_Advertisement_Mismatch 服务器配置错误：服务器本不需要创意工坊物品, 却请求下载创意工坊物品。
 
 Pro_Title 永久的黄金DLC升级 
-Pro_Button 升级到黄金DLC账户可以获得额外的角色定制、进入黄金DLC服务器的机会以及更多的角色槽！更多可用功能可以在商店的页面查看。
+Pro_Button 升级到黄金DLC账户可以获得额外的角色定制选项、进入黄金DLC服务器的机会以及更多的角色槽！更多可用功能可以在商店的页面查看。
 Pro_Button_Tooltip 点击这里查看商店的页面。
 
 BattlEye_Header 警告：BattlEye已禁用
-BattlEye_Body BattlEye防作弊未启用，你将不能加入受BattlEye保护的服务器。如果你卸载了它或者跳过了它的安装程序，你就可以通过运行在Unturned/BattlEye文件夹下的Install_BattlEye.bat脚本来重新安装它。
+BattlEye_Body BattlEye防作弊未启用，你将不能加入受BattlEye保护的服务器。如果你卸载了它或者跳过了它的安装程序，那你可以通过运行在Unturned/BattlEye文件夹下的Install_BattlEye.bat脚本的方式来重新安装它。
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
