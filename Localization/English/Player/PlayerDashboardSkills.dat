@@ -12,7 +12,7 @@ Speciality_0_Skill_0_Level_5 拳击和近战武器伤害增加 36%
 Speciality_0_Skill_0_Level_6 拳击和近战武器伤害增加 43%
 Speciality_0_Skill_0_Level_7 拳击和近战武器伤害增加 50%
 Speciality_0_Skill_1 狙击
-Speciality_0_Skill_1_Tooltip 射击更稳定并提高射击精度
+Speciality_0_Skill_1_Tooltip 连续射击更稳定，并能提高射击精度
 Speciality_0_Skill_1_Level_1 稳定性和射击精度增加 7%
 Speciality_0_Skill_1_Level_2 稳定性和射击精度增加 14%
 Speciality_0_Skill_1_Level_3 稳定性和射击精度增加 21%
@@ -35,36 +35,36 @@ Speciality_0_Skill_3_Level_3 恢复速度增加 30%
 Speciality_0_Skill_3_Level_4 恢复速度增加 40%
 Speciality_0_Skill_3_Level_5 恢复速度增加 50%
 Speciality_0_Skill_4 健身
-Speciality_0_Skill_4_Tooltip 体力消耗减少,移动速度更快
-Speciality_0_Skill_4_Level_1 移动速度增加 5%,体力消耗减少 50%
-Speciality_0_Skill_4_Level_2 移动速度增加 10%,体力消耗减少 100%
-Speciality_0_Skill_4_Level_3 移动速度增加 15%,体力消耗减少 150%
-Speciality_0_Skill_4_Level_4 移动速度增加 20%,体力消耗减少 200%
-Speciality_0_Skill_4_Level_5 移动速度增加 25%,体力消耗减少 250%
-Speciality_0_Skill_5 跳水
-Speciality_0_Skill_5_Tooltip 潜水使用较少的氧气和游得更快
-Speciality_0_Skill_5_Level_1 游泳速度增加 5%,在水下氧气消耗减少 50%,射击稳定范围增加10%
-Speciality_0_Skill_5_Level_2 游泳速度增加 10%,在水下氧气消耗减少 100%,射击稳定范围增加20%
-Speciality_0_Skill_5_Level_3 游泳速度增加 15%,在水下氧气消耗减少 150%,射击稳定范围增加30%
-Speciality_0_Skill_5_Level_4 游泳速度增加 20%,在水下氧气消耗减少 200% ,射击稳定范围增加40%
-Speciality_0_Skill_5_Level_5 游泳速度增加 25%,在水下氧气消耗减少 250%,射击稳定范围增加50%
+Speciality_0_Skill_4_Tooltip 体力消耗减少，移动速度更快
+Speciality_0_Skill_4_Level_1 移动速度增加 5%|体力消耗减少 50%
+Speciality_0_Skill_4_Level_2 移动速度增加 10%|体力消耗减少 100%
+Speciality_0_Skill_4_Level_3 移动速度增加 15%|体力消耗减少 150%
+Speciality_0_Skill_4_Level_4 移动速度增加 20%|体力消耗减少 200%
+Speciality_0_Skill_4_Level_5 移动速度增加 25%|体力消耗减少 250%
+Speciality_0_Skill_5 潜水
+Speciality_0_Skill_5_Tooltip 游得更快，使用的氧气更少，同时也减少瞄准时的摇摆程度
+Speciality_0_Skill_5_Level_1 游泳速度增加 5%|氧气消耗减少 50%|瞄准摇摆程度减少 10%
+Speciality_0_Skill_5_Level_2 游泳速度增加 10%|氧气消耗减少 100%|瞄准摇摆程度减少 20%
+Speciality_0_Skill_5_Level_3 游泳速度增加 15%|氧气消耗减少 150%|瞄准摇摆程度减少 30%
+Speciality_0_Skill_5_Level_4 游泳速度增加 20%|氧气消耗减少 200%|瞄准摇摆程度减少 40%
+Speciality_0_Skill_5_Level_5 游泳速度增加 25%|氧气消耗减少 250%|瞄准摇摆程度减少 50%
 Speciality_0_Skill_6 跑酷
-Speciality_0_Skill_6_Tooltip 跳得更高,并减少跳跃的体力消耗
-Speciality_0_Skill_6_Level_1 跳跃高度增加 5%, 跳跃时体力消耗减少 10%
-Speciality_0_Skill_6_Level_2 跳跃高度增加 10%, 跳跃时体力消耗减少 20%
-Speciality_0_Skill_6_Level_3 跳跃高度增加 15%, 跳跃时体力消耗减少 30%
-Speciality_0_Skill_6_Level_4 跳跃高度增加 20%, 跳跃时体力消耗减少 40%
-Speciality_0_Skill_6_Level_5 跳跃高度增加 25%, 跳跃时体力消耗减少 50%
+Speciality_0_Skill_6_Tooltip 跳得更高，并减少跳跃的体力消耗
+Speciality_0_Skill_6_Level_1 跳跃高度增加 5%|跳跃时体力消耗减少 10%
+Speciality_0_Skill_6_Level_2 跳跃高度增加 10%|跳跃时体力消耗减少 20%
+Speciality_0_Skill_6_Level_3 跳跃高度增加 15%|跳跃时体力消耗减少 30%
+Speciality_0_Skill_6_Level_4 跳跃高度增加 20%|跳跃时体力消耗减少 40%
+Speciality_0_Skill_6_Level_5 跳跃高度增加 25%|跳跃时体力消耗减少 50%
 
 Speciality_1_Skill_0 潜行
 Speciality_1_Skill_0_Tooltip 当你处于蹲姿或卧姿时，能更隐秘的行动
-Speciality_1_Skill_0_Level_1 减少 11% 移动发出的声音和被生物发现的概率
-Speciality_1_Skill_0_Level_2 减少 21% 移动发出的声音和被生物发现的概率
-Speciality_1_Skill_0_Level_3 减少 32% 移动发出的声音和被生物发现的概率
-Speciality_1_Skill_0_Level_4 减少 43% 移动发出的声音和被生物发现的概率
-Speciality_1_Skill_0_Level_5 减少 54% 移动发出的声音和被生物发现的概率
-Speciality_1_Skill_0_Level_6 减少 64% 移动发出的声音和被生物发现的概率 
-Speciality_1_Skill_0_Level_7 减少 75% 移动发出的声音和被生物发现的概率
+Speciality_1_Skill_0_Level_1 隐秘度增加 11%
+Speciality_1_Skill_0_Level_2 隐秘度增加 21%
+Speciality_1_Skill_0_Level_3 隐秘度增加 32%
+Speciality_1_Skill_0_Level_4 隐秘度增加 43%
+Speciality_1_Skill_0_Level_5 隐秘度增加 54%
+Speciality_1_Skill_0_Level_6 隐秘度增加 64% 
+Speciality_1_Skill_0_Level_7 隐秘度增加 75%
 Speciality_1_Skill_1 活力
 Speciality_1_Skill_1_Tooltip 在饱食度和水分充足的时候能更快的恢复生命值
 Speciality_1_Skill_1_Level_1 恢复速度增加 10%
@@ -77,33 +77,33 @@ Speciality_1_Skill_2_Tooltip 对细菌、僵尸病毒和迷幻剂免疫
 Speciality_1_Skill_2_Level_1 免疫能力增加 10%
 Speciality_1_Skill_2_Level_2 免疫能力增加 20%
 Speciality_1_Skill_2_Level_3 免疫能力增加 30%
-Speciality_1_Skill_2_Level_4 免疫能力增加 40% 
+Speciality_1_Skill_2_Level_4 免疫能力增加 40%
 Speciality_1_Skill_2_Level_5 免疫能力增加 50%
 Speciality_1_Skill_3 坚韧
-Speciality_1_Skill_3_Tooltip 减少重伤的画面灰色程度和你被击退的效果
-Speciality_1_Skill_3_Level_1 重伤的画面灰色程度和你被击退的效果减少 15%
-Speciality_1_Skill_3_Level_2 重伤的画面灰色程度和你被击退的效果减少 30%
-Speciality_1_Skill_3_Level_3 重伤的画面灰色程度和你被击退的效果减少 45%
-Speciality_1_Skill_3_Level_4 重伤的画面灰色程度和你被击退的效果减少 60%
-Speciality_1_Skill_3_Level_5 重伤的画面灰色程度和你被击退的效果减少 75%
+Speciality_1_Skill_3_Tooltip 减少重伤的画面灰色程度和被击退的效果
+Speciality_1_Skill_3_Level_1 重伤时的画面灰色程度和被击退的效果减少 15%
+Speciality_1_Skill_3_Level_2 重伤时的画面灰色程度和被击退的效果减少 30%
+Speciality_1_Skill_3_Level_3 重伤时的画面灰色程度和被击退的效果减少 45%
+Speciality_1_Skill_3_Level_4 重伤时的画面灰色程度和被击退的效果减少 60%
+Speciality_1_Skill_3_Level_5 重伤时的画面灰色程度和被击退的效果减少 75%
 Speciality_1_Skill_4 强度
 Speciality_1_Skill_4_Tooltip 更缓慢的出血速度和更少的出血伤害，更迅速地痊愈
-Speciality_1_Skill_4_Level_1 骨折时间和出血速度减少 10%, 摔落抗性增加 15% 
-Speciality_1_Skill_4_Level_2 骨折时间和出血速度减少 20%, 摔落抗性增加 30% 
-Speciality_1_Skill_4_Level_3 骨折时间和出血速度减少 30%, 摔落抗性增加 45%
-Speciality_1_Skill_4_Level_4 骨折时间和出血速度减少 40%, 摔落抗性增加 60%
-Speciality_1_Skill_4_Level_5 骨折时间和出血速度减少 50%, 摔落抗性增加 75%
+Speciality_1_Skill_4_Level_1 骨折时间和出血速度减少 10%|摔落抗性增加 15%
+Speciality_1_Skill_4_Level_2 骨折时间和出血速度减少 20%|摔落抗性增加 30%
+Speciality_1_Skill_4_Level_3 骨折时间和出血速度减少 30%|摔落抗性增加 45%
+Speciality_1_Skill_4_Level_4 骨折时间和出血速度减少 40%|摔落抗性增加 60%
+Speciality_1_Skill_4_Level_5 骨折时间和出血速度减少 50%|摔落抗性增加 75%
 Speciality_1_Skill_5 热血
-Speciality_1_Skill_5_Tooltip 不惧怕严寒。
-Speciality_1_Skill_5_Level_1 冻僵的伤害和额外饥饿速度[在雪地地图有效]减少 20%
-Speciality_1_Skill_5_Level_2 冻僵的伤害和额外饥饿速度[在雪地地图有效]减少 40%
-Speciality_1_Skill_5_Level_3 冻僵的伤害和额外饥饿速度[在雪地地图有效]减少 60%
-Speciality_1_Skill_5_Level_4 冻僵的伤害和额外饥饿速度[在雪地地图有效]减少 80%
-Speciality_1_Skill_5_Level_5 冻僵的伤害和额外饥饿速度[在雪地地图有效]减少 100%
+Speciality_1_Skill_5_Tooltip 不惧怕严寒，并能减少让身体暖和时所需的卡路里
+Speciality_1_Skill_5_Level_1 抗寒程度增加 20%
+Speciality_1_Skill_5_Level_2 抗寒程度增加 40%
+Speciality_1_Skill_5_Level_3 抗寒程度增加 60%
+Speciality_1_Skill_5_Level_4 抗寒程度增加 80%
+Speciality_1_Skill_5_Level_5 抗寒程度增加 100%
 Speciality_1_Skill_6 生存
 Speciality_1_Skill_6_Tooltip 减少水分和饱腹度的消耗速度
 Speciality_1_Skill_6_Level_1 水分和饱腹度消耗速度减少 5%
-Speciality_1_Skill_6_Level_2 水分和饱腹度消耗速度减少 10% 
+Speciality_1_Skill_6_Level_2 水分和饱腹度消耗速度减少 10%
 Speciality_1_Skill_6_Level_3 水分和饱腹度消耗速度减少 15%
 Speciality_1_Skill_6_Level_4 水分和饱腹度消耗速度减少 20%
 Speciality_1_Skill_6_Level_5 水分和饱腹度消耗速度减少 25%
@@ -120,7 +120,7 @@ Speciality_2_Skill_0_Level_7 医疗用品的治疗效果增加 50%
 Speciality_2_Skill_1 制作
 Speciality_2_Skill_1_Tooltip 规划更多的建筑蓝图
 Speciality_2_Skill_1_Level_1 你当前可合成: 自制类物品
-Speciality_2_Skill_1_Level_2 你当前可合成: 自制类物品,基础类物品
+Speciality_2_Skill_1_Level_2 你当前可合成: 自制类物品和基础类物品
 Speciality_2_Skill_1_Level_3 你当前可合成: 全部可合成的物品
 Speciality_2_Skill_2 伐木
 Speciality_2_Skill_2_Tooltip 更快速的砍树
@@ -143,20 +143,20 @@ Speciality_2_Skill_4_Level_4 钓鱼效率增加 80%
 Speciality_2_Skill_4_Level_5 钓鱼效率增加 100%
 Speciality_2_Skill_5 耕种
 Speciality_2_Skill_5_Tooltip 高效率地收获农作物  
-Speciality_2_Skill_5_Level_1 翻倍收获概率为 14%,初始生长速度增加 3%
-Speciality_2_Skill_5_Level_2 翻倍收获概率为 29%,初始生长速度增加 7%
-Speciality_2_Skill_5_Level_3 翻倍收获概率为 43%,初始生长速度增加 10%
-Speciality_2_Skill_5_Level_4 翻倍收获概率为 57%,初始生长速度增加 14%
-Speciality_2_Skill_5_Level_5 翻倍收获概率为 71%,初始生长速度增加 18%
-Speciality_2_Skill_5_Level_6 翻倍收获概率为 86%,初始生长速度增加 21%
-Speciality_2_Skill_5_Level_7 翻倍收获概率为 100%,初始生长速度增加 25%   
+Speciality_2_Skill_5_Level_1 翻倍收获概率为 14%|初始生长速度增加 3%
+Speciality_2_Skill_5_Level_2 翻倍收获概率为 29%|初始生长速度增加 7%
+Speciality_2_Skill_5_Level_3 翻倍收获概率为 43%|初始生长速度增加 10%
+Speciality_2_Skill_5_Level_4 翻倍收获概率为 57%|初始生长速度增加 14%
+Speciality_2_Skill_5_Level_5 翻倍收获概率为 71%|初始生长速度增加 18%
+Speciality_2_Skill_5_Level_6 翻倍收获概率为 86%|初始生长速度增加 21%
+Speciality_2_Skill_5_Level_7 翻倍收获概率为 100%|初始生长速度增加 25%
 Speciality_2_Skill_6 机械
 Speciality_2_Skill_6_Tooltip 提高修复车辆的速度。
-Speciality_2_Skill_6_Level_1 修复速度增加 40%
-Speciality_2_Skill_6_Level_2 修复速度增加 80%
-Speciality_2_Skill_6_Level_3 修复速度增加 120%
-Speciality_2_Skill_6_Level_4 修复速度增加 160%
-Speciality_2_Skill_6_Level_5 修复速度增加 200%
+Speciality_2_Skill_6_Level_1 修复速度增加 20%
+Speciality_2_Skill_6_Level_2 修复速度增加 40%
+Speciality_2_Skill_6_Level_3 修复速度增加 60%
+Speciality_2_Skill_6_Level_4 修复速度增加 80%
+Speciality_2_Skill_6_Level_5 修复速度增加 100%
 Speciality_2_Skill_7 工程师
 Speciality_2_Skill_7_Tooltip 修复更加高大上的东西。
 Speciality_2_Skill_7_Level_1 当前你可以修复:自制类物品
@@ -172,11 +172,11 @@ Boost_2 喷溅
 Boost_2_Tooltip 飞溅的血液会更多。
 Boost_2_Bonus 血液效果增加 700%
 Boost_3 击飞
-Boost_3_Tooltip 千斤顶更高效升起车辆，车辆撞击附加击飞效果。
+Boost_3_Tooltip 千斤顶能更高效升起车辆，车辆撞击附加击飞效果。
 Boost_3_Bonus 生物/千斤顶的击飞效果增加 700%
 Boost_4 投掷
-Boost_4_Tooltip 投掷物品会投的更远
-Boost_4_Bonus 可投掷物品的速度增加 100%
+Boost_4_Tooltip 可投掷物品会被投的更远
+Boost_4_Bonus 可投掷物品的投掷速度增加 100%
 
 Skill {0} [{1}]
 Bonus_Current 当前等级: {0} 
