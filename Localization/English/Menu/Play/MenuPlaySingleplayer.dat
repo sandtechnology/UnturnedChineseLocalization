@@ -23,14 +23,13 @@ Maps_Curated_Tooltip 亲自为你挑选的、社区自行创造的地图更新
 Maps_Workshop 创意工坊地图
 Maps_Workshop_Tooltip 从创意工坊下载的地图
 Maps_Misc 其它地图
-Maps_Misc_Tooltip 来自活动和测试的地图
+Maps_Misc_Tooltip 包含活动地图和测试地图
 
 Retired_View_Label 在Steam创意工坊上查看
 Retired_View_Tooltip 在Steam创意工坊上查看这个地图。
 Retired_Manage_Sub 订阅
 Retired_Manage_Unsub 取消订阅
 Retired_Manage_Tooltip 自动安装或卸载该地图。
-Retired_Label 已过期
 
 Manage_Workshop_Label 管理订阅物品
 Manage_Workshop_Tooltip 点击以访问创意工坊的订阅物品管理页面。
@@ -53,11 +52,11 @@ Arena 竞技场
 
 Info_WithVersion {0} - {1} - v{2}
 
-Creators 创造这个地图的主要作者：
-Collaborators 帮助创造这个地图的人：
+Creators 这个地图的主要创作者：
+Collaborators 帮助创作这个地图的人：
 Thanks 特别鸣谢：
-Credits_Text 如果你打算通过购买 {1} 来支持你正在享受的 {0} 地图的创造者，那么请前往商店界面进行进一步操作，在库存页面会有关于它的更加详细的介绍。
-Credits_Tooltip 点击这里查看库存页面。
+Credits_Text 喜欢这张地图吗？快来购买 {1} 来支持创作了 {0} 地图的人吧！点击这里可以了解该物品并购买它！
+Credits_Tooltip 点击这里来了解该物品并购买它。
 Timed_Text 这张来自创意工坊的地图已经被官方限时推荐至<color=#00FF00>{0}</color>，在这之后它仍会在Steam创意工坊上可用。
 
 Feedback_Button 反馈或报告bug

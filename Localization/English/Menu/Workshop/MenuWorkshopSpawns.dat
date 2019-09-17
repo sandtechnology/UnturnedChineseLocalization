@@ -4,31 +4,31 @@ Type_Vehicle 载具
 Type_Animal 动物
 
 View_Button 查看
-View_Button_Tooltip 寻找生成ID
+View_Button_Tooltip 寻找资源ID
 Raw_Button 复制
 Raw_Button_Tooltip 导出到剪贴板
 New_Button 创建
-New_Button_Tooltip 创建生成资源
+New_Button_Tooltip 创建资源
 Write_Button 应用
-Write_Button_Tooltip 应用对资源文件的更改
-Add_Root_Spawn_Button 添加生成
-Add_Root_Spawn_Button_Tooltip 新的来源
+Write_Button_Tooltip 应用对该资源的更改
+Add_Root_Spawn_Button 添加刷新源
+Add_Root_Spawn_Button_Tooltip 创建新刷新源
 Remove_Root_Button 删除
-Remove_Root_Button_Tooltip 删除来源
+Remove_Root_Button_Tooltip 删除刷新源
 Add_Table_Asset_Button 添加资源
-Add_Table_Asset_Button_Tooltip 新表
-Add_Table_Spawn_Button 添加生成
-Add_Table_Spawn_Button_Tooltip 新表
+Add_Table_Asset_Button_Tooltip 创建新资源
+Add_Table_Spawn_Button 添加刷新源
+Add_Table_Spawn_Button_Tooltip 创建新刷新源
 Remove_Table_Button 删除
-Remove_Table_Button_Tooltip 删除表
-Apply_Weights_Button 应用权重
-Apply_Weights_Button_Tooltip 应用计算机的百分比机会
+Remove_Table_Button_Tooltip 删除刷新源
+Apply_Weights_Button 应用优先级
+Apply_Weights_Button_Tooltip 应用优先级
 
-Roots_Box {0} - 来源
-Roots_Box_Tooltip 生成来源
+Roots_Box 资源 {0} 
+Roots_Box_Tooltip 刷新源列表
 
-Tables_Box {0} - 表
-Tables_Box_Tooltip 生成结果
+Tables_Box 资源 {0} 的刷新表
+Tables_Box_Tooltip 找到的资源刷新结果
 
-Weight_Tooltip 权重
+Weight_Tooltip 优先级
 Chance_Tooltip 几率

@@ -4,6 +4,9 @@ Server_Players {0}/{1}
 Name_Field_Hint 按服务器名称筛选...
 Password_Field_Hint 密码
 Password_Field_Replace *
+Map_Field_Hint 按地图名称筛选...
+
+Refresh_Label 搜索类别：
 
 Refresh_Gold_Button 黄金服务器
 Refresh_Gold_Button_Tooltip 刷新

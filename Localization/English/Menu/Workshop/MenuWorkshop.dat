@@ -2,15 +2,15 @@ BrowseButtonText 浏览
 BrowseButtonTooltip 浏览
 SubmitButtonText 提交
 SubmitButtonTooltip 提交
-EditorButtonText 编辑
-EditorButtonTooltip 编辑
-ErrorButtonText 日志
-ErrorButtonTooltip 查看日志
+EditorButtonText 编辑器
+EditorButtonTooltip 编辑地图
+ErrorButtonText 错误日志
+ErrorButtonTooltip 查看错误日志
 LocalizationButtonText 本地化
-LocalizationButtonTooltip 比较差异的工具
-SpawnsButtonText 生成表
-SpawnsButtonTooltip 调试掉落率
-ModulesButtonText 模块
-ModulesButtonTooltip 查看已被加载的模块
+LocalizationButtonTooltip 比较本地化差异的工具
+SpawnsButtonText 资源刷新表
+SpawnsButtonTooltip 用于调试掉落率
+SubscriptionsButtonText 管理
+SubscriptionsButtonTooltip 用于管理已订阅的物品
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
