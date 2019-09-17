@@ -13,7 +13,7 @@ Favorite_Off_Button 取消收藏
 Favorite_Button_Tooltip 收藏/取消收藏
 
 Players 在线玩家: {0}/{1}
-Details 服务器细节
+Details 服务器详情
 Map 地图: {0}
 
 Workshop 创意工坊: {0}
@@ -40,6 +40,11 @@ VAC_Insecure VAC已禁用
 
 BattlEye_Secure 需要BattlEye
 BattlEye_Insecure BattlEye已禁用
+
+Subscribe +
+Subscribe_Tooltip 订阅 {0}
+Unsubscribe -
+Unsubscribe_Tooltip 取消订阅 {0}
 
 Easy 简单
 Normal 普通

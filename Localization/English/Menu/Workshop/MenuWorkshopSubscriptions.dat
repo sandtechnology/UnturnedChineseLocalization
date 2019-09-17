@@ -1,0 +1,14 @@
+Header 已订阅的物品：
+Enable_Warning 禁用或启用物品的更改在重启游戏后才会生效
+No_Subscriptions 你没有订阅任何物品。
+
+Manage_Label 在Steam内嵌界面中查看
+Manage_Tooltip 转到Steam创意工坊物品管理页面
+View_Label 查看详情
+View_Tooltip 在Steam创意工坊查看 {0}
+
+Subscribe_Label 重新订阅
+Subscribe_Tooltip 重新订阅 {0}
+
+Unsubscribe_Label 取消订阅
+Unsubscribe_Tooltip 取消订阅 {0}
