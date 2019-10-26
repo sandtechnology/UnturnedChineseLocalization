@@ -13,7 +13,8 @@ BackButtonTooltip 返回
 NewsTooltip 点击此处发表评论或查看其他公告。
 
 Curated_Workshop_Title 被采纳的创意工坊物品: {0}
-Featured_Workshop_Title 精选的创意工坊物品: {0}
+Highlighted_Workshop_Title 热门创意工坊物品: {0}
+Featured_Workshop_Title 精选创意工坊物品: {0}
 Featured_Workshop_Dismiss 关闭
 ReadMore_Link_On [展开]
 ReadMore_Link_Off [收起]
@@ -35,7 +36,7 @@ Version 你的版本不同于服务器的版本。
 Pro_Server 你需要购买黄金DLC来进入该服务器。
 Pro_Character 请选择一个有效的角色名。
 Pro_Desync 您的客户端和服务器无法验证你是否有黄金DLC。
-Pro_Appearance 请选择一个有效的脸，头发、胡须、肤色和头发颜色
+Pro_Appearance 请在角色页面中选择一个有效的脸，头发、胡须、肤色和头发颜色
 Auth_Verification 您的身份验证验证失败。[重启Steam]
 Auth_No_Steam 你没有连接到Steam上！
 Auth_License_Expired 您的身份验证证书过期了。[重启Steam]
