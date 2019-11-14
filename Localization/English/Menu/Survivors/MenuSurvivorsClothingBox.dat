@@ -4,8 +4,8 @@ Key_Tooltip 点击这里查看商店的页面。
 Unbox_Text 打开
 Unbox_Tooltip 使用钥匙打开箱子。
 
-Unwrap_Text 从箱子中取出
-Unwrap_Tooltip 从包裹中取出
+Unwrap_Text 打开箱子
+Unwrap_Tooltip 拆开包裹
 
 Origin_Unbox 你从箱子中取出了一个道具！
 Origin_Unwrap 你从包裹中取出了一个道具！
@@ -20,4 +20,4 @@ Rarity_Epic 史诗物品概率: {0}%
 Rarity_Legendary 传奇物品概率: {0}%
 Rarity_Mythical 神话物品概率: {0}%
 Rarity_Equalized 物品概率: 正常
-Rarity_Bonus_Items 加成物品概率: +{0}%
+Rarity_Bonus_Items 物品概率加成: +{0}%
