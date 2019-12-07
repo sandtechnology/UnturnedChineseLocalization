@@ -4,12 +4,14 @@ Rewards 奖励:
 Condition_Experience {0}/{1} 经验
 Condition_Reputation {0}/{1} 声望
 Condition_Item {0}/{1} {2}
+Condition_Currency {0} 元
 
 Reward_Experience {0} 经验
 Reward_Reputation {0} 声望
 Reward_Item {1} x{0}
 Reward_Item_Random 随机物品 x{0}
 Reward_Vehicle {0} x1
+Reward_Currency {0} 元
 
 Accept 接受
 Accept_Tooltip 接受任务

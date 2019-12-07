@@ -23,6 +23,7 @@ Skin 皮肤
 Map_Type_Survival 生存
 Map_Type_Horde 部落
 Map_Type_Arena 竞技场
+Map_Type_Custom 自定义
 
 Item_Type_Backpack 背包
 Item_Type_Barrel 桶
@@ -125,6 +126,7 @@ Alert_Map 请指定一个有效的地图。
 Alert_Localization 请指定一个有效的本地化文件夹。
 Alert_Object 请指定一个有效的项目/物品/载具/皮肤。
 Alert_Curated 只能提交物品和皮肤到Curated（等待采纳）创意工坊。
+
 PathFieldNotification_Empty 内容路径不能为空。
 PathFieldNotification_MissingFolder 内容路径不存在。
 PathFieldNotification_Map 内容路径只能包含你的地图文件夹。

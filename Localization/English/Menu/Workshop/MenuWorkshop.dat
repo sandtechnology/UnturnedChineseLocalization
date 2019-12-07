@@ -1,16 +1,18 @@
-BrowseButtonText 浏览
-BrowseButtonTooltip 浏览
-SubmitButtonText 提交
-SubmitButtonTooltip 提交
-EditorButtonText 编辑器
-EditorButtonTooltip 编辑地图
+BrowseButtonText 浏览物品
+BrowseButtonTooltip 浏览创意工坊物品
+SubmitButtonText 提交物品
+SubmitButtonTooltip 提交创意工坊物品
+EditorButtonText 地图编辑器
+EditorButtonTooltip 开始编辑地图
 ErrorButtonText 错误日志
 ErrorButtonTooltip 查看错误日志
-LocalizationButtonText 本地化
-LocalizationButtonTooltip 比较本地化差异的工具
+LocalizationButtonText 本地化工具
+LocalizationButtonTooltip 打开比较本地化差异的工具
 SpawnsButtonText 资源刷新表
 SpawnsButtonTooltip 用于调试掉落率
-SubscriptionsButtonText 管理
+SubscriptionsButtonText 管理订阅物品
 SubscriptionsButtonTooltip 用于管理已订阅的物品
+DocsButtonText 开发文档
+DocsButtonTooltip 阅读开发者文档
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]

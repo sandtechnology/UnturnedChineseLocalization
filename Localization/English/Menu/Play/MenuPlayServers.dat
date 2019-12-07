@@ -9,32 +9,35 @@ Map_Field_Hint 按地图名称筛选...
 Refresh_Label 搜索类别：
 
 Refresh_Gold_Button 黄金服务器
-Refresh_Gold_Button_Tooltip 刷新
+Refresh_Gold_Button_Tooltip 点击按钮以刷新
 
 Refresh_Internet_Button 互联网服务器
-Refresh_Internet_Button_Tooltip 点击按钮刷新
+Refresh_Internet_Button_Tooltip 点击按钮以刷新
 
 Refresh_LAN_Button     局域网服务器	
-Refresh_LAN_Button_Tooltip 点击按钮刷新
+Refresh_LAN_Button_Tooltip 点击按钮以刷新
 
 Refresh_History_Button 历史记录
-Refresh_History_Button_Tooltip 点击按钮刷新
+Refresh_History_Button_Tooltip 点击按钮以刷新
 
 Refresh_Favorites_Button 收藏夹
-Refresh_Favorites_Button_Tooltip 点击按钮刷新
+Refresh_Favorites_Button_Tooltip 点击按钮以刷新
 
 Refresh_Friends_Button 好友所在服务器
-Refresh_Friends_Button_Tooltip 点击按钮刷新
+Refresh_Friends_Button_Tooltip 点击按钮以刷新
 
-Any_Password_Button 不限密码
+HostingButtonText 开服指南
+HostingButtonTooltip 阅读有关设置服务器的文档（英文）
+
+Any_Password_Button 忽略密码配置
 Yes_Password_Button 有密码
 No_Password_Button 无密码
 
-Any_Workshop_Button 不限创意工坊
+Any_Workshop_Button 忽略创意工坊配置
 Yes_Workshop_Button 需要创意工坊
 No_Workshop_Button 无需创意工坊
 
-Any_Plugins_Button 不限服务端
+Any_Plugins_Button 忽略服务端类型
 Yes_Plugins_Button Rocket（有插件）
 No_Plugins_Button Vanilla（无插件）
 
@@ -42,41 +45,41 @@ Attendance_Toggle 有玩家在线
 Security_Toggle 安全
 PvP_Toggle PvP
 
-Any_Attendance_Button 任何在线玩家
+Any_Attendance_Button 忽略在线玩家情况
 Empty_Button 无在线玩家
 Space_Button 有玩家空位
 
-VAC_Any_Button VAC状态不限
-VAC_Secure_Button VAC安全
-VAC_Insecure_Button VAC不安全
+VAC_Any_Button 忽略VAC状态
+VAC_Secure_Button VAC已开启
+VAC_Insecure_Button VAC已关闭
 
-BattlEye_Any_Button BattlEye状态不限
-BattlEye_Secure_Button 需要BattlEye
+BattlEye_Any_Button 忽略BattlEye状态
+BattlEye_Secure_Button BattlEye已开启
 BattlEye_Insecure_Button BattlEye已禁用
 
-Any_Combat_Button 不限战斗模式
+Any_Combat_Button 忽略战斗模式配置
 PvP_Button PvP
 PvE_Button PvE
 
-Any_Cheats_Button 不限作弊指令
+Any_Cheats_Button 忽略作弊指令配置
 Yes_Cheats_Button 开启作弊指令
 No_Cheats_Button 关闭作弊指令
 
-Any_Mode_Button 不限模式
+Any_Mode_Button 忽略模式配置
 Easy_Button 简单
 Normal_Button 普通
 Hard_Button 困难
 Pro_Button 黄金
 
-Any_Camera_Button 不限视角
+Any_Camera_Button 忽略视角配置
 First_Button 第一人称视角
 Third_Button 第三人称视角
 Both_Button 第一/三人称视角
 Vehicle_Button 载具第三人称视角
 
-Any_Map 不限地图
+Any_Map 忽略地图配置
 
-No_Servers 在主服务器中没有找到任何符合条件且版本号为 {0} 的服务器
+No_Servers 在Steam上没有找到任何符合条件且版本号为 {0} 的服务器
 
 Sort_Name 服务器名称
 Sort_Name_Tooltip 按照名称排序

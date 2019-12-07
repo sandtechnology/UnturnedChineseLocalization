@@ -21,6 +21,10 @@ BakeSkyboxResourcesButtonTooltip 生成地图资源
 SelectionBoxLabelText 选择
 RadiusSliderLabelText 半径
 
+Search_Field_Hint 按名称筛选...
+Search 搜索
+Search_Tooltip 按资源名称搜索。
+
 AddButtonText 添加 [{0}]
 AddButtonTooltip 创建刷新点
 

@@ -29,21 +29,21 @@ Banned 你被该服务器的 {0} 封禁，因为 {1} 。
 Kicked 你被踢出游戏，因为 {0}。
 Whitelisted 你不在该服务器的白名单里。
 Password 你输入的密码有误。
-Full 服务器已满。
-Hash_Level 这个服务器正在使用修改过的地图版本。
+Full 服务器及排队队列已满。
+Hash_Level 这个服务器正在使用修改过的地图。
 Hash_Assembly 这个服务器正在使用修改过的代码。
-Version 你的版本不同于服务器的版本。
+Version 你的版本不同于服务器的版本，当前版本：{0}
 Pro_Server 你需要购买黄金DLC来进入该服务器。
-Pro_Character 请选择一个有效的角色名。
+Pro_Character 请选择一个有效的角色。
 Pro_Desync 您的客户端和服务器无法验证你是否有黄金DLC。
-Pro_Appearance 请在角色页面中选择一个有效的脸，头发、胡须、肤色和头发颜色
-Auth_Verification 您的身份验证验证失败。[重启Steam]
+Pro_Appearance 请在角色页面中选择一个有效的脸，头发、胡须、肤色和头发颜色。
+Auth_Verification 身份标签验证失败。[重启Steam]
 Auth_No_Steam 你没有连接到Steam上！
-Auth_License_Expired 您的身份验证证书过期了。[重启Steam]
+Auth_License_Expired 您的身份验证标签过期了。[重启Steam]
 Auth_VAC_Ban 你已被VAC反作弊系统封禁，无法连接受VAC保护的服务器。
-Auth_Elsewhere 你已经在另一个服务器了！
+Auth_Elsewhere 你正在另外一个服务器游戏。
 Auth_Timed_Out Steam反作弊服务器没有响应。
-Auth_Used 您的身份验证证书已经被使用了。
+Auth_Used 您的身份标签已经被使用了。
 Auth_No_User 你没有连接到一个Steam帐户。
 Auth_Pub_Ban 你被禁止玩多人游戏。
 Auth_Econ_Serialize 你的经济标签未能序列化。
@@ -53,9 +53,9 @@ Auth_Empty Steam认证服务器没有响应。
 Already_Connected 你已经连接到该服务器。
 Already_Pending 你已经进入了该服务器的队列。
 Late_Pending 你在队列中的位置已经丢失了。
-Not_Pending 你没有在该服务器游玩。
+Not_Pending 你没有正在该服务器游玩。
 Name_Player_Short 你的Steam用户名太短了。
-Name_Player_Long 你的Steam用户名太长了
+Name_Player_Long 你的Steam用户名太长了。
 Name_Player_Invalid 你的Steam用户名包含无效字符。
 Name_Player_Number 你的Steam用户名不能全是数字。
 Name_Character_Short 你的角色名字太短了。
@@ -64,8 +64,8 @@ Name_Character_Invalid 你的角色名包含无效字符。
 Name_Character_Number 你的角色名不能全是数字。
 Timed_Out 与服务器丢失连接。
 Map 该服务器正在运行一张你没有的地图。
-Shutdown 服务器已关闭！
-Shutdown_Reason 服务器因 {0} 而关闭。
+Shutdown 服务器已被关闭！
+Shutdown_Reason 服务器因 {0} 而被关闭。
 Ping 你的Ping太高了！
 Plugin 该服务器上的一个插件禁止了你的帐户进入服务器。
 Plugin_Reason 插件提示：{0}
@@ -79,15 +79,15 @@ BattlEye_Update BattlEye防作弊: 服务需要更新，请用启动器（steam�
 BattlEye_Unknown BattlEye防作弊: 未知的请求，请用启动器（steam）重新开启游戏。
 Level_Version 该服务器正在使用与你不同的地图版本: {0}
 Failure_Unknown 未知错误：{0} 原因：{1}
-Reject_Unknown 因未知原因被拒绝进入：{0}
+Reject_Unknown 因未知原因而被拒绝进入：{0}
 Workshop_Download_Restriction 服务器对创意工坊物品 {0} 的使用没有被其创作者允许。
-Workshop_Advertisement_Mismatch 服务器配置错误：服务器本不需要创意工坊物品, 却请求下载创意工坊物品。
+Workshop_Advertisement_Mismatch 服务器配置错误：服务器本不需要创意工坊物品，却请求下载创意工坊物品。
 
 Pro_Title 永久的黄金DLC升级 
 Pro_Button 升级到黄金DLC账户可以获得额外的角色定制选项、进入黄金DLC服务器的机会以及更多的角色槽！更多可用功能可以在商店的页面查看。
 Pro_Button_Tooltip 点击这里查看商店的页面。
 
 BattlEye_Header 警告：BattlEye已禁用
-BattlEye_Body BattlEye防作弊未启用，你将不能加入受BattlEye保护的服务器。如果你卸载了它或者跳过了它的安装程序，那你可以通过运行在Unturned/BattlEye文件夹下的Install_BattlEye.bat脚本的方式来重新安装它。
+BattlEye_Body BattlEye防作弊未启用，你将不能加入受BattlEye保护的服务器。如果你卸载了它或者跳过了它的安装程序，那你可以通过运行在游戏根目录BattlEye文件夹下的Install_BattlEye.bat脚本的方式来重新安装它。
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
