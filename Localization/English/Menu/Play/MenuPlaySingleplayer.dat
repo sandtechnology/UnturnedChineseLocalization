@@ -1,5 +1,7 @@
-Play_Button 开始游戏
-Play_Button_Tooltip 开始游戏
+Play_Button 离线游戏
+Play_Button_Tooltip 开始游玩这张地图。
+Browse_Servers_Label 浏览服务器
+Browse_Servers_Tooltip 寻找正在运行这张地图的服务器。
 
 Any_Button 随机难度
 Easy_Button 简单
@@ -59,7 +61,7 @@ Credits_Text 喜欢这张地图吗？快来购买 {1} 来支持创作了 {0} 地
 Credits_Tooltip 点击这里来了解该物品并购买它。
 Timed_Text 这张来自创意工坊的地图已经被官方限时推荐至<color=#00FF00>{0}</color>，在这之后它仍会在Steam创意工坊上可用。
 
-Feedback_Button 反馈或报告bug
-Feedback_Button_Tooltip 点击这里来查看讨论区。
+Feedback_Button 反馈/报告bug
+Feedback_Button_Tooltip 点击这里来查看讨论页面。
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
