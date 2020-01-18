@@ -20,6 +20,7 @@ Sort_Mode_Type 类型（A-Z）
 Sort_Mode_Label 排序方式
 Sort_Mode_Tooltip 设置组织背包的方式。
 Reverse_Sort_Order_Label 倒序排序
+Filter_Equipped_Label 只显示可被装备的物品
 
 Origin_Drop 你找到了一个物品！
 
