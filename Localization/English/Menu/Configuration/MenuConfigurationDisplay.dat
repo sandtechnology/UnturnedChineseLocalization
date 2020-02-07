@@ -1,3 +1,8 @@
-Fullscreen_Toggle_Label 全屏
 Buffer_Toggle_Label 垂直同步
 User_Interface_Scale_Field_Label UI缩放
+
+Fullscreen_Mode_Label 全屏方式
+Fullscreen_Mode_Tooltip 选择游戏的显示方式
+Fullscreen_Mode_Exclusive 独占
+Fullscreen_Mode_Borderless 无边框
+Fullscreen_Mode_Windowed 窗口化

@@ -1,8 +1,0 @@
-Name <color=uncommon>弓弩爱好者</color>
-Description <color=uncommon>Kevin</color>觉得你已经准备好使用一把独特的弩弓了。收集他组装弩弓需要的材料吧。
-
-Condition_0 <color=uncommon>已损坏的猎鹰犬</color> {0}/1
-Condition_1 <color=rare>上等钢板弹簧</color> {0}/1
-Condition_2 <color=epic>精致鱼竿</color> {0}/1
-Condition_3 <color=rare>全金属横梁</color> {0}/1
-Condition_4 <color=legendary>完美的红木板材</color> {0}/1
