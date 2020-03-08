@@ -10,6 +10,8 @@ Unwrap_Tooltip 拆开包裹
 Origin_Unbox 你从箱子中取出了一个道具！
 Origin_Unwrap 你从包裹中取出了一个道具！
 
+Region_Disabled 开箱功能已在地区 {0} 被禁用。
+
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
 Exchange_Timed_Out Steam物品服务器没有响应。当你刷新后你的物品将会在库存显示。
 Exchange_Missing_Assets 未知资源。在游戏更新完成后此物品将会出现在你的库存中。我们为这种罕见情况带来的不便表示歉意！
