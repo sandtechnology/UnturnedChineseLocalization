@@ -91,3 +91,5 @@ BattlEye_Header 警告：BattlEye已禁用
 BattlEye_Body BattlEye防作弊未启用，你将不能加入受BattlEye保护的服务器。如果你卸载了它或者跳过了它的安装程序，那你可以通过运行在游戏根目录BattlEye文件夹下的Install_BattlEye.bat脚本的方式来重新安装它。
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
+Dismiss_Notification_Label 确认
+Dismiss_Notification_Tooltip 清除通知。

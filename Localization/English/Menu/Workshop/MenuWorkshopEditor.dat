@@ -22,5 +22,5 @@ Large 大型地图
 Insane 巨型地图
 
 VR_Label Roomscale VR
-VR_Hint_0 在VR的VR菜单中启动。
+VR_Hint_0 以带有-VR参数的方式启动VR菜单
 VR_Hint_1 这会禁用桌面剧场！

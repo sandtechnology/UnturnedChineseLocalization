@@ -99,6 +99,8 @@ Safezone 离安全区域太近了
 Bayonet 劈刺 [{0}]
 Vehicle_Locked 当前已上锁 [{0}]
 Vehicle_Unlocked 当前未上锁 [{0}]
+Build_On_Occupied_Vehicle 载具已被占用
+Not_Allowed_Here 此处禁止
 
 Chat_Global [世界] {0}: {1}
 Chat_Local [区域] {0}: {1}

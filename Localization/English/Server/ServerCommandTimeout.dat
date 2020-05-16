@@ -4,6 +4,6 @@ MaxNumberErrorText Failed to make timeout greater than {0}.
 
 TimeoutCommandText Timeout
 TimeoutInfoText Timeout [Number]
-TimeoutHelpText This assigns a maximum ping threshhold to the server before a client is kicked.
+TimeoutHelpText This assigns a maximum ping threshold to the server before a client is kicked.
 
 TimeoutText Successfully set timeout to {0}!
