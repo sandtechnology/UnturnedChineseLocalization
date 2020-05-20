@@ -14,3 +14,5 @@ TeleportObstructed Unable to teleport {0} because {1} was obstructed.
 
 WaypointCommand WP
 WaypointText waypoint
+BedCommand Bed
+BedText bed
