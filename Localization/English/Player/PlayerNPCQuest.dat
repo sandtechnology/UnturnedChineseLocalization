@@ -6,6 +6,13 @@ Condition_Reputation {0}/{1} 声望
 Condition_Item {0}/{1} {2}
 Condition_Currency {0} 元
 
+Condition_AnimalKills 击杀 {0}/{1} 只动物
+Condition_HordeKills 击退 {0}/{1} 波尸潮
+Condition_ObjectKills 破坏 {0}/{1} 个物体
+Condition_PlayerKills 击杀 {0}/{1} 个玩家
+Condition_TreeKills {0}/{1} {2}
+Condition_ZombieKills 击杀 {0}/{1} 只僵尸
+
 Reward_Experience {0} 经验
 Reward_Reputation {0} 声望
 Reward_Item {1} x{0}
@@ -16,13 +23,13 @@ Reward_Currency {0} 元
 Accept 接受
 Accept_Tooltip 接受任务
 Decline 拒绝
-Decline_Tooltip 忽略任务
+Decline_Tooltip 拒绝任务
 Continue 继续
 Continue_Tooltip 完成任务
 Track_On 跟踪任务
 Track_Off 取消跟踪任务
 Track_Tooltip 显示/不显示任务细节
 Abandon 放弃
-Abandon_Tooltip 驳回任务
+Abandon_Tooltip 放弃任务
 Return 返回
 Return_Tooltip 退出任务界面

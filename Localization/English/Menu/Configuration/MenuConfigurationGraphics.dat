@@ -1,3 +1,5 @@
+Ambient_Occlusion_Label 环境光遮蔽
+Ambient_Occlusion_Tooltip 让物体中心或连接处周围更加自然
 Bloom_Toggle_Label 光晕
 Bloom_Tooltip 在强光下出现的模糊光环。
 Chromatic_Aberration_Toggle_Label 色差
@@ -44,15 +46,13 @@ Sun_Shafts_Button_Label 阳光光线质量
 Sun_Shafts_Button_Tooltip 光线的分辨率
 Lighting_Button_Label 光照质量
 Lighting_Button_Tooltip 阴影分辨率和光线数量
-Ambient_Occlusion_Button_Label 环境光遮蔽质量
-Ambient_Occlusion_Button_Tooltip 狭缝阴影的分辨率
 Reflection_Button_Label 屏幕空间反射质量
 Reflection_Button_Tooltip 雨水坑的反射细节
 Planar_Reflection_Button_Label 平面反射质量
 Planar_Reflection_Button_Tooltip 水的反射细节
 Water_Button_Label 水面效果
 Water_Button_Tooltip 调整水的透明度，泡沫，波浪和反射效果
-Scope_Button_Label 瞄准镜质量
+Scope_Button_Label 瞄准镜视野质量
 Scope_Button_Tooltip 调整双渲染范围（远处和近处）的分辨率
 Outline_Button_Label 轮廓质量
 Outline_Button_Tooltip 调整突出材质的分辨率和模糊效果
@@ -73,9 +73,9 @@ Effect_Off {0}: 只显示血
 Effect_Tier {0}: {1} 秒
 
 Planar_Reflection_Low {0}: 只有地形
-Planar_Reflection_Medium {0}: 天空、树木、建筑物、大型物体
-Planar_Reflection_High {0}: 载具、障碍物、中型物体
-Planar_Reflection_Ultra {0}: 玩家、AI、效果
+Planar_Reflection_Medium {0}: 包含天空、树木、建筑物、大型物体
+Planar_Reflection_High {0}: 包含载具、障碍物、中型物体
+Planar_Reflection_Ultra {0}: 包含玩家、AI、效果
 
 Bone_Influences_Medium {0}: 1
 Bone_Influences_High {0}: 2
@@ -85,9 +85,9 @@ Wind_Low {0}: 基本的风
 Wind_Medium {0}+: SpeedTrees模型的分层风
 
 Landmark_Low {0}: 只有大型物体
-Landmark_Medium {0}: 树木
-Landmark_High {0}: 可选物体
-Landmark_Ultra {0}: 道路
+Landmark_Medium {0}: 包含树木
+Landmark_High {0}: 包含选择性显示物体
+Landmark_Ultra {0}: 包含道路
 
 FXAA FXAA
 TAA TAA

@@ -15,6 +15,7 @@ Unlocked_After_Seconds_In_Safezone 在安全区域自动解除锁定的时间（
 Decay_Time 衰减时间
 Damage_Multiplier 伤害倍数
 Armor_Multiplier 护甲倍数
+NonHeadshot_Armor_Multiplier 未被爆头时的护甲倍数
 Child_Explosion_Armor_Multiplier 承担部分爆炸伤害的护甲倍数
 Backstab_Multiplier 背刺加成伤害倍数
 Armor_Lowtier_Multiplier 低级护甲伤害倍数
@@ -182,6 +183,7 @@ Allow_Dynamic_Groups 允许动态组（大厅组队功能）
 Allow_Shoulder_Camera 允许挎式摄影机（第三人称摄影位置）
 Can_Suicide 可以自杀
 Friendly_Fire 友军伤害
+Bypass_Buildable_Mobility 可以在载具上放置哨兵枪和床
 
 Timer_Exit 退出的等待时间
 Timer_Respawn 随机重生的等待时间

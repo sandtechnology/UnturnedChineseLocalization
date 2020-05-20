@@ -57,6 +57,7 @@ Type_47 油泵
 Hotkey_Set 热键：{0}
 Hotkey_Unset 热键：[3-9]
 
+Rarity_Type_Label {0} {1}
 Quality 耐久: {0}%
 Amount 弹药数量: {0}
 
