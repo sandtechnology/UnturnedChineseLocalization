@@ -34,6 +34,7 @@ Mystery_Tooltip ？？？
 Itemstore 库存
 Itemstore_Tooltip 点击这里查看库存。
 Itemstore_Sale 已售出
+Itemstore_Region_Box_Disabled 你所在的地区 {0} 禁用了开箱功能
 Crafting 合成
 Crafting_Tooltip 点击这里以查看可用的蓝图。
 Backpack 背包
@@ -54,6 +55,6 @@ Craft_Mythical_Skin <color=mythical>随机神话皮肤</color>
 
 Origin_Craft 你合成了一个物品！
 
-No_Items 请等待Steam库存响应...
+No_Items 请等待Steam库存服务器响应...
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
