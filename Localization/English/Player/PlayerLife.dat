@@ -101,6 +101,8 @@ Vehicle_Locked 当前已上锁 [{0}]
 Vehicle_Unlocked 当前未上锁 [{0}]
 Build_On_Occupied_Vehicle 载具已被占用
 Not_Allowed_Here 此处禁止
+Cannot_Build_On_Vehicle 无法在载具上建造
+Too_Far_From_Hull 离载具太远了
 
 Chat_Global [世界] {0}: {1}
 Chat_Local [区域] {0}: {1}

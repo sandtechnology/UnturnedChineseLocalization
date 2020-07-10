@@ -57,6 +57,7 @@ Spirit_Chance 生成防弹疾跑僵尸的概率 [0-0.5]
 Respawn_Day_Time 白天生成僵尸的时间间隔
 Respawn_Night_Time 夜晚生成僵尸的时间间隔
 Respawn_Beacon_Time 尸潮时生成僵尸的时间间隔
+Quest_Boss_Respawn_Interval 任务BOSS的重生时间间隔
 Beacon_Experience_Multiplier 尸潮时的经验倍数
 Full_Moon_Experience_Multiplier 满月时的经验倍数
 Min_Drops 普通僵尸最小掉落物品数
@@ -193,3 +194,8 @@ Max_Group_Members 组队成员的最大数量
 
 Default 恢复默认值
 Default_Tooltip 使用默认设置。
+
+Allow_Item_Placement_On_Vehicle 允许在载具上放置物品
+Allow_Trap_Placement_On_Vehicle 允许在载具上放置陷阱
+Max_Item_Distance_From_Hull 在载具放置物品的最远允许距离
+Max_Trap_Distance_From_Hull 在载具放置陷阱的最远允许距离

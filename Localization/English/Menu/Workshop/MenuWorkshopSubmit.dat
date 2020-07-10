@@ -132,6 +132,7 @@ PathFieldNotification_MissingFolder 内容路径不存在。
 PathFieldNotification_Map 内容路径只能包含你的地图文件夹。
 PathFieldNotification_Localization 内容路径应该只包含Editor、Menu、Player以及其它文件夹。
 PathFieldNotification_Bundle 内容路径应该包含至少一个文件夹。
+PathFieldNotification_NoWritePermission 无法访问文件。
 
 PreviewFieldNotification_Empty 预览图路径不能为空。
 PreviewFieldNotification_MissingFile 指定的预览图不存在。
