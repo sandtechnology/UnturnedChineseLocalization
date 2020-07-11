@@ -1,18 +1,18 @@
-SelectionBoxLabelText 选择
+SelectionBoxLabelText 当前已选择
 
 WidthFieldLabelText 宽度
 HeightFieldLabelText 贴图的相对高度
 DepthFieldLabelText 厚度
-ConcreteToggleLabelText 具体化
+ConcreteToggleLabelText 固化
 
-BakeRoadsButtonText 开始生成
-BakeRoadsButtonTooltip 建立道路
+BakeRoadsButtonText 生成道路
+BakeRoadsButtonTooltip 生成道路
 
-ModeButtonTooltipText 模式
-OffsetFieldLabelText 位移
+ModeButtonTooltipText 建立模式
+OffsetFieldLabelText 垂直位移
 IgnoreTerrainToggleLabelText 忽略地形
-LoopToggleLabelText 环
-RoadIndexLabelText 道路索引
+LoopToggleLabelText 环形道路
+RoadIndexLabelText 道路索引序号
 
 Mirror 镜像
 Aligned 对齐

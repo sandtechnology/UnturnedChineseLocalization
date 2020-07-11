@@ -1,21 +1,21 @@
 AdjustUpButtonText 提升 [{0}]
-AdjustUpButtonTooltip 往上拉
+AdjustUpButtonTooltip 将地形往上拉
 
 AdjustDownButtonText 下陷 [{0}]
-AdjustDownButtonTooltip 往下拉
+AdjustDownButtonTooltip 将地形往下拉
 
 SmoothButtonText 平滑 [{0}]
-SmoothButtonTooltip 使局部自然化
+SmoothButtonTooltip 使局部地形更自然
 
 FlattenButtonText 平整 [{0}]
-FlattenButtonTooltip 直接拉到设定的高度
+FlattenButtonTooltip 将地形直接拉到设定的高度
 
-SizeSliderLabelText 大小
-NoiseSliderLabelText 噪点
-StrengthSliderLabelText 厚度
+SizeSliderLabelText 作用大小
+NoiseSliderLabelText 噪点强度
+StrengthSliderLabelText 作用强度
 
 HeightValueLabelText 高度
 
-Map2ButtonText1 主要
-Map2ButtonText2 次要
-Map2ButtonTooltip 景观的主次，次要则更注重性能。
+Map2ButtonText1 精细（用于边界内）
+Map2ButtonText2 粗糙（用于边界外）
+Map2ButtonTooltip 选择地形精度

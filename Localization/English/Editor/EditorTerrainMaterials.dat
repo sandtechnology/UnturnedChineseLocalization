@@ -1,8 +1,8 @@
-OvergrowthSliderLabelText 覆盖程度
+OvergrowthSliderLabelText 覆盖密度
 ChanceSliderLabelText 生长概率
 SteepnessFieldLabelText 不平整度
 HeightValueLabelText 高度
-TransitionSliderLabelText 过渡
+TransitionSliderLabelText 过渡强度
 Grassy_0_ToggleLabelText 草皮 #1
 Grassy_1_ToggleLabelText 草皮 #2
 Flowery_0_ToggleLabelText 花 #1
@@ -10,23 +10,23 @@ Flowery_1_ToggleLabelText 花 #2
 RockyToggleLabelText 石头
 RoadToggleLabelText 道路
 SnowyToggleLabelText 雪地
-FoundationToggleLabelText 地基
-ManualToggleLabelText 手工绘制
-SteepnessToggleLabelText 忽略陡度
-HeightToggleLabelText 忽略高度
-FootprintToggleLabelText 忽略足迹
+FoundationToggleLabelText 材质背景
+ManualToggleLabelText 手动绘制
+SteepnessToggleLabelText 计算忽略陡度
+HeightToggleLabelText 计算忽略高度
+FootprintToggleLabelText 计算忽略行道
 
-BakeGlobalMaterialsButtonText 高质量生成
-BakeGlobalMaterialsButtonTooltip 在游戏中的阿尔法地图
+BakeGlobalMaterialsButtonText 以高质量生成
+BakeGlobalMaterialsButtonTooltip 显示在游戏中的实际效果
 
 BakeLocalMaterialsButtonText 低质量生成
-BakeLocalMaterialsButtonTooltip 编辑器中的阿尔法地图
+BakeLocalMaterialsButtonTooltip 显示在编辑器中的显示效果
 
-SelectionBoxLabelText 选择
-SizeSliderLabelText 大小
-NoiseSliderLabelText 噪点
-PreviewToggleLabelText 预览
+SelectionBoxLabelText 当前已选择
+SizeSliderLabelText 作用大小
+NoiseSliderLabelText 噪点强度
+PreviewToggleLabelText 显示预览
 
-Map2ButtonText1 主要
-Map2ButtonText2 次要
-Map2ButtonTooltip 景观的主次，次要则更注重性能。
+Map2ButtonText1 精细（用于边界内）
+Map2ButtonText2 粗糙（用于边界外）
+Map2ButtonTooltip 选择精度

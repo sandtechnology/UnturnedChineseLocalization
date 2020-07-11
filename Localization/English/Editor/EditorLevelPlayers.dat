@@ -1,5 +1,5 @@
 RadiusSliderLabelText 半径
-RotationSliderLabelText 角度
+RotationSliderLabelText 生成时的角度
 
 AddButtonText 添加 [{0}]
 AddButtonTooltip 创建出生点

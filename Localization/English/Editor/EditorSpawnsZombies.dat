@@ -1,32 +1,32 @@
-TableNameFieldLabelText 僵尸表
+TableNameFieldLabelText 僵尸刷新表
 AddTableButtonText 添加
-AddTableButtonTooltip 创建僵尸表
+AddTableButtonTooltip 创建僵尸刷新表
 RemoveTableButtonText 删除
-RemoveTableButtonTooltip 移除僵尸表
+RemoveTableButtonTooltip 移除僵尸刷新表
 
-SelectionBoxLabelText 选择
+SelectionBoxLabelText 当前已选择的表
 
 MegaToggleLabelText 巨型僵尸
 HealthFieldLabelText 血量
 DamageFieldLabelText 攻击伤害
-LootIndexFieldLabelText 物资数量
-LootIDFieldLabelText 物资ID
-XPFieldLabelText 经验
-RegenFieldLabelText 再生
+LootIndexFieldLabelText 物品掉落表索引序号
+LootIDFieldLabelText 物品掉落表ID
+XPFieldLabelText 经验值
+RegenFieldLabelText 回血强度
 DifficultyGUIDFieldLabelText 难度GUID
 
 ItemIDFieldLabelText 物品ID
 AddItemButtonText 添加
-AddItemButtonTooltip 创建物品
+AddItemButtonTooltip 添加该物品到指定身体部位
 RemoveItemButtonText 删除
-RemoveItemButtonTooltip 移除物品
+RemoveItemButtonTooltip 从指定身体部位移除物品
 
 RadiusSliderLabelText 半径
 
 AddButtonText 添加 [{0}]
 AddButtonTooltip 创建刷新点
 
-RemoveButtonText 删除 [{0}]
+RemoveButtonText 移除 [{0}]
 RemoveButtonTooltip 移除刷新点
 
 Slot_0 衣服

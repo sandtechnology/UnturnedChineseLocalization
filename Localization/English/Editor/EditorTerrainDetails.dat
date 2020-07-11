@@ -8,7 +8,7 @@ RockToggleLabelText 石头
 RoadToggleLabelText 道路
 SnowToggleLabelText 雪地
 
-SelectionBoxLabelText 选择
+SelectionBoxLabelText 当前已选择
 
-BakeDetailsButtonText 生成地图
-BakeDetailsButtonTooltip 生成细节化地图
+BakeDetailsButtonText 生成
+BakeDetailsButtonTooltip 生成细节化后的地图

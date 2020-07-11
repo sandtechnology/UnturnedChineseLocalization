@@ -1,16 +1,16 @@
 Save_Button 保存
 Save_Button_Tooltip 保存
 
-Map_Button 制作卫星地图
-Map_Button_Tooltip 制作卫星地图
+Map_Button 生成卫星地图
+Map_Button_Tooltip 生成卫星地图
 
-Chart_Button 制作图表地图
-Chart_Button_Tooltip 制作图表地图
+Chart_Button 生成图表地图
+Chart_Button_Tooltip 生成图表地图
 
-Legacy_Spawns 传统生成
-Legacy_Spawns_Tooltip 导出传统的生成表
-Proxy_Spawns 代理生成
-Proxy_Spawns_Tooltip 导出代理的生成表
+Legacy_Spawns 传统刷新表
+Legacy_Spawns_Tooltip 导出传统的刷新表
+Proxy_Spawns 代理刷新表
+Proxy_Spawns_Tooltip 导出代理的刷新表
 
 Exit_Button 退出
 Exit_Button_Tooltip 退出
