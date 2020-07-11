@@ -1,22 +1,22 @@
-TableNameFieldLabelText 物品表
+TableNameFieldLabelText 物品刷新表名称
 AddTableButtonText 添加
-AddTableButtonTooltip 创建物品表
+AddTableButtonTooltip 创建物品刷新表
 RemoveTableButtonText 删除
-RemoveTableButtonTooltip 移除物品表
+RemoveTableButtonTooltip 移除物品刷新表
 
-SelectionBoxLabelText 选择
+SelectionBoxLabelText 已选择
 
-TableIDFieldLabelText 生成ID
+TableIDFieldLabelText 刷新表ID
 
-TierNameFieldLabelText 层
+TierNameFieldLabelText 刷新表级别
 AddTierButtonText 添加
-AddTierButtonTooltip 创建层
+AddTierButtonTooltip 创建级别
 RemoveTierButtonText 删除
-RemoveTierButtonTooltip 移除层
+RemoveTierButtonTooltip 移除级别
 
 ItemIDFieldLabelText 物品ID
 AddItemButtonText 添加
-AddItemButtonTooltip 创建物品
+AddItemButtonTooltip 添加物品
 RemoveItemButtonText 删除
 RemoveItemButtonTooltip 移除物品
 

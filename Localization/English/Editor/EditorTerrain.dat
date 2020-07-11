@@ -1,11 +1,11 @@
 HeightButtonText 高度
-HeightButtonTooltip 地图高度
+HeightButtonTooltip 地图的地形高度
 
 MaterialsButtonText 材质
-MaterialsButtonTooltip 地图表面覆盖贴图
+MaterialsButtonTooltip 覆盖地图表面的贴图
 
 DetailsButtonText 细节
-DetailsButtonTooltip 地图细节
+DetailsButtonTooltip 地图的细节
 
 ResourcesButtonText 资源
-ResourcesButtonTooltip 地图资源
+ResourcesButtonTooltip 地图的资源

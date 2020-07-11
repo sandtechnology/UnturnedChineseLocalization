@@ -1,6 +1,6 @@
-ObjectsButtonText 物件
-ObjectsButtonTooltip 物件、对像
+ObjectsButtonText 物体
+ObjectsButtonTooltip 放置物体
 VisibilityButtonText 可见设定
-VisibilityButtonTooltip 优化编辑视觉
+VisibilityButtonTooltip 优化编辑时的视觉
 PlayersButtonText 玩家
 PlayersButtonTooltip 玩家的刷新点

@@ -1,11 +1,11 @@
 Roads_Label 道路 [F1]
-Navigation_Label 路径 [F2]
+Navigation_Label 寻路路径 [F2]
 Nodes_Label 节点 [F3]
-Items_Label 物件 [F4]
+Items_Label 物体 [F4]
 Players_Label 玩家 [F5]
 Zombies_Label 僵尸 [F6]
-Vehicles_Label 车辆 [F7]
-Border_Label 边境 [F8]
+Vehicles_Label 载具 [F7]
+Border_Label 边界 [F8]
 Animals_Label 动物 [F9]
 
 Point （{0}, {1}）

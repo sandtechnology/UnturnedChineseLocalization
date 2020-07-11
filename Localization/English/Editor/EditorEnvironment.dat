@@ -1,11 +1,11 @@
-LightingButtonText 光源
+LightingButtonText 光照
 LightingButtonTooltip 白天/夜晚
 
 RoadsButtonText 道路
 RoadsButtonTooltip 启动铺路机！
 
-NavigationButtonText 路径
-NavigationButtonTooltip 生物行动范围
+NavigationButtonText 寻路
+NavigationButtonTooltip 寻路
 
 NodesButtonText 节点
 NodesButtonTooltip 根据节点设定一定范围内的气氛

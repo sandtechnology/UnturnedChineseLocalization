@@ -15,10 +15,10 @@ BakeGlobalResourcesButtonTooltip 生成地图资源
 BakeLocalResourcesButtonText 局部生成
 BakeLocalResourcesButtonTooltip 生成地图资源
 
-BakeSkyboxResourcesButtonText 生成天空盒
+BakeSkyboxResourcesButtonText 在地图边界外生成
 BakeSkyboxResourcesButtonTooltip 生成地图资源
 
-SelectionBoxLabelText 选择
+SelectionBoxLabelText 当前已选择
 RadiusSliderLabelText 半径
 
 Search_Field_Hint 按名称筛选...

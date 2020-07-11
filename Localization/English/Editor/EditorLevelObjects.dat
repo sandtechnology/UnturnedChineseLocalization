@@ -1,4 +1,4 @@
-SelectionBoxLabelText 选择
+SelectionBoxLabelText 已选择
 Search_Field_Hint 搜索物体...
 Search 搜索
 Search_Tooltip 搜索
@@ -22,6 +22,6 @@ RotateButtonTooltip 转动物件
 ScaleButtonText 规模 [{0}]
 ScaleButtonTooltip 规模
 
-CoordinateButtonTextGlobal 全部物件
-CoordinateButtonTextLocal 选中的物件
-CoordinateButtonTooltip 适用对象
+CoordinateButtonTextGlobal 整张地图
+CoordinateButtonTextLocal 选中的物体
+CoordinateButtonTooltip 参考坐标系
