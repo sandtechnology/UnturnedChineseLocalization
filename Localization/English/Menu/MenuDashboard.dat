@@ -78,6 +78,8 @@ BattlEye_Broken BattlEye防作弊: 服务不能正常运行，请用启动器（
 BattlEye_Update BattlEye防作弊: 服务需要更新，请用启动器（steam）重新开启游戏。
 BattlEye_Unknown BattlEye防作弊: 未知的请求，请用启动器（steam）重新开启游戏。
 Level_Version 该服务器正在使用与你不同的地图版本: {0}
+Econ_Hash 该服务器正在使用的库存版本与你的客户端不同。
+Master_Bundle_Hash 内置资源文件错误： {0}
 Failure_Unknown 未知错误：{0} 原因：{1}
 Reject_Unknown 因未知原因而被拒绝进入：{0}
 Workshop_Download_Restriction 服务器对创意工坊物品 {0} 的使用没有被其创作者允许。
