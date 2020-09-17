@@ -81,6 +81,8 @@ Any_Map 忽略地图配置
 
 No_Servers 在Steam上没有找到任何符合条件且版本号为 {0} 的服务器
 No_Servers_Hint 也许是因为你的搜索条件太苛刻了？
+Reset_Filters 重置搜索条件
+Reset_Filters_Tooltip 将搜索条件重置至默认值。
 
 Sort_Name 服务器名称
 Sort_Name_Tooltip 按照名称排序

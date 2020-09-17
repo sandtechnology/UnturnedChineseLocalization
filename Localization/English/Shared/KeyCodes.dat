@@ -3,7 +3,6 @@
 // For example "Backslash обра́тный слэш" to translate the "\" key.
 //
 
-Alpha0 0
 Alpha1 1
 Alpha2 2
 Alpha3 3
@@ -13,6 +12,7 @@ Alpha6 6
 Alpha7 7
 Alpha8 8
 Alpha9 9
+Alpha0 0
 
 LeftParen （
 RightParen ）
@@ -20,7 +20,6 @@ LeftBracket [
 RightBracket ]
 BackQuote ~
 
-Keypad0 小键盘0
 Keypad1 小键盘1
 Keypad2 小键盘2
 Keypad3 小键盘3
@@ -30,6 +29,7 @@ Keypad6 小键盘6
 Keypad7 小键盘7
 Keypad8 小键盘8
 Keypad9 小键盘9
+Keypad0 小键盘0
 
 UpArrow ↑
 LeftArrow ←

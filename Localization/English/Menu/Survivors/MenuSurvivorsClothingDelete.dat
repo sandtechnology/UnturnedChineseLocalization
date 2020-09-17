@@ -5,6 +5,7 @@ Warning 这是无法撤销的操作！
 Confirm 键入 "{0}" 以再次确认：
 Delete 确认删除
 Salvage 确认回收
+Quantity 请输入回收的数量，共有 {0} 个
 
 Yes 是
 Yes_Delete_Tooltip 删除物品
