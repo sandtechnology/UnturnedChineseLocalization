@@ -103,6 +103,7 @@ Build_On_Occupied_Vehicle 载具已被占用
 Not_Allowed_Here 此处禁止
 Cannot_Build_On_Vehicle 无法在载具上建造
 Too_Far_From_Hull 离载具太远了
+Cannot_Build_While_Seated 无法在载具上时建造
 
 Chat_Global [世界] {0}: {1}
 Chat_Local [区域] {0}: {1}

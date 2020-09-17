@@ -33,7 +33,7 @@ Mystery_Tooltip ？？？
 
 Itemstore 库存
 Itemstore_Tooltip 点击这里查看库存。
-Itemstore_Sale 已售出
+Itemstore_Sale 出售
 Itemstore_Region_Box_Disabled 你所在的地区 {0} 禁用了开箱功能
 Crafting 合成
 Crafting_Tooltip 点击这里以查看可用的蓝图。
@@ -48,10 +48,12 @@ Craft_Common_Cosmetic <color=common>低阶饰品（随机）</color>
 Craft_Common_Skin <color=common>低阶皮肤（随机）</color>
 Craft_Uncommon_Cosmetic <color=common>高阶饰品（随机）</color>
 Craft_Uncommon_Skin <color=common>高阶皮肤（随机）</color>
-Craft_Stat_Tracker_Total_Kills <color=#ff7f00>总击杀数计数器</color>
-Craft_Stat_Tracker_Player_Kills <color=#ff0000>玩家击杀数计数器</color>
+Craft_Stat_Tracker_Total_Kills <color=#ff7f00>总击杀计数器</color>
+Craft_Stat_Tracker_Player_Kills <color=#ff0000>玩家击杀计数器</color>
 Craft_Ragdoll_Effect_Zero_Kelvin <color=#00ffff>冰点武器包</color>
 Craft_Mythical_Skin <color=mythical>随机神话皮肤</color>
+Craft_Stat_Tracker_Removal_Tool <color=#909090>击杀计数器移除工具</color>
+Craft_Ragdoll_Effect_Removal_Tool <color=#909090>布娃娃效果移除工具</color>
 
 Origin_Craft 你合成了一个物品！
 

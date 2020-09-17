@@ -19,6 +19,7 @@ Layout_5 界面
 Layout_6 载具
 Layout_7 编辑器
 Layout_8 模组/插件
+Layout_9 快捷栏
 
 Key_0_Button 左移 [{0}]
 Key_1_Button 右移 [{0}]
@@ -84,3 +85,13 @@ Key_60_Button 可编码按键 #2 [{0}]
 Key_61_Button 可编码按键 #3 [{0}]
 Key_62_Button 可编码按键 #4 [{0}]
 Key_63_Button 可编码按键 #5 [{0}]
+Key_64_Button 快捷栏物品 #1 [{0}]
+Key_65_Button 快捷栏物品 #2 [{0}]
+Key_66_Button 快捷栏物品 #3 [{0}]
+Key_67_Button 快捷栏物品 #4 [{0}]
+Key_68_Button 快捷栏物品 #5 [{0}]
+Key_69_Button 快捷栏物品 #6 [{0}]
+Key_70_Button 快捷栏物品 #7 [{0}]
+Key_71_Button 快捷栏物品 #8 [{0}]
+Key_72_Button 快捷栏物品 #9 [{0}]
+Key_73_Button 快捷栏物品 #10 [{0}]
