@@ -54,6 +54,9 @@ Boss_Electric_Chance 生成雷电BOSS的概率 [0-0.5]
 Boss_Wind_Chance 生成地震BOSS的概率 [0-0.5]
 Boss_Fire_Chance 生成火焰BOSS的概率 [0-0.5]
 Spirit_Chance 生成防弹疾跑僵尸的概率 [0-0.5]
+DL_Red_Volatile_Chance 死亡之夜变红概率（Dying Light Red Volatile Chance）
+DL_Blue_Volatile_Chance 死亡之夜变蓝概率（Dying Light Blue Volatile Chance）
+Boss_Elver_Stomper_Chance Elver地图的践踏者Boss生成概率
 Respawn_Day_Time 白天生成僵尸的时间间隔
 Respawn_Night_Time 夜晚生成僵尸的时间间隔
 Respawn_Beacon_Time 尸潮时生成僵尸的时间间隔

@@ -38,8 +38,8 @@ Yes_Workshop_Button 需要创意工坊
 No_Workshop_Button 无需创意工坊
 
 Any_Plugins_Button 忽略服务端类型
-Yes_Plugins_Button Rocket（有插件）
-No_Plugins_Button Vanilla（无插件）
+Yes_Plugins_Button 插件服务端
+No_Plugins_Button 纯净服务端
 
 Attendance_Toggle 有玩家在线
 Security_Toggle 安全
