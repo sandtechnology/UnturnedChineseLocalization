@@ -84,6 +84,9 @@ Failure_Unknown 未知错误：{0} 原因：{1}
 Reject_Unknown 因未知原因而被拒绝进入：{0}
 Workshop_Download_Restriction 服务器对创意工坊物品 {0} 的使用没有被其创作者允许。
 Workshop_Advertisement_Mismatch 服务器配置错误：服务器本不需要创意工坊物品，却请求下载创意工坊物品。
+Late_Pending_Steam_Auth 游戏服务器没有收到Steam验证服务器的回应。
+Late_Pending_Steam_Econ 游戏服务器没有收到Steam经济服务器的回应。
+Late_Pending_Steam_Groups 游戏服务器没有收到Steam群组服务器的回应。
 
 SteamNetworkingSockets_Unavailable_CannotTry 无法初始化Steam网络验证。
 SteamNetworkingSockets_Unavailable_Failed Steam网络验证初始化失败。

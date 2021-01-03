@@ -45,3 +45,5 @@ Cursor_Box 光标颜色
 Background_Box 界面背景颜色
 Foreground_Box 界面前景颜色
 Font_Box 字体颜色
+Shadow_Box 字体阴影颜色
+Bad_Color_Box 反色颜色
