@@ -3,8 +3,9 @@ InsecureWarningText 警告：VAC反作弊已被禁用
 PlayerConnectedText 玩家已连接：Steam64位{0} Steam名称：{1} 角色名称：{2}
 PlayerDisconnectedText 玩家已断开：Steam64位{0} Steam名称：{1} 角色名称：{2}
 
-Dismiss_RPC_Credits 该玩家因频繁发送数据包已被踢出：Steam64位{0} Steam名称：{1} 角色名称：{2}
-Dismiss_Timeout 该玩家因长时间挂机已被踢出：Steam64位{0} Steam名称：{1} 角色名称：{2}
+Dismiss_RPC_Credits 该玩家因频繁发送数据包已被踢出：Steam64位ID：{0} Steam名称：{1} 角色名称：{2}
+Dismiss_Timeout 该玩家因长时间挂机已被踢出：Steam64位ID：{0} Steam名称：{1} 角色名称：{2}
+Dismiss_Ping 该玩家因延迟 ({0}) 超出限制 ({1}) 已被踢出： Steam64位ID：{2} Steam名称 {3} 角色名称： {4}
 
 Global [世界] {0} [{1}]: "{2}"
 Local [区域] {0} [{1}]: "{2}"
@@ -70,6 +71,7 @@ Map_Missing 无法找到地图 {0}，将使用默认地图 {1}!
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
 
 Shutdown 即将在 {0} 秒后关闭
+
 HUD_FPS FPS：{0}/s
 HUD_Ping {0} 毫秒
 HUD_DC 服务器在 {0} 秒内未响应，即将在 {1} 秒后自动断开

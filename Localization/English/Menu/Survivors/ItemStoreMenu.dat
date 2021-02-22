@@ -1,0 +1,24 @@
+ViewCart_Label 购物车
+ViewCart_Tooltip 查看在购物车的物品。
+AddToCart_Label 添加到购物车
+AddToCart_Tooltip 添加该物品到购物车。
+RemoveFromCart_Label 从购物车中移除
+RemoveFromCart_Tooltip 从购物车移除该物品。
+TotalPrice_Label 总计
+StartPurchase_Label 付款
+StartPurchase_Tooltip 在Steam内嵌界面完成付款。
+
+PurchaseResult_UnableToInitialize 无法进行付款操作。
+PurchaseResult_Denied 付款失败。
+PurchaseResult_Authorized 付款成功！
+
+FilterAllButton_Label 全部
+FilterAllButton_Tooltip 浏览全部物品。
+FilterBundlesButton_Label 捆绑包
+FilterBundlesButton_Tooltip 浏览物品捆绑包。
+FilterSpecialsButton_Label 打折
+FilterSpecialsButton_Tooltip 浏览打折物品。
+FilterNewButton_Label 新潮
+FilterNewButton_Tooltip 浏览最新物品。
+FilterFeaturedButton_Label 热门
+FilterFeaturedButton_Tooltip 浏览热门物品。

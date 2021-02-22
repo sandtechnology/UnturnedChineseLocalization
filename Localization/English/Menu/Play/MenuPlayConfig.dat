@@ -139,6 +139,9 @@ Snow_Frequency_Max 降雪频率（最大）
 Snow_Duration_Min 雪天最短持续时间
 Snow_Duration_Max 雪天最长持续时间
 
+Weather_Frequency_Multiplier 天气频率倍数
+Weather_Duration_Multiplier 天气持续时间倍数
+
 Binary_State_Reset_Multiplier 二进制状态复位（物体开关）时间的倍数
 Fuel_Reset_Multiplier 生成汽油的时间倍数
 Water_Reset_Multiplier 生成水的时间倍数
@@ -182,7 +185,7 @@ Compass 可在没有指南针的情况下使用指南针
 Group_Map 在地图中能看到同组成员的位置
 Group_HUD 在HUD中能看到同组成员的位置
 Group_Player_List 在玩家列表中显示组
-Allow_Static_Groups 允许静态组（steam组的组队功能）
+Allow_Static_Groups 允许静态组（Steam组的组队功能）
 Allow_Dynamic_Groups 允许动态组（大厅组队功能）
 Allow_Shoulder_Camera 允许挎式摄影机（第三人称摄影位置）
 Can_Suicide 可以自杀
