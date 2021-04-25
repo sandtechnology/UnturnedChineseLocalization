@@ -1,5 +1,7 @@
 Buffer_Toggle_Label 垂直同步
 User_Interface_Scale_Field_Label UI缩放
+UseTargetFrameRate_Toggle_Label 限制帧率
+TargetFrameRate_Field_Label 最大帧率
 
 Fullscreen_Mode_Label 全屏方式
 Fullscreen_Mode_Tooltip 选择游戏的显示方式

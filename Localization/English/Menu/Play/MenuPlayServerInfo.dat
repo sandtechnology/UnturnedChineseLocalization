@@ -33,7 +33,7 @@ PvE 玩家vs自然环境（PVE）
 First 只有第一人称视角
 Third 只有第三人称视角
 Both 第一人称和第三人称视角
-Vehicle 载具只有第三人称视角
+Vehicle 只有载具第三人称视角
 
 VAC_Secure VAC已启用
 VAC_Insecure VAC已禁用
@@ -57,3 +57,10 @@ Rule {0}: {1}
 Plugins_Rocket Rocket插件列表：
 Plugins_OpenMod OpenMod插件列表：
 Plugins_Unknown 插件列表:
+
+ServerNewerVersion_Label 服务器正在运行比客户端新的版本，版本号为 {0}
+ServerNewerVersion_Tooltip 无法加入服务器，服务器正在运行比客户端新的版本，请重启游戏以进行更新。
+ServerOlderVersion_Label 服务器正在运行比客户端旧的版本，版本号为 {0}
+ServerOlderVersion_Tooltip 无法加入服务器，服务器正在运行比客户端旧的版本，请通知服务器所有者更新服务器。
+ServerBlacklisted_Label 该服务器已被封禁。
+ServerBlacklisted_Tooltip 无法加入服务器，该服务器已被封禁。
