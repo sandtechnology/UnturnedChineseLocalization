@@ -24,6 +24,10 @@ Mode 难度: {0}
 Cheats 作弊指令: {0}
 GameMode 游戏模式： {0}
 
+Monetization_None 盈利性质: 非盈利
+Monetization_NonGameplay 盈利性质: 不影响游戏体验的盈利
+HostBan_MonetizationWarning 提醒：这个服务器违反了在2021年6月11日生效的盈利规则。点击这里以查看详细内容。
+
 Yes 已启用
 No 已禁用
 

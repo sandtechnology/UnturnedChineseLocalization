@@ -77,6 +77,10 @@ Third_Button 第三人称视角
 Both_Button 第一/三人称视角
 Vehicle_Button 载具第三人称视角
 
+Monetization_Any_Button 忽略盈利性质
+Monetization_None_Button 非盈利
+Monetization_NonGameplay_Button 不影响游戏体验的盈利
+
 Any_Map 忽略地图配置
 
 No_Servers 在Steam上没有找到任何符合条件且版本号为 {0} 的服务器

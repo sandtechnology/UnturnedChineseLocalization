@@ -113,6 +113,7 @@ Object_Type_Animal 动物
 Public 公开
 Friends_Only 只有好友可见
 Private 私人
+Unlisted 自列表隐藏
 
 Community 随时可用
 Review Curated（等待采纳）
