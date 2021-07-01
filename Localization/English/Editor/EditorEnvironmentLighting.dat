@@ -7,11 +7,8 @@ Rain_Freq_Label 降雨频率倍数
 Rain_Dur_Label 降雨持续时间倍数
 Snow_Freq_Label 下雪频率倍数
 Snow_Dur_Label 下雪持续时间倍数
-Storm 暴风雨
-Storm_Tooltip 是否启用暴风雨
+WeatherPreview_Label 预览天气
 Rain_Toggle_Label 能下雨
-Blizzard 暴风雪
-Blizzard_Tooltip 是否启用暴风雪
 Snow_Toggle_Label 能下雪
 MoonSliderLabelText 月相
 TimeSliderLabelText 时间

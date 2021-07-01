@@ -24,6 +24,10 @@ Mode 难度: {0}
 Cheats 作弊指令: {0}
 GameMode 游戏模式： {0}
 
+Monetization_None 盈利性质: 非盈利
+Monetization_NonGameplay 盈利性质: 不影响游戏体验的盈利
+HostBan_MonetizationWarning 提醒：这个服务器违反了在2021年6月11日生效的盈利规则。点击这里以查看详细内容。
+
 Yes 已启用
 No 已禁用
 
@@ -33,7 +37,7 @@ PvE 玩家vs自然环境（PVE）
 First 只有第一人称视角
 Third 只有第三人称视角
 Both 第一人称和第三人称视角
-Vehicle 载具只有第三人称视角
+Vehicle 只有载具第三人称视角
 
 VAC_Secure VAC已启用
 VAC_Insecure VAC已禁用
@@ -57,3 +61,10 @@ Rule {0}: {1}
 Plugins_Rocket Rocket插件列表：
 Plugins_OpenMod OpenMod插件列表：
 Plugins_Unknown 插件列表:
+
+ServerNewerVersion_Label 服务器正在运行比客户端新的版本，版本号为 {0}
+ServerNewerVersion_Tooltip 无法加入服务器，服务器正在运行比客户端新的版本，请重启游戏以进行更新。
+ServerOlderVersion_Label 服务器正在运行比客户端旧的版本，版本号为 {0}
+ServerOlderVersion_Tooltip 无法加入服务器，服务器正在运行比客户端旧的版本，请通知服务器所有者更新服务器。
+ServerBlacklisted_Label 该服务器已被封禁。
+ServerBlacklisted_Tooltip 无法加入服务器，该服务器已被封禁。

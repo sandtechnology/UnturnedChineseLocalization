@@ -1,4 +1,5 @@
-FOV_Slider_Label 视场 [{0}°]
+FOV_Slider_LabelV2_Name 视场
+FOV_Slider_LabelV2_Value 水平方向 [{0}°] 垂直方向 [{1}°]
 Volume_Slider_Label 音量 [{0}%]
 Voice_Slider_Label 语音输入的音量 [{0}%]
 Debug_Toggle_Label 显示FPS和Ping信息
@@ -45,3 +46,5 @@ Cursor_Box 光标颜色
 Background_Box 界面背景颜色
 Foreground_Box 界面前景颜色
 Font_Box 字体颜色
+Shadow_Box 字体阴影颜色
+Bad_Color_Box 反色颜色

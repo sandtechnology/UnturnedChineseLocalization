@@ -84,11 +84,18 @@ Failure_Unknown 未知错误：{0} 原因：{1}
 Reject_Unknown 因未知原因而被拒绝进入：{0}
 Workshop_Download_Restriction 服务器对创意工坊物品 {0} 的使用没有被其创作者允许。
 Workshop_Advertisement_Mismatch 服务器配置错误：服务器本不需要创意工坊物品，却请求下载创意工坊物品。
+Late_Pending_Steam_Auth 游戏服务器没有收到Steam验证服务器的回应。
+Late_Pending_Steam_Econ 游戏服务器没有收到Steam经济服务器的回应。
+Late_Pending_Steam_Groups 游戏服务器没有收到Steam群组服务器的回应。
+Name_Private_Long 你的好友备注太长了。
+Name_Private_Invalid 你的好友备注存在无效字符。
+Name_Private_Number 你的好友备注不能全是数字。
 
 SteamNetworkingSockets_Unavailable_CannotTry 无法初始化Steam网络验证。
 SteamNetworkingSockets_Unavailable_Failed Steam网络验证初始化失败。
 SteamNetworkingSockets_Unavailable_Previously 暂时无法初始化Steam网络验证。
 SteamNetworkingSockets_EndReason_App_1001 玩家列表、队列列表和等待连接列表都已满。
+SteamNetworkingSockets_EndReason_App_1002 服务器正在关闭。
 SteamNetworkingSockets_EndReason_App_Unknown 游戏因未知原因终止连接： {0}
 SteamNetworkingSockets_EndReason_AppException_Generic 游戏意外终止了连接。
 SteamNetworkingSockets_EndReason_AppException_Unknown 游戏因为预料中的未知原因终止了连接: {0}
@@ -109,6 +116,7 @@ SteamNetworkingSockets_EndReason_Misc_Timeout 与主机或Steam网络丢失连�
 SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam网络连接不稳定。
 SteamNetworkingSockets_EndReason_Misc_Unknown 未知的其他连接错误： {0}
 SteamNetworkingSockets_EndReason_Unknown 连接因未知原因终止： {0}
+
 
 Pro_Title 永久的黄金DLC升级 
 Pro_Button 升级到黄金DLC账户可以获得额外的角色定制选项、进入黄金DLC服务器的机会以及更多的角色槽！更多可用功能可以在商店的页面查看。

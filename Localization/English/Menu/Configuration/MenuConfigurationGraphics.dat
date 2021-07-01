@@ -30,6 +30,8 @@ Triplanar_Toggle_Label 三向贴图
 Triplanar_Tooltip 通过对每个像素采样三个材质而不是一个的方式让巨石贴图与地形平滑对齐
 Skybox_Reflection_Label 天空盒反射
 Skybox_Reflection_Tooltip 为环境光照和反射的立方体贴图渲染动态的天空盒.
+Item_Icon_Anti_Aliasing_Label 物品图标抗锯齿
+Item_Icon_Anti_Aliasing_Tooltip 防止物品图标的边缘出现锯齿
 
 Distance_Slider_Label 附近物体的绘制距离 [{0}%]
 Landmark_Slider_Label 指示物体的绘制距离 [{0}%]

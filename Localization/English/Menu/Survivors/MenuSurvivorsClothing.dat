@@ -31,8 +31,8 @@ Mystery_-4_Text 超级稀有的糖果物品
 Mystery_-5_Text 超级稀有的吸血鬼物品
 Mystery_Tooltip ？？？
 
-Itemstore 库存
-Itemstore_Tooltip 点击这里查看库存。
+Itemstore 商店
+Itemstore_Tooltip 点击这里查看商店。
 Itemstore_Sale 出售
 Itemstore_Region_Box_Disabled 你所在的地区 {0} 禁用了开箱功能
 Crafting 合成
@@ -56,6 +56,7 @@ Craft_Stat_Tracker_Removal_Tool <color=#909090>击杀计数器移除工具</colo
 Craft_Ragdoll_Effect_Removal_Tool <color=#909090>布娃娃效果移除工具</color>
 
 Origin_Craft 你合成了一个物品！
+Origin_Purchase 物品购买成功！
 
 No_Items 请等待Steam库存服务器响应...
 
