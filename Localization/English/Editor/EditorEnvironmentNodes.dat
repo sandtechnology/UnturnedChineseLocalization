@@ -16,6 +16,10 @@ Shape_Tooltip 形状
 Sphere 球面
 Box 方框
 
+DeadzoneType_DefaultRadiation 默认
+DeadzoneType_FullSuitRadiation 全副武装
+DeadzoneType_Tooltip 辐射区类型
+
 Type_Tooltip 类型
 Location 地点名称
 Safezone 安全区域

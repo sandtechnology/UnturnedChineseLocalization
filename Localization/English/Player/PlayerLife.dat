@@ -110,6 +110,7 @@ Chat_Local [区域] {0}: {1}
 Chat_Group [组] {0}: {1}
 Chat_Welcome [欢迎信息] {0}: {1}
 Chat_Say [警告] {0}: {1}
+SendChat_Tooltip 发送 [{0}]
 
 Vote_Kick {0} [{1}] 正在投票踢出 {2} [{3}]
 Votes_Needed 踢出该玩家的最少同意投票数: {0}
@@ -134,8 +135,11 @@ Arena_Lose 游戏结束!
 Arena_Intermission 中场休息...
 
 Mode_Global [世界]
+Mode_Global_Tooltip 发送到世界频道 [{0}]
 Mode_Local [区域]
+Mode_Local_Tooltip 发送到区域频道 [{0}]
 Mode_Group [组]
+Mode_Group_Tooltip 发送到组内频道 [{0}]
 
 Surrender 投降
 Point 指向
