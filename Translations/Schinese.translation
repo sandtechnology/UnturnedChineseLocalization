@@ -1,6 +1,6 @@
 "Metadata"
 {
-	"Language" "Chinese"
+	"Language" "chinese"
 	"Namespace" "SDG"
 }
 "Translation"
@@ -1232,6 +1232,22 @@
 		}
 		"Volumes"
 		{
+			"TeleporterEntrance"
+			{
+				"PairID"
+				{
+					"Text" "配对的ID"
+					"Version" "1"
+				}
+			}
+			"TeleporterExit"
+			{
+				"ID"
+				{
+					"Text" "ID"
+					"Version" "1"
+				}
+			}
 			"Kill"
 			{
 				"Players"

@@ -3,7 +3,7 @@ InvalidSkillsetIDErrorText Failed to convert {0} into an SkillsetID.
 InvalidItemIDErrorText Failed to convert {0} into an ItemID.
 
 LoadoutCommandText Loadout
-LoadoutInfoText Loadout [SkillsetID]/[ItemID]/[ItemID]/...	
+LoadoutInfoText Loadout [SkillsetID]/[ItemID]/[ItemID]/...
 LoadoutHelpText This gives players each item when spawning. Using a skillset ID of 255 gives the item to everyone.
 
 LoadoutText Successfully set loadout {0}!

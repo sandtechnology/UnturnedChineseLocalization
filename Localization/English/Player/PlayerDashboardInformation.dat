@@ -62,6 +62,9 @@ Group_Invite_Tooltip 发送Steam组邀请
 Spy 侦察
 Spy_Tooltip 向你发送这个玩家的游戏截图
 
+SortPlayers_Name 以玩家名的字母自然顺序排序（A-Z）
+SortPlayers_Group 以组排序
+
 No_Chart 没有找到图表地图
 No_GPS 没有找到GPS
 

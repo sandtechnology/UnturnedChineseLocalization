@@ -1,4 +1,4 @@
-InvalidParameterErrorText Failed to find parameters in format [SteamID | Player]/[SteamID | Player].
+InvalidParameterErrorText Failed to find parameters in format [SteamID | Player]/[SteamID | Player | Location].
 
 NoPlayerErrorText Failed to find anyone called {0}.
 NoLocationErrorText Failed to find anyone or anywhere called {0}.
@@ -7,7 +7,7 @@ NoVehicleErrorText Failed to teleport player while in a vehicle.
 
 TeleportCommandText Teleport
 TeleportInfoText Teleport [SteamID | Player]/[SteamID | Player | Location]
-TeleportHelpText This teleports the first player to the second or a location.
+TeleportHelpText This teleports a player to either another player, or a location.
 
 TeleportText Successfully teleported {0} to {1}!
 TeleportObstructed Unable to teleport {0} because {1} was obstructed.
