@@ -1,9 +1,10 @@
 Width_Label 宽度
 Height_Label 长度
-Nav_Label 寻路
+Nav_Label 寻路点数量
 Difficulty_GUID_Field_Label 难度GUID
 Max_Zombies_Field_Label 最大僵尸数量
 Spawn_Zombies_Toggle_Label 生成僵尸
+Hyper_Agro_Label 僵尸察觉范围无限
 
 Bake_Navigation 生成寻路路径
 Bake_Navigation_Tooltip 生成寻路路径

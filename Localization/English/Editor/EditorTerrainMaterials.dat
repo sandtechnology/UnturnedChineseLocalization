@@ -1,32 +1,36 @@
-OvergrowthSliderLabelText 覆盖密度
-ChanceSliderLabelText 生长概率
-SteepnessFieldLabelText 不平整度
-HeightValueLabelText 高度
-TransitionSliderLabelText 过渡强度
-Grassy_0_ToggleLabelText 草皮 #1
-Grassy_1_ToggleLabelText 草皮 #2
-Flowery_0_ToggleLabelText 花 #1
-Flowery_1_ToggleLabelText 花 #2
-RockyToggleLabelText 石头
-RoadToggleLabelText 道路
-SnowyToggleLabelText 雪地
-FoundationToggleLabelText 材质背景
-ManualToggleLabelText 手动绘制
-SteepnessToggleLabelText 计算忽略陡度
-HeightToggleLabelText 计算忽略高度
-FootprintToggleLabelText 计算忽略行道
+Mode_Paint 绘制模式 [{0}]
+Mode_Auto 自动模式 [{0}]
+Mode_Smooth 平滑模式 [{0}]
+Mode_Cut 切割模式 [{0}]
+Mode_Label 模式
 
-BakeGlobalMaterialsButtonText 以高质量生成
-BakeGlobalMaterialsButtonTooltip 显示在游戏中的实际效果
+BrushRadius 刷子半径 [{0}]
+BrushFalloff 刷子硬度 [{0}]
+BrushStrength 刷子强度 [{0}]
 
-BakeLocalMaterialsButtonText 低质量生成
-BakeLocalMaterialsButtonTooltip 显示在编辑器中的显示效果
+SmoothMethod_BrushAverage 取刷子平均值
+SmoothMethod_PixelAverage 取像素平均值
+SmoothMethod_Label 平滑方式
 
-SelectionBoxLabelText 当前已选择
-SizeSliderLabelText 作用大小
-NoiseSliderLabelText 噪点强度
-PreviewToggleLabelText 显示预览
+AutoRayLength 射线长度
+AutoRayRadius 射线半径
+UseAutoFoundation 使用自动搭建
 
-Map2ButtonText1 精细（用于边界内）
-Map2ButtonText2 粗糙（用于边界外）
-Map2ButtonTooltip 选择精度
+MaxAngleRange 最大倾斜角
+MinAngleRange 最小倾斜角
+UseAutoSlope 使用自动倾斜
+
+WeightTarget 目标权重值 [{0}]
+
+PreviewMethod_BrushAlpha 刷子Alpha层
+PreviewMethod_Weight 权重层
+PreviewMethod_Label 预览方式
+
+MaxPreviewSamples 最大预览取样数量
+
+SelectedAsset 已选择的资源 [{0}]
+OnlyUsedMaterials 只显示正在使用的资源
+SearchHint 按名称搜索...
+
+Hint_Paint 清空已选: [{0}] 使用目标权重值: [{1}] 对鼠标指针下的材质取样: [{2}]
+Hint_Cut 修复: [{0}]

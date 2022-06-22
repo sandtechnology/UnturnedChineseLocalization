@@ -1,4 +1,4 @@
-Sensitivity_Field_Label 鼠标灵敏度倍数（单位为像素）
+Sensitivity_Field_Label 鼠标灵敏度倍数（比例为每单位像素）
 Invert_Toggle_Label 鼠标方向反转
 Invert_Flight_Toggle_Label 飞行方向反转
 Aiming_Label 瞄准
@@ -6,6 +6,19 @@ Crouching_Label 蹲下
 Proning_Label 俯卧
 Sprinting_Label 冲刺
 Leaning_Label 倾斜
+
+SensitivityScalingMode_Label 开镜灵敏度调整
+SensitivityScalingMode_ProjectionRatio 基于焦距
+SensitivityScalingMode_ProjectionRatio_Tooltip 灵敏度将会根据实际视场(FOV)与平时视场(FOV)之间的比值进行调整。
+SensitivityScalingMode_ZoomFactor 基于缩放倍数
+SensitivityScalingMode_ZoomFactor_Tooltip 灵敏度将会根据瞄准镜倍数调整。比如8倍镜开镜时的灵敏度将会是平时的1/8。
+SensitivityScalingMode_Legacy 使用旧版
+SensitivityScalingMode_Legacy_Tooltip 还原到 3.22.8.0 版本更新前的行为。
+SensitivityScalingMode_None 不调整
+SensitivityScalingMode_None_Tooltip 【不推荐】开镜时灵敏度将不会变化。
+
+ProjectionRatioCoefficient_Label 基于焦距时的灵敏度调整倍数
+ProjectionRatioCoefficient_Tooltip 使用“基于焦距”模式时，在原比值上基础相乘的数值。
 
 Hold 按住才
 Toggle 按下按键就

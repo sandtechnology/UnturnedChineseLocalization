@@ -1,0 +1,32 @@
+Hint_Remove 清空已选: [{0}]
+
+RepairEdges_Label 修复边角
+RepairEdges_Tooltip 当出现高度图边角和贴图不同步的错误时很有用。如果你遇到了那你应该将它作为 bug 报告！
+
+ApplyToAllTiles_Label 将该资源层复制到所有地形区块
+ApplyToAllTiles_Tooltip 将这些材质复制到所有地形区块上。
+ApplyToAllTiles_Confirm_Label 应用
+ApplyToAllTiles_Confirm_Tooltip 进行复制。
+ApplyToAllTiles_Deny_Label 取消
+ApplyToAllTiles_Deny_Tooltip 撤销复制操作。
+
+ResetSplatmap_Label 重置全部材质
+ResetSplatmap_Tooltip 在该地形区块上绘制第一层的材质。
+ResetSplatmap_Confirm_Label 确认
+ResetSplatmap_Confirm_Tooltip 重置材质。
+ResetSplatmap_Deny_Label 取消
+ResetSplatmap_Deny_Tooltip 撤销重置操作。
+
+ResetHeightmap_Label 重置全部高度
+ResetHeightmap_Tooltip 将该地形区块的高度重置为 0。
+ResetHeightmap_Confirm_Label 确认
+ResetHeightmap_Confirm_Tooltip 重置地形高度。
+ResetHeightmap_Deny_Label 取消
+ResetHeightmap_Deny_Tooltip 撤销重置操作。
+
+SelectedLayer 已选择的资源层
+LayerGuid 资源Guid
+ResetAsset 清空资源
+
+LayerNull 空
+LayerMissing 已失效

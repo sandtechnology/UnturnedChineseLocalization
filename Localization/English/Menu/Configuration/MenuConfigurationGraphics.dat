@@ -32,6 +32,7 @@ Skybox_Reflection_Tooltip 为环境光照和反射的立方体贴图渲染动态
 Item_Icon_Anti_Aliasing_Label 物品图标抗锯齿
 Item_Icon_Anti_Aliasing_Tooltip 防止物品图标的边缘出现锯齿
 
+Far_Clip_Slider_Label 最大绘制距离 [{0}%]
 Distance_Slider_Label 附近物体的绘制距离 [{0}%]
 Landmark_Slider_Label 指示物体的绘制距离 [{0}%]
 
