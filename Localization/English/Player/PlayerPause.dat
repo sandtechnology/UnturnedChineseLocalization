@@ -11,6 +11,9 @@ Controls_Button_Tooltip 控制设置
 Exit_Button_Text 退出
 Exit_Button_Timer 退出 [{0}]
 Exit_Button_Tooltip 返回菜单。
+Quit_Button 退出
+Quit_Button_Timer 退出 [{0}]
+Quit_Button_Tooltip 退出游戏
 Suicide_Button_Text 自杀
 Suicide_Button_Tooltip 在其它地方重生
 Suicide_Button_Confirm 放弃治疗
@@ -36,4 +39,4 @@ Favorite_Off_Button_Text 取消收藏
 Favorite_Button_Tooltip 收藏/取消收藏
 
 Quicksave_Button 快速保存
-Quicksave_Button_Tooltip 正常地保存 (请注意游戏不会在退出时保存。)
+Quicksave_Button_Tooltip 手动进行保存 (请注意游戏不会在退出时保存。)

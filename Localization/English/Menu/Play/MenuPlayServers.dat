@@ -47,6 +47,9 @@ PvP_Toggle PvP
 
 Any_Attendance_Button 忽略在线玩家情况
 Empty_Button 无在线玩家
+HasPlayers_Button 有在线玩家
+
+Any_Space_Button 忽略玩家空位情况
 Space_Button 有玩家空位
 
 VAC_Any_Button 忽略VAC状态

@@ -104,12 +104,14 @@ Not_Allowed_Here 此处禁止
 Cannot_Build_On_Vehicle 无法在载具上建造
 Too_Far_From_Hull 离载具太远了
 Cannot_Build_While_Seated 无法在载具上时建造
+Climb 攀爬 [{0}]
 
 Chat_Global [世界] {0}: {1}
 Chat_Local [区域] {0}: {1}
 Chat_Group [组] {0}: {1}
 Chat_Welcome [欢迎信息] {0}: {1}
 Chat_Say [警告] {0}: {1}
+SendChat_Tooltip 发送 [{0}]
 
 Vote_Kick {0} [{1}] 正在投票踢出 {2} [{3}]
 Votes_Needed 踢出该玩家的最少同意投票数: {0}
@@ -121,7 +123,7 @@ Vote_Players 没有足够的玩家来进行投票踢人。
 Vote_Pass 投票通过！
 Vote_Fail 投票未通过！
 
-List_Joint_0 ，
+List_Joint_0 、
 List_Joint_1 和
 
 Arena_Lobby 等待其他玩家中...
@@ -134,8 +136,11 @@ Arena_Lose 游戏结束!
 Arena_Intermission 中场休息...
 
 Mode_Global [世界]
+Mode_Global_Tooltip 发送到世界频道 [{0}]
 Mode_Local [区域]
+Mode_Local_Tooltip 发送到区域频道 [{0}]
 Mode_Group [组]
+Mode_Group_Tooltip 发送到组内频道 [{0}]
 
 Surrender 投降
 Point 指向

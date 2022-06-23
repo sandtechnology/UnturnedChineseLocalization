@@ -1,7 +1,8 @@
-FOV_Slider_LabelV2_Name 视场
+FOV_Slider_LabelV2_Name 视场(FOV)
 FOV_Slider_LabelV2_Value 水平方向 [{0}°] 垂直方向 [{1}°]
 Volume_Slider_Label 音量 [{0}%]
 Voice_Slider_Label 语音输入的音量 [{0}%]
+Loading_Screen_Music_Volume_Slider_Label 加载界面音乐音量 [{0}%]
 Debug_Toggle_Label 显示FPS和Ping信息
 Music_Toggle_Label 播放主菜单/死亡的音乐
 Splashscreen_Toggle_Label 游戏启动动画

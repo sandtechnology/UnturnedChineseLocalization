@@ -3,6 +3,6 @@ InvalidNumberErrorText Failed to convert {0} into a number.
 
 DecayCommandText Decay
 DecayInfoText Decay [Barricade Duration]/[Structure Duration]
-DecayHelpText This assigns the barricade and structure decay in seconds. Disables decay when set to 0. 
+DecayHelpText This assigns the barricade and structure decay in seconds. Disables decay when set to 0.
 
 DecayText Successfully set decay!

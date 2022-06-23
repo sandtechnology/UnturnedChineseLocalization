@@ -1,5 +1,5 @@
 InvalidParameterErrorText Failed to find parameters in format [SteamID]/[Tag].
-InvalidSteamIDErrorText Failed to convert {0} into a steam ID.
+InvalidSteamIDErrorText Failed to convert {0} into a Steam ID.
 
 NotRunningErrorText Failed to permit player while not running. 
 

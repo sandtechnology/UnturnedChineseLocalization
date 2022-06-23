@@ -1,5 +1,8 @@
 Header 创意工坊的错误日志：
-No_Errors 没有错误，没有发现在您的加载文件中的重大问题。
+No_Errors 在加载的文件中没有发现重要错误。
+
+BrowseLogs_Label 浏览日志文件
+BrowseLogs_Tooltip 打开日志文件夹。
 
 Refresh 刷新
 Refresh_Tooltip 刷新现在的错误。

@@ -6,7 +6,6 @@ Chromatic_Aberration_Toggle_Label 色差
 Chromatic_Aberration_Tooltip 模拟真实镜头的瑕疵，可能对截图有帮助。
 Film_Grain_Toggle_Label 模拟噪点
 Film_Grain_Tooltip 添加适量的模拟噪声以减少条带效应。
-Clouds_Toggle_Label 云
 Terrain_Toggle_Label 地形幕景
 Blend_Toggle_Label 地形过渡
 Blend_Tooltip 以每个材质的高度图而不是简单的线性合并对地形材质进行混合
@@ -33,6 +32,7 @@ Skybox_Reflection_Tooltip 为环境光照和反射的立方体贴图渲染动态
 Item_Icon_Anti_Aliasing_Label 物品图标抗锯齿
 Item_Icon_Anti_Aliasing_Tooltip 防止物品图标的边缘出现锯齿
 
+Far_Clip_Slider_Label 最大绘制距离 [{0}%]
 Distance_Slider_Label 附近物体的绘制距离 [{0}%]
 Landmark_Slider_Label 指示物体的绘制距离 [{0}%]
 
@@ -83,7 +83,7 @@ Bone_Influences_Medium {0}: 1
 Bone_Influences_High {0}: 2
 Bone_Influences_Ultra {0}: 4
 
-Wind_Low {0}: 基本的风
+Wind_Low {0}: 简化的风
 Wind_Medium {0}+: SpeedTrees模型的分层风
 
 Landmark_Low {0}: 只有大型物体
@@ -102,7 +102,7 @@ AF_Disabled 已禁用
 AF_Per_Texture 每个材质
 AF_Forced_On 强制开启
 
-TM_Legacy 基本模型
+TM_Legacy 简化模型
 TM_SpeedTree_Fade_None SpeedTrees模型
 TM_SpeedTree_Fade_SpeedTree 极高SpeedTrees模型
 

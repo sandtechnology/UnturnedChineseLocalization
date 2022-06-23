@@ -1,21 +1,25 @@
-AdjustUpButtonText 提升 [{0}]
-AdjustUpButtonTooltip 将地形往上拉
+Mode_Adjust 提升/下降模式 [{0}]
+Mode_Flatten 平整模式 [{0}]
+Mode_Smooth 平滑模式 [{0}]
+Mode_Ramp 倾斜模式 [{0}]
+Mode_Label 模式
 
-AdjustDownButtonText 下陷 [{0}]
-AdjustDownButtonTooltip 将地形往下拉
+BrushRadius 刷子半径 [{0}]
+BrushFalloff 刷子硬度 [{0}]
+BrushStrength 刷子强度 [{0}]
 
-SmoothButtonText 平滑 [{0}]
-SmoothButtonTooltip 使局部地形更自然
+SmoothMethod_BrushAverage 取刷子平均值
+SmoothMethod_PixelAverage 取像素平均值
+SmoothMethod_Label 平滑模式
 
-FlattenButtonText 平整 [{0}]
-FlattenButtonTooltip 将地形直接拉到设定的高度
+FlattenMethod_Regular 直接拉平至目标高度
+FlattenMethod_Min 以目标高度为最小值
+FlattenMethod_Max 以目标高度为最大值
+FlattenMethod_Label 平整方式
 
-SizeSliderLabelText 作用大小
-NoiseSliderLabelText 噪点强度
-StrengthSliderLabelText 作用强度
+FlattenTarget 平整目标高度 [{0}]
+MaxPreviewSamples 最大预览取样数量
 
-HeightValueLabelText 高度
-
-Map2ButtonText1 精细（用于边界内）
-Map2ButtonText2 粗糙（用于边界外）
-Map2ButtonTooltip 选择地形精度
+Hint_Adjust 降低: [{0}]
+Hint_Flatten 对鼠标指针下的高度取样: [{0}]
+Hint_Ramp 取消: [{0}]

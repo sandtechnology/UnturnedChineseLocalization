@@ -27,6 +27,8 @@ GameMode 游戏模式： {0}
 Monetization_None 盈利性质: 非盈利
 Monetization_NonGameplay 盈利性质: 不影响游戏体验的盈利
 HostBan_MonetizationWarning 提醒：这个服务器违反了在2021年6月11日生效的盈利规则。点击这里以查看详细内容。
+HostBan_WorkshopWarning 警告：这个服务器使用的创意工坊文件已被禁止。
+HostBan_Apology 来自游戏开发者的消息：很抱歉错误标记了你的服务器！我们将尽力做到最好以避免此类情况在未来再次发生。
 
 Yes 已启用
 No 已禁用

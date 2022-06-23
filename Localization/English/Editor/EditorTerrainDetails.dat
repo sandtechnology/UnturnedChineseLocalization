@@ -1,14 +1,30 @@
-DensitySliderLabelText 密度
-ChanceSliderLabelText 生成概率
-Grass_0_ToggleLabelText 草皮 #1
-Grass_1_ToggleLabelText 草皮 #2
-Flower_0_ToggleLabelText 花 #1
-Flower_1_ToggleLabelText 花 #2
-RockToggleLabelText 石头
-RoadToggleLabelText 道路
-SnowToggleLabelText 雪地
+MaxPreviewSamples 最大预览取样数量
 
-SelectionBoxLabelText 当前已选择
+DensityTarget 目标种类值
+BrushStrength 刷子强度 [{0}]
+BrushFalloff 刷子硬度 [{0}]
+BrushRadius 刷子半径 [{0}]
 
-BakeDetailsButtonText 生成
-BakeDetailsButtonTooltip 生成细节化后的地图
+Mode_Paint 绘制模式 [{0}]
+Mode_Exact 精确模式 [{0}]
+Mode_Bake 烘培模式 [{0}]
+Mode_Label 模式
+
+Bake_Cancel 中断烘培
+Bake_Local 烘培附近
+Bake_Global 烘培全图
+Bake_Clear 烘培清理
+Bake_ApplyScale 烘培应用的缩放
+Bake_Objects 烘培物体
+Bake_Resources 烘培物资
+Bake_InstancedMeshes 烘培已实例化的Mesh
+
+SelectedAsset 已选资源： [{0}]
+
+SearchType_Assets 资源
+SearchType_Collections 集合
+SearchType_Label 搜索类型
+
+SearchHint 按名称搜索...
+
+Hint_Paint 清除: [{0}] 清除已选: [{1}] 清除已烘培的内容: [{2}]

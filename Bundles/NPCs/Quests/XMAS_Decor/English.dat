@@ -1,0 +1,5 @@
+Name 圣诞节来了！
+Description 使用锯子获取糖棒碎片并合成装饰。
+
+Condition_0 获取糖棒碎片 {0}/{1}
+Condition_1 合成装饰 {0}/{1}

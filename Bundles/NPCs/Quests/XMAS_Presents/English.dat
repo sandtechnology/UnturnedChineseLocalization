@@ -1,0 +1,8 @@
+Name 圣诞前夕
+Description 显然，有一些礼物散乱在了莫斯科（Moscow）内，去找到它吧！
+
+Condition_0 开启蓝色礼物 {0}/{1}
+Condition_1 开启橙色礼物 {0}/{1}
+Condition_2 开启绿色礼物 {0}/{1}
+Condition_3 开启紫色礼物 {0}/{1}
+Condition_4 开启红色礼物 {0}/{1}

@@ -2,6 +2,6 @@ RunningErrorText Failed to hide admins while running.
 
 HideAdminsCommandText Hide_Admins
 HideAdminsInfoText Hide_Admins
-HideAdminsHelpText This allows the recording of cinematic footage without the admin labels visible to players.
+HideAdminsHelpText This hides the visibility of admin labels from players.
 
 HideAdminsText Successfully hid admins.
