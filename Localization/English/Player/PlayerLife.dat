@@ -105,6 +105,8 @@ Cannot_Build_On_Vehicle 无法在载具上建造
 Too_Far_From_Hull 离载具太远了
 Cannot_Build_While_Seated 无法在载具上时建造
 Climb 攀爬 [{0}]
+HousingPlannerTutorial 选择物品 [{0}]
+PlacementObstructedBy 被 {0} 阻挡
 
 Chat_Global [世界] {0}: {1}
 Chat_Local [区域] {0}: {1}
