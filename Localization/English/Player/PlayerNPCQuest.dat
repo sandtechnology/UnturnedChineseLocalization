@@ -4,7 +4,7 @@ Rewards 奖励:
 Condition_Experience {0}/{1} 经验
 Condition_Reputation {0}/{1} 声望
 Condition_Item {0}/{1} {2}
-Condition_Currency {0} 元
+Condition_Currency {0}/{1} 元
 
 Condition_AnimalKills 击杀 {0}/{1} 只动物
 Condition_HordeKills 击退 {0}/{1} 波尸潮

@@ -1,0 +1,9 @@
+SelectedType_Label 选择的类型
+ActiveVisibility_Label 可见类型
+
+Visibility_Hidden 隐藏
+Visibility_Wireframe 线框
+Visibility_Solid 固态
+
+WantsUnderwaterEffects 启用水下效果
+WantsWaterSurface 水面是否可见

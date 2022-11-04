@@ -27,10 +27,10 @@ Maps_Workshop_Tooltip 从创意工坊下载的地图
 Maps_Misc 其它地图
 Maps_Misc_Tooltip 包含活动地图和测试地图
 
-Retired_View_Label 在Steam创意工坊上查看
+Retired_View_Label 详情
 Retired_View_Tooltip 在Steam创意工坊上查看这个地图。
 Retired_Manage_Sub 订阅
-Retired_Manage_Unsub 取消订阅
+Retired_Manage_Unsub 退订
 Retired_Manage_Tooltip 自动安装或卸载该地图。
 
 Manage_Workshop_Label 管理订阅物品

@@ -10,9 +10,9 @@ SpawnsButtonTooltip 游戏对象的刷新位置
 LevelButtonText 地图
 LevelButtonTooltip 游戏世界里的城市、树木的摆放
 
-Heights 样品 [{0}]
-Roads 截断 [{0}] 移动 [{1}]
+Heights 采样 [{0}]
+Roads 移动 [{0}]
 Navigation 移动 [{0}]
-Objects 选择 [{0}] 移动 [{1}] 建立 [{2}]
+Objects 选择 [{0}] 移动 [{1}] 建造 [{2}]
 Nodes 移动 [{0}]
 Visibility 切换 [F1-F8]

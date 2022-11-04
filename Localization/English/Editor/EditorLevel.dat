@@ -1,6 +1,8 @@
 ObjectsButtonText 物体
 ObjectsButtonTooltip 放置物体
 VisibilityButtonText 可见设定
-VisibilityButtonTooltip 优化编辑时的视觉
+VisibilityButtonTooltip 调整编辑时的可见物件
 PlayersButtonText 玩家
-PlayersButtonTooltip 玩家的刷新点
+PlayersButtonTooltip 确定玩家的出生点
+VolumesButtonText 区域
+VolumesButtonTooltip 定义3D地块/区域.
