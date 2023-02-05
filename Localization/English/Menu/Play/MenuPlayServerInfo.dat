@@ -26,9 +26,13 @@ GameMode 游戏模式： {0}
 
 Monetization_None 盈利性质: 非盈利
 Monetization_NonGameplay 盈利性质: 不影响游戏体验的盈利
-HostBan_MonetizationWarning 提醒：这个服务器违反了在2021年6月11日生效的盈利规则。点击这里以查看详细内容。
+Monetization_Monetized 盈利性质: 影响游戏体验的盈利
+HostBan_MonetizationWarning Warning: 警告：这个服务器触犯了自2021年6月11日生效的服务器盈利规则。请点击这里以了解更多信息。
 HostBan_WorkshopWarning 警告：这个服务器使用的创意工坊文件已被禁止。
+HostBan_QueryPingWarning 警告：这个服务器的游戏内的延迟比在服务器列表的显示得更高，在可能是在服务器列表使用了代理而导致的。 
+HostBan_IncorrectMonetizationTagWarning 警告：这个服务器的盈利性质设置存在问题， "None" 代表非盈利但接受捐赠的服务器，"NonGameplay" 代表服务器存在不影响游戏体验的服务器内购买。
 HostBan_Apology 来自游戏开发者的消息：很抱歉错误标记了你的服务器！我们将尽力做到最好以避免此类情况在未来再次发生。
+NotLoggedInMessage 该服务器无法从互联网进入，因为该服务器并未以游戏服务器登录密钥登录。请点击这里以了解更多信息。
 
 Yes 已启用
 No 已禁用
@@ -70,3 +74,5 @@ ServerOlderVersion_Label 服务器正在运行比客户端旧的版本，版本�
 ServerOlderVersion_Tooltip 无法加入服务器，服务器正在运行比客户端旧的版本，请通知服务器所有者更新服务器。
 ServerBlacklisted_Label 该服务器已被封禁。
 ServerBlacklisted_Tooltip 无法加入服务器，该服务器已被封禁。
+NotLoggedInBlock_Label 服务器尚未登录。
+NotLoggedInBlock_Tooltip 无法从互联网加入服务器，因为并未以游戏服务器登录密钥登录。

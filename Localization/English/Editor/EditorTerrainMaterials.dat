@@ -27,6 +27,7 @@ PreviewMethod_Weight 权重层
 PreviewMethod_Label 预览方式
 
 MaxPreviewSamples 最大预览取样数量
+HighlightHoles_Label 高亮坑洞
 
 SelectedAsset 已选择的资源 [{0}]
 OnlyUsedMaterials 只显示正在使用的资源

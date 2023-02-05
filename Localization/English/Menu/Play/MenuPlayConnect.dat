@@ -14,3 +14,8 @@ Pro_Server 你需要购买黄金DLC才能加入该服务器。
 Password 服务器需要密码。
 Full 服务器人数已满。
 Timed_Out 无法找到服务器。
+
+Address_Loopback_Label 本机
+Address_Loopback_Tooltip 这是连接到你电脑上的服务器地址。
+Address_LocalPrivate_Label 局域网
+Address_LocalPrivate_Tooltip 这是连接到局域网上的服务器地址。

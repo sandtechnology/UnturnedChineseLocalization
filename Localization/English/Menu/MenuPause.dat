@@ -4,8 +4,8 @@ Return_Button_Tooltip 返回
 Exit_Button 退出游戏
 Exit_Button_Tooltip 退出游戏
 
-Report_Button 提交BUG
-Report_Button_Tooltip 提交BUG
+Support_Label 问题支持
+Support_Tooltip 可以排除故障、查看常见问题，以及报告Bug等。
 
 Trello_Button Trello路线图
 Trello_Button_Tooltip 展望未来的开发计划！

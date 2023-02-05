@@ -2,6 +2,7 @@ Intent_Delete 你确定要删除 "{0}" 吗？
 Intent_Salvage 你确定要回收 "{0}" 吗？
 Intent_Tag_Tool 你确定要把 "{0}" 应用到 "{1}" 上吗？
 Warning 这是无法撤销的操作！
+Warning_UndoableWithTool 你可以在后续使用移除工具来移除它。
 Confirm 键入 "{0}" 以再次确认：
 Delete 确认删除
 Salvage 确认回收

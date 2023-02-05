@@ -20,20 +20,20 @@ Gun 你被{1} [{2}] 射中了{0}而死！
 Melee 你被{1} [{2}] 砍中了{0}而死！
 Zombie 你被僵尸咬死了！
 Animal 你被动物咬死了！
-Suicide 你亲手结束了自己的生命，真是个渣渣。
+Suicide 你亲手结束了自己的生命，祝下次好运！
 Kill OP使用[指令]技能杀了你！
 Infection 你因感染过重而死！
 Punch 你被{1} [{2}] 挥拳打中了{0}而死！
 Breath 你因窒息而死！
-Roadkill 你被{0} [{1}]撞死！
-Vehicle 你的载具被炸毁了！
-Grenade 你被炸死了！
+Roadkill 你被{0} [{1}]撞死了！
+Vehicle 你被载具炸死了！
+Grenade 你被{0} [{1}] 炸死了！
 Shred 你被铁丝刺成碎片了！
 Landmine 你被地雷炸死了！
 Arena 你被竞技场系统淘汰了！
-Missile 你被导弹炸死了！
-Charge 你被遥控炸弹炸死了！
-Splash 你被爆炸的子弹炸死了！
+Missile 你被{0} [{1}] 的导弹炸死了！
+Charge 你被{0} [{1}] 的遥控炸弹炸死了！
+Splash 你被{0} [{1}] 的爆炸子弹炸死了！
 Sentry 你被哨兵枪打死了！
 Acid 你被僵尸炸死了！
 Boulder 你被僵尸压碎了！

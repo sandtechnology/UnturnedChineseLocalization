@@ -19,10 +19,19 @@ Streamer_Toggle_Label Streamer模式
 Featured_Workshop_Toggle_Label 推荐创新创意工坊物品
 Show_Hotbar_Toggle_Label 显示快捷栏
 Pause_When_Unfocused_Label 当使用Alt+Tab切换窗口时自动暂停
-
+ScreenshotSizeMultiplier_Label 截图分辨率倍率
+ScreenshotSizeMultiplier_Tooltip 倍率越高，渲染时间更长。
+ScreenshotSupersampling_Label 启用截图超采样
+ScreenshotSupersampling_Tooltip 渲染截图时使用2倍超采样来避免锯齿。
+ScreenshotsWhileLoading_Label 在加载界面显示截图
+ScreenshotsWhileLoading_Tooltip 这会在游戏初始化页面使用你自己的截图。
 Matchmaking_Show_All_Maps_Toggle_Label 在快速匹配中显示所有地图
 Min_Matchmaking_Players_Field_Label 快速匹配下匹配服务器的最小玩家数
 Max_Matchmaking_Ping_Field_Label 快速匹配下匹配服务器的最大ping值
+
+UseStaticCrosshair_Label 启用自定义准星大小
+UseStaticCrosshair_Tooltip 使用自定义的准星大小，而不是自动从视野计算得到的大小。
+StaticCrosshairSize_Label 自定义准星大小
 
 Metric_On 公制
 Metric_Off 英制
