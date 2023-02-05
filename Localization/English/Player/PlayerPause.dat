@@ -32,7 +32,7 @@ VAC_Secure VAC安全
 VAC_Insecure VAC不安全
 BattlEye_Secure 需要BattlEye
 BattlEye_Insecure BattlEye已禁用
-Streamer Streamer（主播）模式
+Streamer 直播模式（匿名玩家）
 
 Favorite_On_Button_Text 收藏
 Favorite_Off_Button_Text 取消收藏

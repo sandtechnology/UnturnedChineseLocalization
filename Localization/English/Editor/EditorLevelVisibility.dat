@@ -7,6 +7,7 @@ Zombies_Label 僵尸 [F6]
 Vehicles_Label 载具 [F7]
 Border_Label 边界 [F8]
 Animals_Label 动物 [F9]
+Decals_Label 贴图
 
 Point （{0}, {1}）
 Objects {0} - {1}%

@@ -30,26 +30,46 @@ Kicked 你被踢出游戏，因为 {0}。
 Whitelisted 你不在该服务器的白名单里。
 Password 你输入的密码有误。
 Full 服务器及排队队列已满。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12230991951124
 Hash_Level 这个服务器正在使用修改过的地图。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233096287124
 Hash_Assembly 这个服务器正在使用修改过的代码。
+
 Version 你的版本不同于服务器的版本，当前客户端版本：{1} 服务器版本：{0}
 Pro_Server 你需要购买黄金DLC来进入该服务器。
 Pro_Character 请选择一个有效的角色。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12112937823764
 Pro_Desync 您的客户端和服务器无法验证你是否有黄金DLC。
+
 Pro_Appearance 请在角色页面中选择一个有效的脸，头发、胡须、肤色和头发颜色。
 Auth_Verification 身份标签验证失败。[重启Steam]
 Auth_No_Steam 你没有连接到Steam上！
 Auth_License_Expired 您的身份验证标签过期了。[重启Steam]
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12237672383892
 Auth_VAC_Ban 你已被VAC反作弊系统封禁，无法连接受VAC保护的服务器。
+
 Auth_Elsewhere 你正在另外一个服务器游戏。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233657269140
 Auth_Timed_Out Steam反作弊服务器没有响应。
+
 Auth_Used 您的身份标签已经被使用了。
 Auth_No_User 你没有连接到一个Steam帐户。
-Auth_Pub_Ban 你被禁止玩多人游戏。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233962470548
+Auth_Pub_Ban 你已被禁止进入多人游戏。
+
 Auth_Econ_Serialize 你的经济标签未能序列化。
 Auth_Econ_Deserialize 你的经济标签未能反序列化。
 Auth_Econ_Verify 你的经济标签验证失败。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12238777357716
 Auth_Empty Steam认证服务器没有响应。 
+
 Already_Connected 你已经连接到该服务器。
 Already_Pending 你已经进入了该服务器的队列。
 Late_Pending 你在队列中的位置已经丢失了。
@@ -62,8 +82,16 @@ Name_Character_Short 你的角色名字太短了。
 Name_Character_Long 你的角色名字太长了。
 Name_Character_Invalid 你的角色名包含无效字符。
 Name_Character_Number 你的角色名不能全是数字。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12236562526228
 Timed_Out 与服务器丢失连接。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12236323445396
+Timed_Out_Login 在完成排队后服务器并没有响应进入服务器的请求，这可能是服务器或插件Bug，或网络原因导致。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12230327880980
 Map 该服务器正在运行一张你没有的地图。
+
 Shutdown 服务器已被关闭！
 Shutdown_Reason 服务器因 {0} 而被关闭。
 PingV2 服务器拒绝连接，因为计算得到的延迟（{0} 毫秒）超过了服务器限制的 {1} 毫秒。
@@ -74,19 +102,36 @@ Structure 你没有该服务器正在使用的自定义建筑资源文件 ({0})�
 Vehicle 你没有该服务器正在使用的自定义载具资源文件  ({0})。
 Client_Module_Desync 服务器没有你正在使用的自定义模块文件。
 Server_Module_Desync 你没有服务器正在使用的自定义模块文件。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12113364891796
 BattlEye_Broken BattlEye防作弊: 服务不能正常运行，请用启动器（steam）重新开启游戏，如果你已卸载BattlEye或跳过安装步骤，那么你可以通过运行在游戏目录的BattlEye文件夹下的Install_BattlEye.bat脚本来重新安装它。
+# https://support.smartlydressedgames.com/hc/en-us/articles/12113364891796
 BattlEye_Update BattlEye防作弊: 服务需要更新，请用启动器（steam）重新开启游戏。
+# https://support.smartlydressedgames.com/hc/en-us/articles/12113364891796
 BattlEye_Unknown BattlEye防作弊: 未知的请求，请用启动器（steam）重新开启游戏。
+
 Level_Version 地图 {1} 版本不匹配：客户端版本： {2} 服务端版本: {0}
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12235019853844
 Econ_Hash 该服务器正在使用的库存版本与你的客户端不同。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12235744541588
 Master_Bundle_Hash 内置资源文件错误： {0}
+
 Failure_Unknown 未知错误：{0} 原因：{1}
 Reject_Unknown 因未知原因而被拒绝进入：{0}
 Workshop_Download_Restriction 服务器对创意工坊物品 {0} 的使用没有被其创作者允许。
 Workshop_Advertisement_Mismatch 服务器配置错误：服务器本不需要创意工坊物品，却请求下载创意工坊物品。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12234373472660
 Late_Pending_Steam_Auth 游戏服务器没有收到Steam验证服务器的回应。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12234695640596
 Late_Pending_Steam_Econ 游戏服务器没有收到Steam经济服务器的回应。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233488033172
 Late_Pending_Steam_Groups 游戏服务器没有收到Steam群组服务器的回应。
+
 Name_Private_Long 你的好友备注太长了。
 Name_Private_Invalid 你的好友备注存在无效字符。
 Name_Private_Number 你的好友备注不能全是数字。
@@ -110,7 +155,10 @@ SteamNetworkingSockets_EndReason_Remote_BadCert 无法信任主机的加密证�
 SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion 主机正在使用其他的Stean网络协议。
 SteamNetworkingSockets_EndReason_Remote_Unknown 未知远端连接错误： {0}
 SteamNetworkingSockets_EndReason_Misc_InternalError Steam网络出现了内部错误。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12174787513236
 SteamNetworkingSockets_EndReason_Misc_Timeout 与主机或Steam网络丢失连接。
+
 SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam网络连接不稳定。
 SteamNetworkingSockets_EndReason_Misc_Unknown 未知的其他连接错误： {0}
 SteamNetworkingSockets_EndReason_Unknown 连接因未知原因终止： {0}
@@ -123,6 +171,7 @@ BattlEye_Header 警告：BattlEye已禁用
 BattlEye_Body BattlEye防作弊未启用，你将不能加入受BattlEye保护的服务器。如果你卸载了它或者跳过了它的安装程序，那你可以通过运行在游戏根目录BattlEye文件夹下的Install_BattlEye.bat脚本的方式来重新安装它。
 
 UpdateAvailable 新版本 {0} 已发布！如果你开启了自动更新，那么更新将会在关闭游戏后自动应用。
+RollbackAvailable 很抱歉为您带来不便, 游戏检测到存在回滚到版本 {0} 的通知，这一般是因为我们需要一些时间来修复破坏游戏机制的Bug而导致的。<br>如果你开启了自动更新，那么回滚将会在关闭游戏后自动应用。再次表示抱歉 - 我们将积极采取预防措施以避免此类情况在未来再次发生！
 
 Overlay 请启用 Steam 内嵌介面[用Steam启动游戏]
 Dismiss_Notification_Label 确认

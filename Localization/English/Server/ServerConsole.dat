@@ -75,8 +75,11 @@ Shutdown 即将在 {0} 秒后关闭
 ScheduledMaintenance_KickExplanation 服务器维护中
 ScheduledMaintenance_Timer 即将在 {0} 秒后维护
 
-UpdateShutdown_KickExplanation 正在更新至 {0}
-UpdateShutdown_Timer 将在 {1} 秒后关闭并更新到 {0}
+UpdateShutdown_KickExplanation 正在更新游戏版本至 {0}
+RollbackShutdown_KickExplanation 正在回滚游戏版本到 {0}
+UpdateShutdown_Timer 将在 {1} 秒后关闭并更新游戏版本到 {0}
+RollbackShutdown_Timer 将在 {1} 秒后关闭并回滚游戏版本到 {0}
+
 
 HUD_FPS FPS：{0}/s
 HUD_Ping {0} 毫秒

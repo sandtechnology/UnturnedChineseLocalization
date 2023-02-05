@@ -24,4 +24,9 @@ ScaleButtonTooltip 规模
 
 CoordinateButtonTextGlobal 整张地图
 CoordinateButtonTextLocal 选中的物体
-CoordinateButtonTooltip 参考坐标系
+CoordinateButtonTooltip 设置使用的参考坐标系
+
+MaterialPaletteOverride_Label 预设材质 GUID
+MaterialPaletteOverride_Tooltip 覆盖资源默认的预设材质
+MaterialIndexOverride_Label 材质索引（Index）
+MaterialIndexOverride_Tooltip 将需要的索引覆盖到预设材质上
