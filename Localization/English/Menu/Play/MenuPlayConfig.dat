@@ -205,3 +205,6 @@ Allow_Item_Placement_On_Vehicle 允许在载具上放置物品
 Allow_Trap_Placement_On_Vehicle 允许在载具上放置陷阱
 Max_Item_Distance_From_Hull 在载具放置物品的最远允许距离
 Max_Trap_Distance_From_Hull 在载具放置陷阱的最远允许距离
+
+ThirdPerson_RecoilMultiplier 第三人称后坐力倍数
+ThirdPerson_SpreadMultiplier 第三人称子弹散射倍数

@@ -9,36 +9,19 @@ Loading_Level_Play 正在 {2} [{3}] 上加载版本号为 v{1} 的地图 {0}...
 Loading_Level_Edit 正在加载地图 {0}...
 
 Loading 正在加载...
-Loading_Clean 清理临时文件...
-Loading_Blueprints 连接蓝图数据库...
-Loading_Spawns 连接生成表数据库...
+Loading_Blueprints 组建蓝图...
+Loading_Spawns 组建生成表...
 Loading_Misc 加载其他文件...
-Assets_Scan 在 {0} 中找到了 {1} 个资源文件
-Assets_Load 正在预载 {0} 的资源文件: {1}/{2}
-Master_Bundle_Progress 正在挂载资源 {0}: {1}%
-Master_Bundle_Progress_Hash 正在建立 {0} 的Hash索引，已完成 {1}%
+Loading_MainMenu 加载主界面...
+Loading_Asset_Bundles 加载资源文件包...({0}/{1})
+Loading_Search 寻找资源文件中...(已处理 {0}/{1} 个目录，共找到 {2} 个文件)
+Loading_Read 加载资源文件到内存中...({0}/{1})
+Loading_Asset_Definitions 加载资源文件...({0}/{1})
 Download_Progress 正在下载 {0}...
 Level_Load 正在加载地图： {0}%
 Queue_Position 排队中……你当前的位置是 #{0}
 Queue_Cancel 取消
 Queue_Cancel_Tooltip 离开队列
-
-Asset 全局
-Item 物品
-Effect 效果
-Object 物体
-Resource 材质
-Vehicle 载具
-Animal 动物
-Mythic 特效
-Skin 皮肤
-Spawn 生成表
-Map 地图
-Workshop_Shared 分享创意工坊
-Workshop_Server 服务器创意工坊
-Workshop_Client 客户端创意工坊
-Bundles_Server 服务器
-NPC NPC
 
 Creators 创作者：
 Collaborators 协作者：

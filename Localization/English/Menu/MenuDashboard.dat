@@ -76,11 +76,17 @@ Late_Pending 你在队列中的位置已经丢失了。
 Not_Pending 你没有正在该服务器游玩。
 Name_Player_Short 你的Steam用户名太短了。
 Name_Player_Long 你的Steam用户名太长了。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/13452208765716
 Name_Player_Invalid 你的Steam用户名包含无效字符。
+
 Name_Player_Number 你的Steam用户名不能全是数字。
 Name_Character_Short 你的角色名字太短了。
 Name_Character_Long 你的角色名字太长了。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/13452208765716
 Name_Character_Invalid 你的角色名包含无效字符。
+
 Name_Character_Number 你的角色名不能全是数字。
 
 # https://support.smartlydressedgames.com/hc/en-us/articles/12236562526228
@@ -133,7 +139,10 @@ Late_Pending_Steam_Econ 游戏服务器没有收到Steam经济服务器的回应
 Late_Pending_Steam_Groups 游戏服务器没有收到Steam群组服务器的回应。
 
 Name_Private_Long 你的好友备注太长了。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/13452208765716
 Name_Private_Invalid 你的好友备注存在无效字符。
+
 Name_Private_Number 你的好友备注不能全是数字。
 
 SteamNetworkingSockets_Unavailable_CannotTry 无法初始化Steam网络验证。

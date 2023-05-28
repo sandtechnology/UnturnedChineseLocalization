@@ -29,5 +29,5 @@ Seat 你可以在载具时通过按[F1-F12]来切换你的座位。
 Rarity 物品的品质从最好到最平凡的是：<color=legendary>传奇</color> -> <color=epic>史诗</color> -> <color=rare>罕见</color> -> <color=uncommon>少见</color> -> <color=common>普通</color>
 Orientation 你可以在背包中通过右击物品再按[{0}]来旋转该物品。
 Red 你爆头的标记颜色设置也会影响瞄准器的发光颜色。
-Steady 在瞄准时你可以通过按住[{0}]来开始屏息。记得估计子弹的下落距离和它的行程时间！
+Steady 在瞄准时你可以通过按住[{0}]来开始屏息。记得考虑子弹的下坠影响和它的行程时间！
 Streamer 您可以通过修改StreamerNames.json文件来自定义Streamer（主播）模式中使用的名称。也许那里应该有观众/订阅者的名字！

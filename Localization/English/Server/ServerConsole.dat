@@ -80,7 +80,6 @@ RollbackShutdown_KickExplanation 正在回滚游戏版本到 {0}
 UpdateShutdown_Timer 将在 {1} 秒后关闭并更新游戏版本到 {0}
 RollbackShutdown_Timer 将在 {1} 秒后关闭并回滚游戏版本到 {0}
 
-
 HUD_FPS FPS：{0}/s
 HUD_Ping {0} 毫秒
 HUD_DC 服务器在 {0} 秒内未响应，即将在 {1} 秒后自动断开

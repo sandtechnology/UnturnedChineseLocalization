@@ -23,6 +23,7 @@ Security 安全: {0}
 Mode 难度: {0}
 Cheats 作弊指令: {0}
 GameMode 游戏模式： {0}
+QueryPing Ping: {0} 毫秒
 
 Monetization_None 盈利性质: 非盈利
 Monetization_NonGameplay 盈利性质: 不影响游戏体验的盈利
@@ -31,6 +32,7 @@ HostBan_MonetizationWarning Warning: 警告：这个服务器触犯了自2021年
 HostBan_WorkshopWarning 警告：这个服务器使用的创意工坊文件已被禁止。
 HostBan_QueryPingWarning 警告：这个服务器的游戏内的延迟比在服务器列表的显示得更高，在可能是在服务器列表使用了代理而导致的。 
 HostBan_IncorrectMonetizationTagWarning 警告：这个服务器的盈利性质设置存在问题， "None" 代表非盈利但接受捐赠的服务器，"NonGameplay" 代表服务器存在不影响游戏体验的服务器内购买。
+HostBan_HostingProvider 这个警告可能是对服务器托管商发出的，并不针对某个服务器。比如说服务器托管商允许多次改变端口以逃脱封禁服务器的处罚，这种情况下服务器托管商就有可能被警告。
 HostBan_Apology 来自游戏开发者的消息：很抱歉错误标记了你的服务器！我们将尽力做到最好以避免此类情况在未来再次发生。
 NotLoggedInMessage 该服务器无法从互联网进入，因为该服务器并未以游戏服务器登录密钥登录。请点击这里以了解更多信息。
 
