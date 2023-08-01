@@ -58,8 +58,6 @@ Scope_Button_Label 瞄准镜视野质量
 Scope_Button_Tooltip 调整双渲染范围（远处和近处）的分辨率
 Outline_Button_Label 轮廓质量
 Outline_Button_Tooltip 调整突出材质的分辨率和模糊效果
-Bone_Button_Label 动画质量
-Bone_Button_Tooltip 调整每个顶点影响的模型骨骼
 Terrain_Button_Label 地形质量
 Terrain_Button_Tooltip 调整地形的几何分辨率
 Wind_Button_Label 风的质量
@@ -78,10 +76,6 @@ Planar_Reflection_Low {0}: 只有地形
 Planar_Reflection_Medium {0}: 包含天空、树木、建筑物、大型物体
 Planar_Reflection_High {0}: 包含载具、障碍物、中型物体
 Planar_Reflection_Ultra {0}: 包含玩家、AI、效果
-
-Bone_Influences_Medium {0}: 1
-Bone_Influences_High {0}: 2
-Bone_Influences_Ultra {0}: 4
 
 Wind_Low {0}: 简化的风
 Wind_Medium {0}+: SpeedTrees模型的分层风

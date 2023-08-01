@@ -41,19 +41,23 @@ CrosshairShape_Label 准星样式
 
 Metric_On 公制
 Metric_Off 英制
-Metric_Tooltip 点击按钮来改变测量单位
+Metric_Tooltip 可改变速度和距离显示
+Metric_Label 量程系统
 
 Talk_On 开启
 Talk_Off 关闭
-Talk_Tooltip NPC聊天文本动画
+Talk_Tooltip NPC聊天窗口时是否有文本停顿和渐进
+Talk_Label NPC聊天文本动画
 
-UI_Free 白色界面
-UI_Pro 黑色界面
-UI_Tooltip 切换界面颜色
+UI_Free 日间
+UI_Pro 夜间
+UI_Tooltip 日间主题在使用黄金升级带来的界面颜色选项时更有用
+UI_Label 界面主题
 
 Hitmarker_Static 静态命中标记
 Hitmarker_Dynamic 动态命中标记
-Hitmarker_Tooltip 选择停留的命中标记模式
+Hitmarker_Tooltip 静态命中标记的标记只会在屏幕中间显示，而动态命中标记则会动态显示击中点
+Hitmarker_Label 选择停留的命中标记模式
 HitmarkerStyle_Animated 动态
 HitmarkerStyle_Classic 经典
 HitmarkerStyle_Label 选择命中反馈样式

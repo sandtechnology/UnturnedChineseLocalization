@@ -172,6 +172,9 @@ SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steam网络连接不稳�
 SteamNetworkingSockets_EndReason_Misc_Unknown 未知的其他连接错误： {0}
 SteamNetworkingSockets_EndReason_Unknown 连接因未知原因终止： {0}
 
+InternetMultiplayerUnavailable_NoWebRequests 互联网多人游戏在 -NoWebRequests 启动参数启用时不可用，抱歉！
+InternetMultiplayerUnavailable_NoConnection 抱歉，因无法得知服务器中介状态，无法启动互联网多人游戏，请稍后再试。
+
 Pro_Title 永久的黄金DLC升级 
 Pro_Button 升级到黄金DLC账户可以获得额外的角色定制选项、进入黄金DLC服务器的机会以及更多的角色槽！更多可用功能可以在商店的页面查看。
 Pro_Button_Tooltip 点击这里查看商店的页面。
